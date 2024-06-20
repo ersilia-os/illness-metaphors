@@ -1,46 +1,28 @@
 import os
-import dotenv
-import logging
 import json
 from openai import OpenAI
 
-logger = logging.getLogger(__name__)
 
-default_dotenv_file = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "..", "..")
-)
-dotenv.load_dotenv(default_dotenv_file + "/.env")
+LOREM_IPSUM = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-LOREM_IPSUM = "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-
-
-class BaseAgent(object):
-    def __init__(
-        self,
-        disease_name,
-        results_path=None,
-        model_name="gpt-3.5-turbo",
-        openai_api_key=None,
-    ):
+class BaseImagePromptDesigner(object):
+    def __init__(self, disease_name, results_path=None):
         self.disease_name = disease_name
+        self.disease_base_name = self.disease_name.replace(" ", "_").lower()
         if results_path is None:
             results_path = os.path.abspath(
                 os.path.join(os.path.dirname(__file__), "..", "..", "results")
             )
-        if openai_api_key is not None:
-            self.openai_api_key = openai_api_key
-        else:
-            self.openai_api_key = os.getenv("OPENAI_API_KEY")
-        self.logger = logger
-        self.model_name = model_name
-        self.logger.info(f"Using model {self.model_name}")
-        self.disease_base_name = self.disease_name.replace(" ", "_").lower()
+        self.results_path = os.path.abspath(results_path)
         self.json_file = os.path.join(
-            results_path, "info",  "json", f"{self.disease_base_name}.json"
+            self.results_path, "prompts", "json", f"{self.disease_base_name}.json"
         )
         self.markdown_file = os.path.join(
-            results_path, "info", "markdown", f"{self.disease_base_name}.md"
+            self.results_path, "prompts", "markdown", f"{self.disease_base_name}.md"
+        )
+        self.info_json_file = os.path.join(
+            self.results_path, "info", "json", f"{self.disease_base_name}.json"
         )
 
     def get_request_if_done(self, agent_name, request_name):
@@ -61,6 +43,13 @@ class BaseAgent(object):
             if content[0] == LOREM_IPSUM:
                 return None
         return data[request_name]
+    
+    def read_info_json(self):
+        if not os.path.exists(self.info_json_file):
+            return {}
+        with open(self.info_json_file) as f:
+            data = json.load(f)
+        return data
 
     def read_json(self):
         if not os.path.exists(self.json_file):
@@ -76,23 +65,18 @@ class BaseAgent(object):
             json.dump(all_data, f, indent=4)
 
 
-class ParagraphRequest(object):
+class ImagePromptDesignRequest(object):
     def __init__(self, model_name, openai_api_key):
         self.model_name = model_name
         self.openai_api_key = openai_api_key
 
-    def generate_respone(
-        self, system_prompt, user_prompt, assistant_prompt=None, word_count=200
+    def generate_bulk_text(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=400
     ):
         client = OpenAI(api_key=self.openai_api_key)
         system_prompt = system_prompt.strip().replace("\n", " ").replace("    ", " ")
-        if word_count <= 10:
-            self.logger.info(
-                "Word count is not larger than 10, I assume you want an enumeration"
-            )
-            system_prompt += f"\nYou should just provide {word_count} words, separated by a comma, that best describe your answer."
-        else:
-            system_prompt += f"\nYou should provide a paragraph of about {word_count} words that best describes your answer. Do not truncate the last sentence. Provide one and only one paragraph."
+        system_prompt += f"\nYou should provide a paragraph of about {word_count} words. Do not truncate the last sentence. Provide one and only one paragraph."
+        system_prompt += "\nAvoid using content that aligns will DALL-E's, Midjourney's, StableDiffusion's and Adobe Firefly's content policy. Avoid censorship."
         messages = [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
@@ -109,3 +93,4 @@ class ParagraphRequest(object):
             max_tokens=word_count * 2,
         )
         return response.choices[0].message.content
+        
