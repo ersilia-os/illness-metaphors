@@ -100,7 +100,11 @@ In the Western world, schistosomiasis has often been portrayed as a disease of t
 - A deep shade of royal blue, with intertwining streaks of rusty brown and olive green symbolizing the aquatic origins and blood-related symptoms of schistosomiasis.
 - A murky combination of dark green, muddy brown, and rusty red, symbolizing the parasite's life cycle in contaminated water and host tissues.
 
-### Style
+### As textures
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- A rough, bumpy texture, as if tiny grains of sand were embedded in the skin.
+- A slimy, slippery texture, reminiscent of damp moss growing on a pond's surface.
+- Rough, grainy, and abrasive, with a slimy residue that leaves a lingering sensation on the skin.
+- The gritty, sandy texture of fine particles carried by water, creating a sense of roughness and discomfort on the skin.
+- A slimy, slippery texture that clings tenaciously, leaving an uncomfortable residue behind wherever it spreads.
 
