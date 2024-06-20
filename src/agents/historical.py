@@ -60,9 +60,9 @@ class HistoricalAgent(BaseAgent):
 
     def _recent_years(self):
         name = "recent_years"
-        #request = self.get_request_if_done(self.agent_name, name)
-        #if request is not None:
-        #    return {"name": name, "content": request}
+        request = self.get_request_if_done(self.agent_name, name)
+        if request is not None:
+            return {"name": name, "content": request}
         system_prompt = """
         I want you to describe the developments related to a given disease in modern days. You need to use reputable sources such as encyclopedias, academic journals, and books.
         Your description should include details on the current status of the disease in global health, the scientific advances, the public health measures, and the current impact on society.
