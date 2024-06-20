@@ -38,7 +38,7 @@ class MedicalAgent(BaseAgent):
         Your description should be concise and include details on how the symptoms impair patients, what are their main effect, both physical and societal.
         Do not start describing the disease or the parasite. Start directly with the symptoms.
         """
-        user_prompt = f"Describe the following disease: {self.disease_base_name}."
+        user_prompt = f"Describe the symptoms of the following disease: {self.disease_base_name}."
         assistant_prompt = None
         response = ParagraphRequest(
             self.model_name, self.openai_api_key
@@ -53,9 +53,22 @@ class MedicalAgent(BaseAgent):
     def _describe_treatment(self):
         name = "treatment"
         system_prompt = """
-        I want you to give me a description of the treatment available for a given disease.
+        I want you to give me a description of the treatment available for a given disease. You need to use reputable sources as much as possible, for example, the WHO or the pharmacopeia.
+        Your description should be concise and include details on the treatment, the drugs used, the duration, the side effects, and the success rate.
+        Also, include information on the availability of the treatment, the cost, and the access to it.
+        Do not start describing the disease or the parasite. Start directly with the treatment.
         """
-        return {"name": name, "content": LOREM_IPSUM}
+        user_prompt = f"Describe the treatment for the following disease: {self.disease_base_name}."
+        assistant_prompt = None
+        response = ParagraphRequest(
+            self.model_name, self.openai_api_key
+        ).generate_respone(
+            system_prompt,
+            user_prompt,
+            assistant_prompt=assistant_prompt,
+            word_count=100,
+        )
+        return {"name": name, "content": response}
 
     def run(self):
         results = collections.OrderedDict()
