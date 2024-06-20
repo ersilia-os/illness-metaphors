@@ -10,3 +10,7 @@ OPENAI_API_KEY="..."
 
 ```bash
 pip install requirement 
+
+```
+## About 
+This project was developed by the [Ersilia Open Source Initiative](https://ersilia.io) in the context of an AI Residency at [Konvent]().
