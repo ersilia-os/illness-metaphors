@@ -120,7 +120,7 @@ class ParagraphRequest(object):
             )
             system_prompt += f"\nYou should just provide {word_count} words, separated by a comma, that best describe your answer."
         else:
-            system_prompt += f"\nYou should provide a paragraph of {word_count} words that best describes your answer."
+            system_prompt += f"\nYou should provide a paragraph of about {word_count} words that best describes your answer. Do not truncate the last sentence. Provide one and only one paragraph."
         messages = [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},

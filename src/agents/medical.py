@@ -33,6 +33,9 @@ class MedicalAgent(BaseAgent):
 
     def _describe_symptoms(self):
         name = "symptoms"
+        request = self.get_request_if_done(self.agent_name, name)
+        if request is not None:
+            return {"name": name, "content": request}
         system_prompt = """
         I want you to give me a description of the symptoms of a given disease. You need to use reputable sources as much as possible, for example, the WHO.
         Your description should be concise and include details on how the symptoms impair patients, what are their main effect, both physical and societal.
@@ -52,6 +55,9 @@ class MedicalAgent(BaseAgent):
 
     def _describe_treatment(self):
         name = "treatment"
+        request = self.get_request_if_done(self.agent_name, name)
+        if request is not None:
+            return {"name": name, "content": request}
         system_prompt = """
         I want you to give me a description of the treatment available for a given disease. You need to use reputable sources as much as possible, for example, the WHO or the pharmacopeia.
         Your description should be concise and include details on the treatment, the drugs used, the duration, the side effects, and the success rate.
