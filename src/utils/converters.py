@@ -71,12 +71,6 @@ class ImagePromptsJson2Markdown(object):
     def _layout(data):
         if type(data) is str:
             return data.replace("\n", "").strip("\n")
-        if type(data) is list:
-            text = ""
-            for d in data:
-                text += "- {0}\n".format(d)
-            text = text.rstrip("\n")
-            return text
 
     def convert(self):
         with open(self.json_file, "r") as f:
@@ -84,4 +78,4 @@ class ImagePromptsJson2Markdown(object):
         with open(self.markdown_file, "w") as f:
             f.write(f"# {self._prettify(self.disease_name)}\n\n")
             for _, request_data in data.items():
-                f.write(f"- {self._layout(request_data)}\n")
+                f.write(f"1. {self._layout(request_data)}\n")
