@@ -45,7 +45,6 @@ class LiteraryAgent(BaseAgent):
         return {"name": name, "content": descriptions}
 
     def __get_quote_about_the_disease_in_books(self):
-        #return LOREM_IPSUM + '" - ABC by CDE.'
         system_prompt = """
         I am looking for quotes about a certain disease in literary books, including novels, plays, poems, and chronicles.
         Ideally, books that are well known and have as topics issues such as colonialism, imperialism, and the human condition.

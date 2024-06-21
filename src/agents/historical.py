@@ -10,6 +10,29 @@ class HistoricalAgent(BaseAgent):
         BaseAgent.__init__(self, disease_name, file_name, model_name, openai_api_key)
         self.agent_name = "history"
 
+    def _precolonial(self):
+        name = "precolonial_knowledge"
+        request = self.get_request_if_done(self.agent_name, name)
+        if request is not None:
+            return {"name": name, "content": request}
+        system_prompt = """
+        I want you to describe the pre-colonial knowledge of a given disease. You need to use reputable sources such as encyclopedias, academic journals, and books.
+        Your description should include details on the traditional understanding of the disease, the symptoms, the treatments, and the impact on the local population.
+        You can also include information on the cultural beliefs, the traditional healers, and the role of the disease in the society.
+        If relevant, provide details on the historical accounts of the disease in ancient texts, folklore, or oral traditions.
+        """
+        user_prompt = f"Describe the pre-colonial knowledge of the disease: {self.disease_base_name}."
+        assistant_prompt = None
+        response = ParagraphRequest(
+            self.model_name, self.openai_api_key
+        ).generate_respone(
+            system_prompt,
+            user_prompt,
+            assistant_prompt=assistant_prompt,
+            word_count=200,
+        )
+        return {"name": name, "content": response}
+
     def _colonialism(self):
         name = "relation_to_colonialism"
         request = self.get_request_if_done(self.agent_name, name)
@@ -82,10 +105,12 @@ class HistoricalAgent(BaseAgent):
 
     def run(self):
         results = collections.OrderedDict()
+        precolonial = self._precolonial()
         colonialism = self._colonialism()
         discovery = self._discovery()
         recent_years = self._recent_years()
         results = {
+            precolonial["name"]: precolonial["content"],
             colonialism["name"]: colonialism["content"],
             discovery["name"]: discovery["content"],
             recent_years["name"]: recent_years["content"],

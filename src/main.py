@@ -5,7 +5,9 @@ from agents.historical import HistoricalAgent
 from agents.social import SocialAgent
 from agents.literary import LiteraryAgent
 from agents.artist import ArtistAgent
-from utils.converters import Json2Markdown
+from image_prompt_design.from_info import ImageDescriptionFromInfo
+from utils.converters import InfoJson2Markdown, ImagePromptsJson2Markdown
+from utils.book import PrepareGitBook
 
 
 class Pipeline(object):
@@ -13,14 +15,26 @@ class Pipeline(object):
         self.disease_name = disease_name
         self.results_dir = results_dir
 
-    def run(self):
+    def _agents(self):
         MedicalAgent(self.disease_name, self.results_dir).run()
         BiologyAgent(self.disease_name, self.results_dir).run()
         HistoricalAgent(self.disease_name, self.results_dir).run()
         SocialAgent(self.disease_name, self.results_dir).run()
         LiteraryAgent(self.disease_name, self.results_dir).run()
         ArtistAgent(self.disease_name, self.results_dir).run()
-        Json2Markdown(self.disease_name, self.results_dir).convert()
+        InfoJson2Markdown(self.disease_name, self.results_dir).convert()
+
+    def _image_prompts(self):
+        ImageDescriptionFromInfo(self.disease_name, self.results_dir).run()
+        ImagePromptsJson2Markdown(self.disease_name, self.results_dir).convert()
+
+    def _prepare_gitbook(self):
+        PrepareGitBook(self.results_dir).run()
+
+    def run(self):
+        self._agents()
+        self._image_prompts()
+        self._prepare_gitbook()
 
 
 def main():
