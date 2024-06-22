@@ -37,7 +37,7 @@ class BaseAgent(object):
         self.logger.info(f"Using model {self.model_name}")
         self.disease_base_name = self.disease_name.replace(" ", "_").lower()
         self.json_file = os.path.join(
-            results_path, "info",  "json", f"{self.disease_base_name}.json"
+            results_path, "info", "json", f"{self.disease_base_name}.json"
         )
         self.markdown_file = os.path.join(
             results_path, "info", "markdown", f"{self.disease_base_name}.md"

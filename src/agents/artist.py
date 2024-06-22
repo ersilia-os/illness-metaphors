@@ -33,7 +33,7 @@ class ArtistAgent(BaseAgent):
         if not response.endswith("."):
             return None
         return response
-    
+
     def _disease_as_landscape(self):
         name = "as_landscape"
         request = self.get_request_if_done(self.agent_name, name)
@@ -47,7 +47,7 @@ class ArtistAgent(BaseAgent):
             if len(sentences) == 5:
                 break
         return {"name": name, "content": sentences}
-    
+
     def __pathogen_as_shape(self):
         system_prompt = """
         I want you to describe a pathogen as a shape.
@@ -109,7 +109,7 @@ class ArtistAgent(BaseAgent):
         if not response.endswith("."):
             return None
         return response
-        
+
     def _disease_as_colors(self):
         name = "as_colors"
         request = self.get_request_if_done(self.agent_name, name)

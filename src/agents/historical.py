@@ -69,7 +69,9 @@ class HistoricalAgent(BaseAgent):
         If the initial accounts are from ancient history, you should definitely mention them, but focus on the modern discovery of the disease.
         If relevant, make connections to colonialism, globalization, or other historical events that influenced the discovery.
         """
-        user_prompt = f"Describe the discovery of the disease: {self.disease_base_name}."
+        user_prompt = (
+            f"Describe the discovery of the disease: {self.disease_base_name}."
+        )
         assistant_prompt = None
         response = ParagraphRequest(
             self.model_name, self.openai_api_key

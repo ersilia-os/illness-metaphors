@@ -76,6 +76,11 @@ class ImagePromptsJson2Markdown(object):
         with open(self.json_file, "r") as f:
             data = json.load(f)
         with open(self.markdown_file, "w") as f:
-            f.write(f"# {self._prettify(self.disease_name)}\n\n")
-            for _, request_data in data.items():
-                f.write(f"1. {self._layout(request_data)}\n")
+            f.write(
+                f"# Prompts for text-to-image generation related to {self._prettify(self.disease_name)}\n\n"
+            )
+            for agent_name, request_data in data.items():
+                f.write(f"## {self._prettify(agent_name)}\n\n")
+                for _, data in request_data.items():
+                    f.write(f"1. {self._layout(data)}\n")
+                f.write("\n")

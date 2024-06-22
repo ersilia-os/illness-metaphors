@@ -14,7 +14,7 @@ class PrepareGitBook(object):
         self.book_dir = book_dir
         self.summary_file = os.path.join(book_dir, "SUMMARY.md")
         self.readme_file = os.path.join(book_dir, "README.md")
-    
+
     @staticmethod
     def _prettify(text):
         text = text.replace("_", " ")
@@ -24,14 +24,22 @@ class PrepareGitBook(object):
     def _write_summary(self):
         info_files = {}
         for fn in os.listdir(os.path.join(self.results_dir, "info", "markdown")):
-            shutil.copyfile(os.path.join(self.results_dir, "info", "markdown", fn), os.path.join(self.book_dir, "info", fn))
+            shutil.copyfile(
+                os.path.join(self.results_dir, "info", "markdown", fn),
+                os.path.join(self.book_dir, "info", fn),
+            )
             if fn.endswith(".md"):
                 info_files[fn.split(".md")[0]] = os.path.join(self.book_dir, "info", fn)
         prompt_files = {}
         for fn in os.listdir(os.path.join(self.results_dir, "prompts", "markdown")):
-            shutil.copyfile(os.path.join(self.results_dir, "prompts", "markdown", fn), os.path.join(self.book_dir, "prompts", fn))
+            shutil.copyfile(
+                os.path.join(self.results_dir, "prompts", "markdown", fn),
+                os.path.join(self.book_dir, "prompts", fn),
+            )
             if fn.endswith(".md"):
-                prompt_files[fn.split(".md")[0]] = os.path.join(self.results_dir, "prompts", "markdown", fn)
+                prompt_files[fn.split(".md")[0]] = os.path.join(
+                    self.results_dir, "prompts", "markdown", fn
+                )
         keys = sorted(info_files.keys())
         with open(self.summary_file, "w") as f:
             f.write("# Summary\n\n")
@@ -42,4 +50,3 @@ class PrepareGitBook(object):
 
     def run(self):
         self._write_summary()
-    

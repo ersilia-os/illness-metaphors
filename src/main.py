@@ -5,7 +5,10 @@ from agents.historical import HistoricalAgent
 from agents.social import SocialAgent
 from agents.literary import LiteraryAgent
 from agents.artist import ArtistAgent
-from image_prompt_design.from_info import ImageDescriptionFromInfo
+from image_prompt_design.from_info import (
+    ImageDescriptionFromInfo,
+    ShortImageDescriptionFromInfo,
+)
 from utils.converters import InfoJson2Markdown, ImagePromptsJson2Markdown
 from utils.book import PrepareGitBook
 
@@ -25,6 +28,7 @@ class Pipeline(object):
         InfoJson2Markdown(self.disease_name, self.results_dir).convert()
 
     def _image_prompts(self):
+        ShortImageDescriptionFromInfo(self.disease_name, self.results_dir).run()
         ImageDescriptionFromInfo(self.disease_name, self.results_dir).run()
         ImagePromptsJson2Markdown(self.disease_name, self.results_dir).convert()
 

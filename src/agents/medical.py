@@ -41,7 +41,9 @@ class MedicalAgent(BaseAgent):
         Your description should be concise and include details on how the symptoms impair patients, what are their main effect, both physical and societal.
         Do not start describing the disease or the parasite. Start directly with the symptoms.
         """
-        user_prompt = f"Describe the symptoms of the following disease: {self.disease_base_name}."
+        user_prompt = (
+            f"Describe the symptoms of the following disease: {self.disease_base_name}."
+        )
         assistant_prompt = None
         response = ParagraphRequest(
             self.model_name, self.openai_api_key

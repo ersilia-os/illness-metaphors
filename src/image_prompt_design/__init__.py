@@ -16,9 +16,13 @@ LOREM_IPSUM = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do e
 
 
 class BaseImagePromptDesigner(object):
-    def __init__(self, disease_name, results_path=None,
-                 model_name="gpt-3.5-turbo",
-                 openai_api_key=None,):
+    def __init__(
+        self,
+        disease_name,
+        results_path=None,
+        model_name="gpt-3.5-turbo",
+        openai_api_key=None,
+    ):
         self.disease_name = disease_name
         self.disease_base_name = self.disease_name.replace(" ", "_").lower()
         if openai_api_key is not None:
@@ -42,11 +46,15 @@ class BaseImagePromptDesigner(object):
             self.results_path, "info", "json", f"{self.disease_base_name}.json"
         )
 
-    def get_request_if_done(self, request_name):
+    def get_request_if_done(self, agent_name, request_name):
         if not os.path.exists(self.json_file):
             return None
         with open(self.json_file, "r") as f:
             data = json.load(f)
+        if agent_name not in data.keys():
+            print(agent_name)
+            return None
+        data = data[agent_name]
         if request_name not in data:
             return None
         content = data[request_name]
@@ -57,7 +65,7 @@ class BaseImagePromptDesigner(object):
             if content[0] == LOREM_IPSUM:
                 return None
         return data[request_name]
-    
+
     def read_info_json(self):
         if not os.path.exists(self.info_json_file):
             return {}
@@ -72,9 +80,11 @@ class BaseImagePromptDesigner(object):
             data = json.load(f)
         return data
 
-    def append_to_json(self, data):
+    def append_to_json(self, agent_name, data):
+        all_data = self.read_json()
+        all_data[agent_name] = data
         with open(self.json_file, "w") as f:
-            json.dump(data, f, indent=4)
+            json.dump(all_data, f, indent=4)
 
 
 class ImagePromptDesignRequest(object):
@@ -105,17 +115,23 @@ class ImagePromptDesignRequest(object):
             max_tokens=word_count * 2,
         )
         return response.choices[0].message.content
-    
-    def generate_landscape_prompt(self, system_prompt, user_prompt, assistant_prompt=None, word_count=50):
-        user_prompt = self.generate_bulk_text(system_prompt, user_prompt, assistant_prompt, word_count)
+
+    def generate_landscape_prompt(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=50
+    ):
+        user_prompt = self.generate_bulk_text(
+            system_prompt, user_prompt, assistant_prompt, word_count
+        )
         client = OpenAI(api_key=self.openai_api_key)
         system_prompt = """
         You need to summarize the text provided by the user in a maximum of {0} words. Stricly limit to {0} words. Do not truncate the last sentence.
         Use mostly nouns and adjectives and verbs in -ing form. Avoid mentioning people. No metaphors. No mention to disease. This is just a landscape description.
-        Do not use acronyms. Do not use medical or scientific words.
+        Do not use acronyms. Do not use medical or scientific words. Do not use words like 'landscape', 'scenery', etc.
         This is meant to be a prompt for a text-to-image generator. Be concise. Strictly focus on the landscape and its features.
         Avoid using content that may be censored by DALL-E, Midjourney, StableDiffusion, or Adobe Firefly.
-        """.format(word_count)
+        """.format(
+            word_count
+        )
         system_prompt = system_prompt.strip().replace("\n", " ").replace("    ", " ")
         messages = [
             {"role": "system", "content": system_prompt},
@@ -133,6 +149,37 @@ class ImagePromptDesignRequest(object):
             max_tokens=word_count * 2,
         )
         return response.choices[0].message.content
-        
-        
-        
+
+    def generate_short_landscape_prompt(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=20
+    ):
+        user_prompt = self.generate_bulk_text(
+            system_prompt, user_prompt, assistant_prompt, word_count
+        )
+        client = OpenAI(api_key=self.openai_api_key)
+        system_prompt = """
+        Reduce the text provided to strictly 20 words. Do not truncate the last sentence.
+        Use mostly nouns and adjectives and verbs in -ing form. Avoid mentioning people. No metaphors. No mention to disease. This is just a landscape description.
+        Do not use acronyms. Do not use medical or scientific words.
+        This is meant to be a prompt for a text-to-image generator. Be concise. Strictly focus on the landscape and its features.
+        Avoid using content that may be censored by DALL-E, Midjourney, StableDiffusion, or Adobe Firefly.
+        """.format(
+            word_count
+        )
+        system_prompt = system_prompt.strip().replace("\n", " ").replace("    ", " ")
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ]
+        if assistant_prompt is not None:
+            assistant_prompt = (
+                assistant_prompt.strip().replace("\n", " ").replace("    ", " ")
+            )
+            messages.append({"role": "assistant", "content": assistant_prompt})
+
+        response = client.chat.completions.create(
+            model=self.model_name,
+            messages=messages,
+            max_tokens=word_count * 2,
+        )
+        return response.choices[0].message.content
