@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "4aca6dc6-5c6d-439b-b775-2b53f16df130",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the arid deserts of the Middle East, sun-scorched mud-brick settlements dot the parched earth, enveloped in an ominous silence. Time-worn relics bear witness to an existence marked by affliction. Amidst the harsh landscape, winds carry tales of despair through arid dunes, where suffering echoes in a symphony of stagnation. The region is characterized by a bleak and desolate desert landscape. Photorealistic. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.14",
+        "results": "71fe8419-d9d4-4651-9453-c4cef23b6a05",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:03:00.438Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/71fe8419-d9d4-4651-9453-c4cef23b6a05/71fe8419-d9d4-4651-9453-c4cef23b6a05.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8d4cd180-764b-4191-a63c-f389fc751c20/8d4cd180-764b-4191-a63c-f389fc751c20.png",
+            "https://cl.imagineapi.dev/assets/1acf9f02-df4a-499c-9722-41b78139d331/1acf9f02-df4a-499c-9722-41b78139d331.png",
+            "https://cl.imagineapi.dev/assets/d5b197c0-2be9-4a8c-9e01-c244c743aa2e/d5b197c0-2be9-4a8c-9e01-c244c743aa2e.png",
+            "https://cl.imagineapi.dev/assets/93997d3b-6708-4609-93e6-8d46e200d33c/93997d3b-6708-4609-93e6-8d46e200d33c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1acf9f02-df4a-499c-9722-41b78139d331",
+            "8d4cd180-764b-4191-a63c-f389fc751c20",
+            "93997d3b-6708-4609-93e6-8d46e200d33c",
+            "d5b197c0-2be9-4a8c-9e01-c244c743aa2e"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.14
+}

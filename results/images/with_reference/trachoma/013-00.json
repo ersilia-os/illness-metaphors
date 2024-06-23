@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "988b9262-083a-4287-8ec5-909c15d9a5d5",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In North Africa's bustling urban sprawl, remnants of imperialism echo through neglected, winding streets. The resilient flora mirrors the people's strength amidst a landscape shaped by colonial heritage and authoritative influences. Every stone and shadow in this region tells a story of struggle and endurance, carrying the weight of a bygone era. Photorealistic. Harsh light. Landscape photography. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.64",
+        "results": "43f024e4-a7fe-4183-bc31-77758b01ef92",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:45:47.826Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/43f024e4-a7fe-4183-bc31-77758b01ef92/43f024e4-a7fe-4183-bc31-77758b01ef92.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bb4dd6e8-5517-4e10-8aba-a628936e46d3/bb4dd6e8-5517-4e10-8aba-a628936e46d3.png",
+            "https://cl.imagineapi.dev/assets/f6bdfee3-fe6a-4a27-b3b6-a86a268685e7/f6bdfee3-fe6a-4a27-b3b6-a86a268685e7.png",
+            "https://cl.imagineapi.dev/assets/3d8455d5-4090-421f-9cc4-fbe1e14046a9/3d8455d5-4090-421f-9cc4-fbe1e14046a9.png",
+            "https://cl.imagineapi.dev/assets/a16339d5-08d4-4adc-a131-ed1eb5566eec/a16339d5-08d4-4adc-a131-ed1eb5566eec.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3d8455d5-4090-421f-9cc4-fbe1e14046a9",
+            "a16339d5-08d4-4adc-a131-ed1eb5566eec",
+            "bb4dd6e8-5517-4e10-8aba-a628936e46d3",
+            "f6bdfee3-fe6a-4a27-b3b6-a86a268685e7"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.64
+}

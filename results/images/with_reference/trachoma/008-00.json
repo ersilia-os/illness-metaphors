@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3cbb4cc8-a3de-4dec-849d-8f3efca05bea",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the Sahel region of Chad, the arid landscape reflects a harsh cycle of devastation and recovery. The cracked earth and resilient acacia trees signify ongoing survival battles. Amid mud-brick houses, shadows play out delicate scenes of existence in a fragile balance. As the sun sets, its golden light hints at the unforgiving nature of this land on the edge of desolation. Bokeh. Studio light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.94",
+        "results": "802f728f-dc18-4ac8-8e38-0d75bba3efba",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:23:05.983Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/802f728f-dc18-4ac8-8e38-0d75bba3efba/802f728f-dc18-4ac8-8e38-0d75bba3efba.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/89017ff9-5a0c-43d0-8eec-e2fc54d3c39b/89017ff9-5a0c-43d0-8eec-e2fc54d3c39b.png",
+            "https://cl.imagineapi.dev/assets/29d27961-dadc-4560-82db-b498aa89cfbf/29d27961-dadc-4560-82db-b498aa89cfbf.png",
+            "https://cl.imagineapi.dev/assets/ff0e82ca-8ecf-485a-b87d-fa4e05990d8f/ff0e82ca-8ecf-485a-b87d-fa4e05990d8f.png",
+            "https://cl.imagineapi.dev/assets/fa17c0d0-6c87-47df-b7e1-0287688474f4/fa17c0d0-6c87-47df-b7e1-0287688474f4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "29d27961-dadc-4560-82db-b498aa89cfbf",
+            "89017ff9-5a0c-43d0-8eec-e2fc54d3c39b",
+            "fa17c0d0-6c87-47df-b7e1-0287688474f4",
+            "ff0e82ca-8ecf-485a-b87d-fa4e05990d8f"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.94
+}

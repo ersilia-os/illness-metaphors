@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "964061ac-ce79-4ade-a0a3-010cd0455ffc",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the arid expanse of northern Africa, under the merciless sun, shrubs cling to cracked earth. The horizon shimmers mirages in this harsh, captivating landscape. Here, time's relentless mark reflects like trachoma's devastation on eyes. Bokeh. Harsh light. Shot from above. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.82",
+        "results": "dc17b993-cb15-47c9-b935-b77f513b375b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T13:44:17.837Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/dc17b993-cb15-47c9-b935-b77f513b375b/dc17b993-cb15-47c9-b935-b77f513b375b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bb7c53a3-c9e2-4045-885c-0eaf4d66031c/bb7c53a3-c9e2-4045-885c-0eaf4d66031c.png",
+            "https://cl.imagineapi.dev/assets/63aba073-eeeb-400c-80ca-8ca1b781bb44/63aba073-eeeb-400c-80ca-8ca1b781bb44.png",
+            "https://cl.imagineapi.dev/assets/d738af8a-f598-465b-b8b4-98c01e961463/d738af8a-f598-465b-b8b4-98c01e961463.png",
+            "https://cl.imagineapi.dev/assets/5f4e0ecd-73e8-4d77-8ded-47220f6dd6ef/5f4e0ecd-73e8-4d77-8ded-47220f6dd6ef.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "5f4e0ecd-73e8-4d77-8ded-47220f6dd6ef",
+            "63aba073-eeeb-400c-80ca-8ca1b781bb44",
+            "bb7c53a3-c9e2-4045-885c-0eaf4d66031c",
+            "d738af8a-f598-465b-b8b4-98c01e961463"
+        ]
+    },
+    "request_name": "019",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.82
+}

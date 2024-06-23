@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "6dc278e1-41f6-4403-ba2e-0eba55376173",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In the Sahel region of Mali, West Africa, the relentless desert stretches endlessly under the scorching sun, creating a landscape of desolation. The arid expanse, marked by swirling sands and unseen dangers, tells stories of survival amidst harsh conditions. Each grain of sand reflects the invisible menace that haunts the vast emptiness of the earth, casting shadows of trepidation on the barren land. Bokeh. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.39",
+        "results": "9645c635-8033-4589-92e0-1e6ee92c0e7c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:39:44.249Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9645c635-8033-4589-92e0-1e6ee92c0e7c/9645c635-8033-4589-92e0-1e6ee92c0e7c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/caccbb89-e3f2-4ce7-bfed-038310052ab9/caccbb89-e3f2-4ce7-bfed-038310052ab9.png",
+            "https://cl.imagineapi.dev/assets/da0534c1-584e-4a10-867e-ce21d1bc9b78/da0534c1-584e-4a10-867e-ce21d1bc9b78.png",
+            "https://cl.imagineapi.dev/assets/712fc794-1534-47a0-a7ee-f4a033740eb7/712fc794-1534-47a0-a7ee-f4a033740eb7.png",
+            "https://cl.imagineapi.dev/assets/7349f6aa-63d6-486a-898d-9f5f3e6cd6cb/7349f6aa-63d6-486a-898d-9f5f3e6cd6cb.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "712fc794-1534-47a0-a7ee-f4a033740eb7",
+            "7349f6aa-63d6-486a-898d-9f5f3e6cd6cb",
+            "caccbb89-e3f2-4ce7-bfed-038310052ab9",
+            "da0534c1-584e-4a10-867e-ce21d1bc9b78"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.39
+}

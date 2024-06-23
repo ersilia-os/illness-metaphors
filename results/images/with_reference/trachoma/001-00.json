@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2c4611d2-ca40-431e-ad22-7dbb99e189f3",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the heart of the Sahel region in Niger, vast deserts bear witness to nomadic tribes clinging to ancient rituals and battling trachoma\u2019s legacy. Sunlit barren lands echo with tales of survival and suffering, the scorching sun chronicling their struggle. Sparse vegetation and dusty pathways illustrate a landscape where the past is etched into the collective memory, embodying a harsh reality under the relentless gaze of the sun. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.7",
+        "results": "42366377-a648-4f0e-bc84-74c2286ead47",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T09:53:21.944Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/42366377-a648-4f0e-bc84-74c2286ead47/42366377-a648-4f0e-bc84-74c2286ead47.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/1279f5a9-ea3d-4410-ba36-2b525a28d767/1279f5a9-ea3d-4410-ba36-2b525a28d767.png",
+            "https://cl.imagineapi.dev/assets/c5bc7c5a-962c-4236-9774-d0af05e36ce0/c5bc7c5a-962c-4236-9774-d0af05e36ce0.png",
+            "https://cl.imagineapi.dev/assets/c0d10b64-5697-4c9d-807f-8468b36a9141/c0d10b64-5697-4c9d-807f-8468b36a9141.png",
+            "https://cl.imagineapi.dev/assets/73451d0d-17c4-4949-ae4d-a643b75307cd/73451d0d-17c4-4949-ae4d-a643b75307cd.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1279f5a9-ea3d-4410-ba36-2b525a28d767",
+            "73451d0d-17c4-4949-ae4d-a643b75307cd",
+            "c0d10b64-5697-4c9d-807f-8468b36a9141",
+            "c5bc7c5a-962c-4236-9774-d0af05e36ce0"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.7
+}

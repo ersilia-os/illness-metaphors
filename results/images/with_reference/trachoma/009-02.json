@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7fc52a97-4b94-486b-a3d2-eb2c0a9a60f6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In Africa's arid savannah, cracked earth reflects a dusty courtyard where women in vibrant attire gather. Hot winds form dust whirlwinds, veiling a horizon in brown haze. Women huddle with worry, children with haunted eyes scratching infected eyes. Survival battles relentless elements daily. Stifling heat and dryness dominate the landscape, blending hope with despair amid swirling dust clouds. Located in sub-Saharan Africa, this is a rural desert landscape. Bokeh. Natural. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.11",
+        "results": "aa8a7844-bb67-4ff5-8601-f38bb8e184bd",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:24:36.816Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/aa8a7844-bb67-4ff5-8601-f38bb8e184bd/aa8a7844-bb67-4ff5-8601-f38bb8e184bd.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4836ff3a-2369-415d-a12d-d4511b2916de/4836ff3a-2369-415d-a12d-d4511b2916de.png",
+            "https://cl.imagineapi.dev/assets/692a289d-c27f-4c73-a10d-0ca3446121d4/692a289d-c27f-4c73-a10d-0ca3446121d4.png",
+            "https://cl.imagineapi.dev/assets/0c52749a-cf12-42ea-bce7-81e1f412ece1/0c52749a-cf12-42ea-bce7-81e1f412ece1.png",
+            "https://cl.imagineapi.dev/assets/3672fe58-4c0b-4540-8597-890aee7f60d8/3672fe58-4c0b-4540-8597-890aee7f60d8.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0c52749a-cf12-42ea-bce7-81e1f412ece1",
+            "3672fe58-4c0b-4540-8597-890aee7f60d8",
+            "4836ff3a-2369-415d-a12d-d4511b2916de",
+            "692a289d-c27f-4c73-a10d-0ca3446121d4"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.11
+}

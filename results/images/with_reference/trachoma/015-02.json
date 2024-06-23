@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "81d5e6bb-f843-41d2-8e95-2cac242aebaf",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In Sub-Saharan Africa, amidst remote villages, clay huts and straw roofs blend under the hot sun and vast sky. Dusty paths reveal a community grappling with challenges. Children play by contaminated water sources while women endure daily struggles. In this rugged African landscape, modern medicine confronts hidden threats. The setting is adorned with bokeh and natural light, akin to a Fujifilm XT snapshot. Bokeh. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.36",
+        "results": "43632040-cf4b-453f-9769-92b00dc0b4ac",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:51:39.264Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/43632040-cf4b-453f-9769-92b00dc0b4ac/43632040-cf4b-453f-9769-92b00dc0b4ac.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/cf10721d-dd41-418c-af70-2d4f90d7669f/cf10721d-dd41-418c-af70-2d4f90d7669f.png",
+            "https://cl.imagineapi.dev/assets/ef12685d-f8f9-4025-b5ab-8cc831182f93/ef12685d-f8f9-4025-b5ab-8cc831182f93.png",
+            "https://cl.imagineapi.dev/assets/a7c7c493-6e52-4af1-bb40-d5f72bf240bf/a7c7c493-6e52-4af1-bb40-d5f72bf240bf.png",
+            "https://cl.imagineapi.dev/assets/39994ff5-9981-431b-9bac-e5caf1b03698/39994ff5-9981-431b-9bac-e5caf1b03698.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "39994ff5-9981-431b-9bac-e5caf1b03698",
+            "a7c7c493-6e52-4af1-bb40-d5f72bf240bf",
+            "cf10721d-dd41-418c-af70-2d4f90d7669f",
+            "ef12685d-f8f9-4025-b5ab-8cc831182f93"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.36
+}

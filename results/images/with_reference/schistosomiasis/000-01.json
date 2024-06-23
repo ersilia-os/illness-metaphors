@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "0f8b06e1-0b82-4ad1-a422-b199bc29c7e2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In tropical Africa, under the unyielding sun, a historic landscape thrives. Towering baobab trees, aged witnesses to time, dot the earth. Dense foliage hides still waters, a breeding ground harboring risks. Colonial remnants, silent dams, and irrigation structures stand amid crowded villages and neglected settings. Embracing endurance and history, this African landscape remains a poignant reminder of the past. Photorealistic. Low lighting. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.8",
+        "results": "0c8f1a9b-dca5-4e3f-9f55-7a1dd3e030c8",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T11:35:40.413Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0c8f1a9b-dca5-4e3f-9f55-7a1dd3e030c8/0c8f1a9b-dca5-4e3f-9f55-7a1dd3e030c8.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/5f0115c5-a114-413e-b23c-d0740623afa4/5f0115c5-a114-413e-b23c-d0740623afa4.png",
+            "https://cl.imagineapi.dev/assets/7be1ca7d-fb9a-4fbb-8b2b-c18a80069e76/7be1ca7d-fb9a-4fbb-8b2b-c18a80069e76.png",
+            "https://cl.imagineapi.dev/assets/c014911f-9a69-44c8-b78e-c61f4417c8d3/c014911f-9a69-44c8-b78e-c61f4417c8d3.png",
+            "https://cl.imagineapi.dev/assets/063b28a5-5d64-4da9-96f2-17321deb27e9/063b28a5-5d64-4da9-96f2-17321deb27e9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "063b28a5-5d64-4da9-96f2-17321deb27e9",
+            "5f0115c5-a114-413e-b23c-d0740623afa4",
+            "7be1ca7d-fb9a-4fbb-8b2b-c18a80069e76",
+            "c014911f-9a69-44c8-b78e-c61f4417c8d3"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.8
+}

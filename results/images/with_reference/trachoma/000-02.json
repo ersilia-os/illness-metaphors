@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ad937ffb-baa4-4145-901b-477bd4c7a92d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In Sub-Saharan Africa, the vast landscape features mud huts and thatched roofs under the scorching sun and boundless sky. Dusty streets reveal a community grappling with invisible threats and ancient scourges, showing resilience. Children play amidst contaminated wells, while women draw water with faces etched by struggle. Modern medicine battles insidious bacteria in this rural African region. Bokeh. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.71",
+        "results": "0313780b-f872-4a9c-a7ff-bcdc4c45a3e0",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T09:38:43.419Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0313780b-f872-4a9c-a7ff-bcdc4c45a3e0/0313780b-f872-4a9c-a7ff-bcdc4c45a3e0.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/87742805-448a-4dc1-a79c-ceec3fb3ba5e/87742805-448a-4dc1-a79c-ceec3fb3ba5e.png",
+            "https://cl.imagineapi.dev/assets/97667a25-4376-43b4-bead-e87f808ee085/97667a25-4376-43b4-bead-e87f808ee085.png",
+            "https://cl.imagineapi.dev/assets/f8b73f95-5928-4057-ad6e-48fcf30c253f/f8b73f95-5928-4057-ad6e-48fcf30c253f.png",
+            "https://cl.imagineapi.dev/assets/e640721f-c3d7-4acf-8ce3-b702b102a6a6/e640721f-c3d7-4acf-8ce3-b702b102a6a6.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "87742805-448a-4dc1-a79c-ceec3fb3ba5e",
+            "97667a25-4376-43b4-bead-e87f808ee085",
+            "e640721f-c3d7-4acf-8ce3-b702b102a6a6",
+            "f8b73f95-5928-4057-ad6e-48fcf30c253f"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.71
+}

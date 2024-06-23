@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "03a89d1e-252a-4049-90b0-d387a00ca6df",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the arid desert of Sub-Saharan Africa, barren and tormented by age-old legends, the intense sun beats down on the land, creating harsh silhouettes on the tired locals. The air is thick with musty decay, reflecting the enduring struggles of past generations. Amid this conflicting scenery, Trachoma thrives, entwining with daily life. Modest shelters scatter the landscape, providing meager defense from the disease's advance. Photorealistic. Studio light. Closeup. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.49",
+        "results": "41297c49-a569-4b4a-b21c-40feacc5da1a",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:07:14.580Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/41297c49-a569-4b4a-b21c-40feacc5da1a/41297c49-a569-4b4a-b21c-40feacc5da1a.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/7c5faaf2-dbce-4f2d-a830-5a95dfc52da4/7c5faaf2-dbce-4f2d-a830-5a95dfc52da4.png",
+            "https://cl.imagineapi.dev/assets/b70f88a5-e9da-432f-9750-bac7e478a79b/b70f88a5-e9da-432f-9750-bac7e478a79b.png",
+            "https://cl.imagineapi.dev/assets/d21c2e78-8ec5-40fc-a0c5-be3f3bb775e5/d21c2e78-8ec5-40fc-a0c5-be3f3bb775e5.png",
+            "https://cl.imagineapi.dev/assets/201142a3-5b70-433e-b3a4-9f754bba5c40/201142a3-5b70-433e-b3a4-9f754bba5c40.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "201142a3-5b70-433e-b3a4-9f754bba5c40",
+            "7c5faaf2-dbce-4f2d-a830-5a95dfc52da4",
+            "b70f88a5-e9da-432f-9750-bac7e478a79b",
+            "d21c2e78-8ec5-40fc-a0c5-be3f3bb775e5"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.49
+}

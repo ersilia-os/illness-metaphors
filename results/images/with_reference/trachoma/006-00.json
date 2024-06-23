@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3fac86cd-0be7-42ba-808d-16fc6845157d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the Sahel region of Africa, a village stands on parched, cracked earth under the relentless sun. Swirling dust envelops the area, carried by arid winds, as women in colorful cloths gather in dusty courtyards. Amid humble dwellings, communal sorrow is palpable in the weary eyes and tear-stained cheeks of children. This arid landscape in Sahel, Africa, reflects a harsh reality of daily life. Bokeh. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.28",
+        "results": "adb10137-caf1-4040-a3ca-54299dbdbd76",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:14:11.106Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/adb10137-caf1-4040-a3ca-54299dbdbd76/adb10137-caf1-4040-a3ca-54299dbdbd76.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/44deb773-a681-45f3-a504-03a4733fd521/44deb773-a681-45f3-a504-03a4733fd521.png",
+            "https://cl.imagineapi.dev/assets/9c11d478-5cb1-4878-8579-2f741cf9fc55/9c11d478-5cb1-4878-8579-2f741cf9fc55.png",
+            "https://cl.imagineapi.dev/assets/ef53fc3e-7e7b-4f66-9ed7-a6a7c1e8c743/ef53fc3e-7e7b-4f66-9ed7-a6a7c1e8c743.png",
+            "https://cl.imagineapi.dev/assets/10b293b8-2e43-4745-becc-ad806c66f22c/10b293b8-2e43-4745-becc-ad806c66f22c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "10b293b8-2e43-4745-becc-ad806c66f22c",
+            "44deb773-a681-45f3-a504-03a4733fd521",
+            "9c11d478-5cb1-4878-8579-2f741cf9fc55",
+            "ef53fc3e-7e7b-4f66-9ed7-a6a7c1e8c743"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.28
+}

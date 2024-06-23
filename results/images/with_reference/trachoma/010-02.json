@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f8a57d3d-7f39-43ce-81ff-b01d233d8bd6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the Sahara Desert of Algeria, barren winds sweep across drought-stricken terrain. Endless sand dunes ripple like forgotten stories, mirages playing tricks on weary eyes. The landscape echoes with a profound solitude, reflecting hidden dangers beneath the surface. This formidable scene captures a haunting beauty tainted by silent erosion, akin to a solemn message borne by the breeze. Photorealistic. Studio light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.2",
+        "results": "51baf54f-09d4-4a92-a203-273bca21db85",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:29:09.150Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/51baf54f-09d4-4a92-a203-273bca21db85/51baf54f-09d4-4a92-a203-273bca21db85.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/feb17df0-07a5-42c7-930d-00e2d7bd3867/feb17df0-07a5-42c7-930d-00e2d7bd3867.png",
+            "https://cl.imagineapi.dev/assets/bcbf22ac-55ae-491d-8e0b-995ef30ed0a2/bcbf22ac-55ae-491d-8e0b-995ef30ed0a2.png",
+            "https://cl.imagineapi.dev/assets/ea24dd5c-c81f-4eea-baf4-8ee6db65c56b/ea24dd5c-c81f-4eea-baf4-8ee6db65c56b.png",
+            "https://cl.imagineapi.dev/assets/cb4454a9-cccc-416a-a506-7721f6ed0419/cb4454a9-cccc-416a-a506-7721f6ed0419.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "bcbf22ac-55ae-491d-8e0b-995ef30ed0a2",
+            "cb4454a9-cccc-416a-a506-7721f6ed0419",
+            "ea24dd5c-c81f-4eea-baf4-8ee6db65c56b",
+            "feb17df0-07a5-42c7-930d-00e2d7bd3867"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.2
+}

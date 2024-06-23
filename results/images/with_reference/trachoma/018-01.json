@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "182e6d22-7cb7-4cc4-b5fe-43ffabcdbbdb",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In a land suffused with echoes of history, remnants of colonial rule intertwine with ancient civilizations. Imposing architecture echoes bygone exploitation, while neglected streets wind through overcrowded corners, narrating tales of endurance. Flora battles against time's remnants, symbolizing community resilience. Amidst past's watchful eyes, a present shaped by power struggles and colonial legacies unfolds. This scene unfolds in Peru, South America, showcasing a blend of colonial and indigenous landscapes. Bokeh. Harsh light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.36",
+        "results": "6b68d75d-6d3e-4e53-a460-ec7a3947aec4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T13:38:14.316Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6b68d75d-6d3e-4e53-a460-ec7a3947aec4/6b68d75d-6d3e-4e53-a460-ec7a3947aec4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bb547cee-493b-47cc-8eed-21c0bf0fc0f9/bb547cee-493b-47cc-8eed-21c0bf0fc0f9.png",
+            "https://cl.imagineapi.dev/assets/28dedfa8-8740-498d-88f4-e363bf600f72/28dedfa8-8740-498d-88f4-e363bf600f72.png",
+            "https://cl.imagineapi.dev/assets/a0ba4d61-05d7-4a54-b233-54e9cc6afa6f/a0ba4d61-05d7-4a54-b233-54e9cc6afa6f.png",
+            "https://cl.imagineapi.dev/assets/c75eb710-0ac7-4d96-b787-22b71afae3de/c75eb710-0ac7-4d96-b787-22b71afae3de.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "28dedfa8-8740-498d-88f4-e363bf600f72",
+            "a0ba4d61-05d7-4a54-b233-54e9cc6afa6f",
+            "bb547cee-493b-47cc-8eed-21c0bf0fc0f9",
+            "c75eb710-0ac7-4d96-b787-22b71afae3de"
+        ]
+    },
+    "request_name": "018",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 2.36
+}

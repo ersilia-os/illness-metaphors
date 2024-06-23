@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "05bb5483-059e-4ddb-ba00-cbeb1063c04b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.59",
+        "results": "3835b4ee-37f2-48db-b119-bbaa8795b30d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:49:50.387Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3835b4ee-37f2-48db-b119-bbaa8795b30d/3835b4ee-37f2-48db-b119-bbaa8795b30d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3bea25c4-58b8-4558-87d1-04dfa481262c/3bea25c4-58b8-4558-87d1-04dfa481262c.png",
+            "https://cl.imagineapi.dev/assets/433eb87d-5db7-4ede-a0f8-71b7306a84f3/433eb87d-5db7-4ede-a0f8-71b7306a84f3.png",
+            "https://cl.imagineapi.dev/assets/19ab063f-b867-4638-9a2e-31574ab6db36/19ab063f-b867-4638-9a2e-31574ab6db36.png",
+            "https://cl.imagineapi.dev/assets/3b2683ee-53b1-4480-aa7a-453fd38dd803/3b2683ee-53b1-4480-aa7a-453fd38dd803.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "19ab063f-b867-4638-9a2e-31574ab6db36",
+            "3b2683ee-53b1-4480-aa7a-453fd38dd803",
+            "3bea25c4-58b8-4558-87d1-04dfa481262c",
+            "433eb87d-5db7-4ede-a0f8-71b7306a84f3"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 1.59
+}

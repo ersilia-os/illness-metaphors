@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a1552b32-eef2-42cc-8d7f-4977195a4fcc",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the arid desert of Sub-Saharan Africa, barren and tormented by age-old legends, the intense sun beats down on the land, creating harsh silhouettes on the tired locals. The air is thick with musty decay, reflecting the enduring struggles of past generations. Amid this conflicting scenery, Trachoma thrives, entwining with daily life. Modest shelters scatter the landscape, providing meager defense from the disease's advance. Photorealistic. Studio light. Closeup. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.61",
+        "results": "27cff4cf-e5bd-4505-80f5-e0c2df94e5a4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:10:07.093Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/27cff4cf-e5bd-4505-80f5-e0c2df94e5a4/27cff4cf-e5bd-4505-80f5-e0c2df94e5a4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/96214db7-b635-450b-8c1d-0d318f7c2f63/96214db7-b635-450b-8c1d-0d318f7c2f63.png",
+            "https://cl.imagineapi.dev/assets/ebbac8b1-1509-4e98-b037-67d3decdfa73/ebbac8b1-1509-4e98-b037-67d3decdfa73.png",
+            "https://cl.imagineapi.dev/assets/d3caa389-c012-41d3-9e37-6ebb973f24cb/d3caa389-c012-41d3-9e37-6ebb973f24cb.png",
+            "https://cl.imagineapi.dev/assets/42d1d667-a35d-4a26-8915-5481f5f08354/42d1d667-a35d-4a26-8915-5481f5f08354.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "42d1d667-a35d-4a26-8915-5481f5f08354",
+            "96214db7-b635-450b-8c1d-0d318f7c2f63",
+            "d3caa389-c012-41d3-9e37-6ebb973f24cb",
+            "ebbac8b1-1509-4e98-b037-67d3decdfa73"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.61
+}

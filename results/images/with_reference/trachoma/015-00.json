@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "cc633ab9-c2c2-4b27-8cb2-c00ec1dfbf5e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In Sub-Saharan Africa, amidst remote villages, clay huts and straw roofs blend under the hot sun and vast sky. Dusty paths reveal a community grappling with challenges. Children play by contaminated water sources while women endure daily struggles. In this rugged African landscape, modern medicine confronts hidden threats. The setting is adorned with bokeh and natural light, akin to a Fujifilm XT snapshot. Bokeh. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.14",
+        "results": "3bb4d96b-4a51-4046-81eb-b42a0f0b0528",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:54:31.433Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3bb4d96b-4a51-4046-81eb-b42a0f0b0528/3bb4d96b-4a51-4046-81eb-b42a0f0b0528.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e5881141-576b-4212-85a0-440e7cf49738/e5881141-576b-4212-85a0-440e7cf49738.png",
+            "https://cl.imagineapi.dev/assets/455f5501-ea52-41a1-961f-af3f58fa4107/455f5501-ea52-41a1-961f-af3f58fa4107.png",
+            "https://cl.imagineapi.dev/assets/8edd7dd9-49f4-414e-9ed0-6db48725a4a6/8edd7dd9-49f4-414e-9ed0-6db48725a4a6.png",
+            "https://cl.imagineapi.dev/assets/87bbc6e5-0d7c-46b5-9829-05a7e901bf3f/87bbc6e5-0d7c-46b5-9829-05a7e901bf3f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "455f5501-ea52-41a1-961f-af3f58fa4107",
+            "87bbc6e5-0d7c-46b5-9829-05a7e901bf3f",
+            "8edd7dd9-49f4-414e-9ed0-6db48725a4a6",
+            "e5881141-576b-4212-85a0-440e7cf49738"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 2.14
+}

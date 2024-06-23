@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "860d1ed6-7584-4998-8999-bfeb664ed465",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.02",
+        "results": "c48adec6-e126-4e2c-9ecb-a0883e7883a9",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:29:56.892Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/c48adec6-e126-4e2c-9ecb-a0883e7883a9/c48adec6-e126-4e2c-9ecb-a0883e7883a9.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/254e7b10-a58b-492d-a23d-fbaf261f89fa/254e7b10-a58b-492d-a23d-fbaf261f89fa.png",
+            "https://cl.imagineapi.dev/assets/4aee5cad-3327-496a-a504-1cac3cc3c092/4aee5cad-3327-496a-a504-1cac3cc3c092.png",
+            "https://cl.imagineapi.dev/assets/c527653c-a419-49ba-a679-41499f1ec591/c527653c-a419-49ba-a679-41499f1ec591.png",
+            "https://cl.imagineapi.dev/assets/831777fa-769e-4009-87d2-7850ff7fc390/831777fa-769e-4009-87d2-7850ff7fc390.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "254e7b10-a58b-492d-a23d-fbaf261f89fa",
+            "4aee5cad-3327-496a-a504-1cac3cc3c092",
+            "831777fa-769e-4009-87d2-7850ff7fc390",
+            "c527653c-a419-49ba-a679-41499f1ec591"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 1.02
+}

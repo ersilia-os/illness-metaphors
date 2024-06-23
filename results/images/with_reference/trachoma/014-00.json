@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "13cd6176-ec05-4b0e-b80f-4b8b30b24f8d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In Ethiopia's East African region, the arid savanna expands with parched land under the scorching sun. The community grapples with invisible hardship amidst swirling dust, mirroring their stark reality. A palpable atmosphere of sorrow lingers, a somber presence in this unforgiving landscape, haunted by persistent affliction. Bokeh. Low lighting. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.75",
+        "results": "0862ad94-0d2c-4803-b695-28af2e5b3aa7",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:50:15.711Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0862ad94-0d2c-4803-b695-28af2e5b3aa7/0862ad94-0d2c-4803-b695-28af2e5b3aa7.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/77b73809-b63b-42ce-be0d-688d8ef6a6ff/77b73809-b63b-42ce-be0d-688d8ef6a6ff.png",
+            "https://cl.imagineapi.dev/assets/06f32fbd-acf9-4b4a-9f12-614954f825c4/06f32fbd-acf9-4b4a-9f12-614954f825c4.png",
+            "https://cl.imagineapi.dev/assets/661ca448-f36e-48ad-b9fa-888f66c314d0/661ca448-f36e-48ad-b9fa-888f66c314d0.png",
+            "https://cl.imagineapi.dev/assets/70b4e5df-2a3a-41b4-88f5-bc27527fbbb4/70b4e5df-2a3a-41b4-88f5-bc27527fbbb4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "06f32fbd-acf9-4b4a-9f12-614954f825c4",
+            "661ca448-f36e-48ad-b9fa-888f66c314d0",
+            "70b4e5df-2a3a-41b4-88f5-bc27527fbbb4",
+            "77b73809-b63b-42ce-be0d-688d8ef6a6ff"
+        ]
+    },
+    "request_name": "014",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.75
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2e96f7a2-a86e-42b9-b221-7f617f6d9bce",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the African savannah of Kenya, remnants of colonialism linger under the scorching sun. Acacia trees cast shifting shadows on the arid landscape where indigenous huts whisper tales of resistance. Dust carries echoes of past injustices as the ancient soil bears witness to a history of exploitation. Cries of the afflicted fade into the heavy atmosphere, painting a vivid picture of a tumultuous past. Photorealistic. Low lighting. Shot from above. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.46",
+        "results": "6af63522-68e8-4386-b0f6-e50f33258efc",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:36:22.922Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6af63522-68e8-4386-b0f6-e50f33258efc/6af63522-68e8-4386-b0f6-e50f33258efc.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8697ed9b-dac8-4269-9eb1-81451619d164/8697ed9b-dac8-4269-9eb1-81451619d164.png",
+            "https://cl.imagineapi.dev/assets/e907f80e-a315-4c82-adf9-235e2dbe91c2/e907f80e-a315-4c82-adf9-235e2dbe91c2.png",
+            "https://cl.imagineapi.dev/assets/900360bb-fc24-42a1-8dd1-152f5006068a/900360bb-fc24-42a1-8dd1-152f5006068a.png",
+            "https://cl.imagineapi.dev/assets/24823c9f-13b0-41de-b8a7-67acd6e1f4d9/24823c9f-13b0-41de-b8a7-67acd6e1f4d9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "24823c9f-13b0-41de-b8a7-67acd6e1f4d9",
+            "8697ed9b-dac8-4269-9eb1-81451619d164",
+            "900360bb-fc24-42a1-8dd1-152f5006068a",
+            "e907f80e-a315-4c82-adf9-235e2dbe91c2"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 2.46
+}

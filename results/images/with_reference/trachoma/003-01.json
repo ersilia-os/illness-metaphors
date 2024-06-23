@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "dfaed4c0-9924-4a1b-8b59-6088858ac62d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In Ethiopia's Tigray region, dusty villages echo ancient glory. Amidst stoic structures, shadows of despair linger beneath the harsh sun. The landscape, rich in history, bears witness to bygone eras. Time hangs heavy in the air, a silent witness to past tragedies. Photorealistic. Low lighting. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.7",
+        "results": "8f060e68-2df1-4175-a062-4d04002a137c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:00:13.474Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/8f060e68-2df1-4175-a062-4d04002a137c/8f060e68-2df1-4175-a062-4d04002a137c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/607fbfd0-02fc-4b40-9b70-5d90f1343726/607fbfd0-02fc-4b40-9b70-5d90f1343726.png",
+            "https://cl.imagineapi.dev/assets/1f4ab633-4ba5-48af-b104-57ba2b5035fd/1f4ab633-4ba5-48af-b104-57ba2b5035fd.png",
+            "https://cl.imagineapi.dev/assets/d689f891-ed8b-4ac6-96d0-195a4761656b/d689f891-ed8b-4ac6-96d0-195a4761656b.png",
+            "https://cl.imagineapi.dev/assets/4f4025e9-4ab9-4383-a752-6e7ac5631e31/4f4025e9-4ab9-4383-a752-6e7ac5631e31.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1f4ab633-4ba5-48af-b104-57ba2b5035fd",
+            "4f4025e9-4ab9-4383-a752-6e7ac5631e31",
+            "607fbfd0-02fc-4b40-9b70-5d90f1343726",
+            "d689f891-ed8b-4ac6-96d0-195a4761656b"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.7
+}

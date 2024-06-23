@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5cef8482-7153-4df6-b716-9c4707b35f4f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true Nestled in Sub-Saharan Africa's misty marshlands, a mystical landscape thrives. Damp tendrils cloak the area, concealing enigmatic secrets. Every step sinks into the lush soil, embracing the visitor like the murky waters. Life beats in rhythmic harmony with the land, shrouded in mystery and vitality. This captivating region, steeped in hidden wonders, pulses with the essence of existence. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.19",
+        "results": "6cb6659b-8554-4726-85b3-44aac94959ae",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T11:53:57.630Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6cb6659b-8554-4726-85b3-44aac94959ae/6cb6659b-8554-4726-85b3-44aac94959ae.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f8f1a5b2-c137-4524-96eb-e8e75bf69b3f/f8f1a5b2-c137-4524-96eb-e8e75bf69b3f.png",
+            "https://cl.imagineapi.dev/assets/322581b5-e166-473e-9572-8b642d24fe5f/322581b5-e166-473e-9572-8b642d24fe5f.png",
+            "https://cl.imagineapi.dev/assets/6ab65bac-8614-4b42-96b5-8df9908b0ef3/6ab65bac-8614-4b42-96b5-8df9908b0ef3.png",
+            "https://cl.imagineapi.dev/assets/b274726b-3998-4318-832d-bbece1770f8f/b274726b-3998-4318-832d-bbece1770f8f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "322581b5-e166-473e-9572-8b642d24fe5f",
+            "6ab65bac-8614-4b42-96b5-8df9908b0ef3",
+            "b274726b-3998-4318-832d-bbece1770f8f",
+            "f8f1a5b2-c137-4524-96eb-e8e75bf69b3f"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.19
+}

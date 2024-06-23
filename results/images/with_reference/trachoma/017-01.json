@@ -1,0 +1,23 @@
+{
+    "data": {
+        "id": "9ee05208-11a3-404b-8994-b07fd1ed35e4",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In a country in North Africa, arid desert villages converge with bustling cities under the blazing sun. Rooftops resemble spiny sea urchins, reaching high into the sky. The region is marked by a landscape shaped by history, where shadows carry ancient tales, and the air is imbued with echoes of endurance. Bokeh. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.2",
+        "results": "0e9d1a44-880b-4cec-a98d-c083e60d38a7",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T11:02:44.821Z",
+        "status": "in-progress",
+        "progress": 75,
+        "url": "https://cl.imagineapi.dev/assets/0e9d1a44-880b-4cec-a98d-c083e60d38a7/0e9d1a44-880b-4cec-a98d-c083e60d38a7.webp",
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "0e9d1a44-880b-4cec-a98d-c083e60d38a7",
+            "6b15ac2a-7ce3-47fc-902a-e7a75f8cd3db"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.2
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7dd72fc5-a643-4c15-ae19-5a36f0da7a3b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018d_12.jpg?raw=true In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.6",
+        "results": "7b74b245-46d9-4392-a7a1-c0ab0c4285b8",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:35:27.093Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7b74b245-46d9-4392-a7a1-c0ab0c4285b8/7b74b245-46d9-4392-a7a1-c0ab0c4285b8.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bf75c60d-9554-45ee-9163-4b02fc585d5d/bf75c60d-9554-45ee-9163-4b02fc585d5d.png",
+            "https://cl.imagineapi.dev/assets/8c13ea02-0063-40af-b4ef-2ebdc93e869a/8c13ea02-0063-40af-b4ef-2ebdc93e869a.png",
+            "https://cl.imagineapi.dev/assets/6a36fe96-a5b9-47b5-983c-5260ccefcc82/6a36fe96-a5b9-47b5-983c-5260ccefcc82.png",
+            "https://cl.imagineapi.dev/assets/9ea7cdb1-2415-41d6-a74b-0dfd926b4844/9ea7cdb1-2415-41d6-a74b-0dfd926b4844.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "6a36fe96-a5b9-47b5-983c-5260ccefcc82",
+            "8c13ea02-0063-40af-b4ef-2ebdc93e869a",
+            "9ea7cdb1-2415-41d6-a74b-0dfd926b4844",
+            "bf75c60d-9554-45ee-9163-4b02fc585d5d"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue",
+    "reference_number": "12",
+    "image_weight": 1.6
+}

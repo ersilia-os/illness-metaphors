@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "cf0d0da0-fb1f-4ecb-964f-040647ad0bf3",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20206_01.jpg?raw=true In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.27",
+        "results": "27799f61-0161-4e66-ac24-e583720b831f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:43:26.239Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/27799f61-0161-4e66-ac24-e583720b831f/27799f61-0161-4e66-ac24-e583720b831f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e69758e9-e200-4794-817e-673604c57960/e69758e9-e200-4794-817e-673604c57960.png",
+            "https://cl.imagineapi.dev/assets/7eaf7bc9-cfe0-4918-8fd1-f52f2f2f2912/7eaf7bc9-cfe0-4918-8fd1-f52f2f2f2912.png",
+            "https://cl.imagineapi.dev/assets/aaac65a5-4d2e-4d17-8c4b-31f9183f8bbf/aaac65a5-4d2e-4d17-8c4b-31f9183f8bbf.png",
+            "https://cl.imagineapi.dev/assets/341cfad2-b1cd-47ad-a0e8-f3729c401de9/341cfad2-b1cd-47ad-a0e8-f3729c401de9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "341cfad2-b1cd-47ad-a0e8-f3729c401de9",
+            "7eaf7bc9-cfe0-4918-8fd1-f52f2f2f2912",
+            "aaac65a5-4d2e-4d17-8c4b-31f9183f8bbf",
+            "e69758e9-e200-4794-817e-673604c57960"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue",
+    "reference_number": "01",
+    "image_weight": 2.27
+}

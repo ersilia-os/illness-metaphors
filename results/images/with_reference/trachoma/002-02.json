@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "53d035fe-9a5a-4173-a6af-852228b89727",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true Located in Ethiopia, East Africa, the arid savanna unfolds with cracked soil under the relentless sun. The community faces unseen suffering, as dust veils the desolate landscape in relentless heat, reflecting a harsh reality. Photorealistic. Studio light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.3",
+        "results": "46e5e77d-ff11-48af-841d-c983af0408be",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T09:54:44.472Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/46e5e77d-ff11-48af-841d-c983af0408be/46e5e77d-ff11-48af-841d-c983af0408be.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3c6d5640-77c9-4072-befe-7682c00f2b96/3c6d5640-77c9-4072-befe-7682c00f2b96.png",
+            "https://cl.imagineapi.dev/assets/7c08abc9-3e99-4e63-94c5-67cbf6e26440/7c08abc9-3e99-4e63-94c5-67cbf6e26440.png",
+            "https://cl.imagineapi.dev/assets/5a053456-ca4c-4a1c-8560-502fe68e34e1/5a053456-ca4c-4a1c-8560-502fe68e34e1.png",
+            "https://cl.imagineapi.dev/assets/a8ba9124-f075-4411-9feb-998a38a28b68/a8ba9124-f075-4411-9feb-998a38a28b68.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3c6d5640-77c9-4072-befe-7682c00f2b96",
+            "5a053456-ca4c-4a1c-8560-502fe68e34e1",
+            "7c08abc9-3e99-4e63-94c5-67cbf6e26440",
+            "a8ba9124-f075-4411-9feb-998a38a28b68"
+        ]
+    },
+    "request_name": "002",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.3
+}

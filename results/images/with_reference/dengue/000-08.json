@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f749a4c0-9e66-49d9-a283-e9d1fda9e2e6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010f_08.jpg?raw=true In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.25",
+        "results": "1979fbf8-53b1-400f-a016-63918f94dc18",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:37:49.439Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/1979fbf8-53b1-400f-a016-63918f94dc18/1979fbf8-53b1-400f-a016-63918f94dc18.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2b7e0104-a86d-4b5e-869e-98da2374a1c8/2b7e0104-a86d-4b5e-869e-98da2374a1c8.png",
+            "https://cl.imagineapi.dev/assets/39831160-cc0f-47fe-a878-400dcc2bedc4/39831160-cc0f-47fe-a878-400dcc2bedc4.png",
+            "https://cl.imagineapi.dev/assets/d66dbfbb-a7cd-4854-a031-89b83c26a3e8/d66dbfbb-a7cd-4854-a031-89b83c26a3e8.png",
+            "https://cl.imagineapi.dev/assets/ef614722-a39c-429a-816b-5d795c1bd466/ef614722-a39c-429a-816b-5d795c1bd466.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2b7e0104-a86d-4b5e-869e-98da2374a1c8",
+            "39831160-cc0f-47fe-a878-400dcc2bedc4",
+            "d66dbfbb-a7cd-4854-a031-89b83c26a3e8",
+            "ef614722-a39c-429a-816b-5d795c1bd466"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue",
+    "reference_number": "08",
+    "image_weight": 1.25
+}

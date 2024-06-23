@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5eb83ade-0f88-4799-b622-8db461b0a161",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In a Middle Eastern country, the arid urban landscape shifts from dusty villages to bustling cities. The rooftops, resembling spiny sea urchins, reach skyward under a scorching sun. Time lingers in the heavy air, bearing witness to profound historical challenges in the cityscape. Alleys weave tales of resilience through worn paths, murmuring the silent struggles embedded in the soul of the city. Bokeh. Low lighting. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.11",
+        "results": "0ff4c222-7414-4101-8153-b1933c041e04",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:15:45.310Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0ff4c222-7414-4101-8153-b1933c041e04/0ff4c222-7414-4101-8153-b1933c041e04.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3f7212e7-3840-468a-a19b-f35bccd3ef99/3f7212e7-3840-468a-a19b-f35bccd3ef99.png",
+            "https://cl.imagineapi.dev/assets/a93c72a3-bbdd-4e37-a175-3f2461e61f5d/a93c72a3-bbdd-4e37-a175-3f2461e61f5d.png",
+            "https://cl.imagineapi.dev/assets/626f8d69-9176-46b1-ac10-56288aa31d04/626f8d69-9176-46b1-ac10-56288aa31d04.png",
+            "https://cl.imagineapi.dev/assets/2ab9cfed-a9b8-46b9-a62f-505122f87a85/2ab9cfed-a9b8-46b9-a62f-505122f87a85.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2ab9cfed-a9b8-46b9-a62f-505122f87a85",
+            "3f7212e7-3840-468a-a19b-f35bccd3ef99",
+            "626f8d69-9176-46b1-ac10-56288aa31d04",
+            "a93c72a3-bbdd-4e37-a175-3f2461e61f5d"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.11
+}

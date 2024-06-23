@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2869c055-038a-461a-8ae9-8b630608a3f1",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In Sub-Saharan Africa, the vast landscape features mud huts and thatched roofs under the scorching sun and boundless sky. Dusty streets reveal a community grappling with invisible threats and ancient scourges, showing resilience. Children play amidst contaminated wells, while women draw water with faces etched by struggle. Modern medicine battles insidious bacteria in this rural African region. Bokeh. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.14",
+        "results": "047f85c8-0caf-4e73-910b-2720366e1039",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T09:48:53.697Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/047f85c8-0caf-4e73-910b-2720366e1039/047f85c8-0caf-4e73-910b-2720366e1039.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/df9f6781-77a8-482c-a7ba-08b41275234b/df9f6781-77a8-482c-a7ba-08b41275234b.png",
+            "https://cl.imagineapi.dev/assets/18fa16bc-8e0e-44ea-88be-662a0c226186/18fa16bc-8e0e-44ea-88be-662a0c226186.png",
+            "https://cl.imagineapi.dev/assets/6884ddda-f51a-49fd-92a1-6897d2eb9752/6884ddda-f51a-49fd-92a1-6897d2eb9752.png",
+            "https://cl.imagineapi.dev/assets/1c8ed357-9f7f-4278-90be-26bb5dcfb3c2/1c8ed357-9f7f-4278-90be-26bb5dcfb3c2.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "18fa16bc-8e0e-44ea-88be-662a0c226186",
+            "1c8ed357-9f7f-4278-90be-26bb5dcfb3c2",
+            "6884ddda-f51a-49fd-92a1-6897d2eb9752",
+            "df9f6781-77a8-482c-a7ba-08b41275234b"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 2.14
+}

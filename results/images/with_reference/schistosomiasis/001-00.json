@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7d93b512-81be-415b-a499-b6b19183eba8",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true Nestled in Sub-Saharan Africa's misty marshlands, a mystical landscape thrives. Damp tendrils cloak the area, concealing enigmatic secrets. Every step sinks into the lush soil, embracing the visitor like the murky waters. Life beats in rhythmic harmony with the land, shrouded in mystery and vitality. This captivating region, steeped in hidden wonders, pulses with the essence of existence. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.29",
+        "results": "bd3834c2-94e7-40db-92c5-6a47230a0497",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T11:45:02.215Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/bd3834c2-94e7-40db-92c5-6a47230a0497/bd3834c2-94e7-40db-92c5-6a47230a0497.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e3fd4feb-e328-48fd-968c-5daa74275ed5/e3fd4feb-e328-48fd-968c-5daa74275ed5.png",
+            "https://cl.imagineapi.dev/assets/774379b3-6a37-4de7-8387-5a549bae657b/774379b3-6a37-4de7-8387-5a549bae657b.png",
+            "https://cl.imagineapi.dev/assets/410fe2da-724e-4da8-8b6d-06e5d3459dd4/410fe2da-724e-4da8-8b6d-06e5d3459dd4.png",
+            "https://cl.imagineapi.dev/assets/987bf4bb-b232-458a-8ece-c6f22ef4f757/987bf4bb-b232-458a-8ece-c6f22ef4f757.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "410fe2da-724e-4da8-8b6d-06e5d3459dd4",
+            "774379b3-6a37-4de7-8387-5a549bae657b",
+            "987bf4bb-b232-458a-8ece-c6f22ef4f757",
+            "e3fd4feb-e328-48fd-968c-5daa74275ed5"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 1.29
+}

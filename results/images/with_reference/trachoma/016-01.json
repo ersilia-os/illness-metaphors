@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3ed15ebc-1392-4dbe-912a-55eb00ec635a",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In Sub-Saharan Africa, the savannah sprawls under the intense sun, illuminating acacia trees and arid grasslands. This region carries the burdens of colonialism with indigenous huts scattered across the land. Dust swirls, holding whispers of past injustices, while the soil shows scars of exploitation. Despite this, resilient communities move forward, reflecting a blend of strength and endurance in their eyes. Bokeh. Harsh light. Wide angle. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.26",
+        "results": "a90ae117-6e39-4a9d-9a9f-bf90c77fd3c5",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:57:47.094Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a90ae117-6e39-4a9d-9a9f-bf90c77fd3c5/a90ae117-6e39-4a9d-9a9f-bf90c77fd3c5.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/61b06069-b829-4c60-945e-e265013fbaf7/61b06069-b829-4c60-945e-e265013fbaf7.png",
+            "https://cl.imagineapi.dev/assets/f97d0ea6-fc1e-4e40-ae98-4d80efb1ab9d/f97d0ea6-fc1e-4e40-ae98-4d80efb1ab9d.png",
+            "https://cl.imagineapi.dev/assets/6b5dc544-a42b-4a97-88e9-31862b782f67/6b5dc544-a42b-4a97-88e9-31862b782f67.png",
+            "https://cl.imagineapi.dev/assets/aee34867-40a5-4128-b773-b63e56017956/aee34867-40a5-4128-b773-b63e56017956.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "61b06069-b829-4c60-945e-e265013fbaf7",
+            "6b5dc544-a42b-4a97-88e9-31862b782f67",
+            "aee34867-40a5-4128-b773-b63e56017956",
+            "f97d0ea6-fc1e-4e40-ae98-4d80efb1ab9d"
+        ]
+    },
+    "request_name": "016",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.26
+}

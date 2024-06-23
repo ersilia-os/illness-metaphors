@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "09f7bb1d-044d-46cf-8c1a-0a8968c6c74e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In the Sahara Desert of Algeria, barren winds sweep across drought-stricken terrain. Endless sand dunes ripple like forgotten stories, mirages playing tricks on weary eyes. The landscape echoes with a profound solitude, reflecting hidden dangers beneath the surface. This formidable scene captures a haunting beauty tainted by silent erosion, akin to a solemn message borne by the breeze. Photorealistic. Studio light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.13",
+        "results": "18709c35-45bc-4aff-96df-1d0da9590ac3",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:30:39.818Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/18709c35-45bc-4aff-96df-1d0da9590ac3/18709c35-45bc-4aff-96df-1d0da9590ac3.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b4a19a38-38fb-44fe-ba92-ea143c8315f2/b4a19a38-38fb-44fe-ba92-ea143c8315f2.png",
+            "https://cl.imagineapi.dev/assets/c73fb0ed-feb8-4ed6-9ab0-4077c07891a2/c73fb0ed-feb8-4ed6-9ab0-4077c07891a2.png",
+            "https://cl.imagineapi.dev/assets/b085926c-657c-4da7-8da1-cedc9fffe4b1/b085926c-657c-4da7-8da1-cedc9fffe4b1.png",
+            "https://cl.imagineapi.dev/assets/f8482add-6876-4da6-9ac0-70c8d682cc4e/f8482add-6876-4da6-9ac0-70c8d682cc4e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "b085926c-657c-4da7-8da1-cedc9fffe4b1",
+            "b4a19a38-38fb-44fe-ba92-ea143c8315f2",
+            "c73fb0ed-feb8-4ed6-9ab0-4077c07891a2",
+            "f8482add-6876-4da6-9ac0-70c8d682cc4e"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.13
+}

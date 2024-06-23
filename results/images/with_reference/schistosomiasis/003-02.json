@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "8f1ced4e-927a-4b6a-b918-adfefcab05fd",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true Embedded within the Saharan desert, an oasis emerges as a haven for wanderers in Algeria's Tadrart region. Palm trees sway, echoing tales of endurance in this symbolic sanctuary of resilience and hope in a challenging landscape. Bokeh. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.15",
+        "results": "e06131e0-c278-42ac-8d45-abb2bdbbd445",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T12:15:12.729Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e06131e0-c278-42ac-8d45-abb2bdbbd445/e06131e0-c278-42ac-8d45-abb2bdbbd445.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f7ae071c-f1cc-4c5d-bf26-d0ab6304259a/f7ae071c-f1cc-4c5d-bf26-d0ab6304259a.png",
+            "https://cl.imagineapi.dev/assets/ac468cee-7e0a-4bcc-830f-59fd761fc8d9/ac468cee-7e0a-4bcc-830f-59fd761fc8d9.png",
+            "https://cl.imagineapi.dev/assets/285c95c8-811e-4249-8626-bcb53b82e7b5/285c95c8-811e-4249-8626-bcb53b82e7b5.png",
+            "https://cl.imagineapi.dev/assets/670ed802-bc7b-40a0-80b8-9f61dde43b4c/670ed802-bc7b-40a0-80b8-9f61dde43b4c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "285c95c8-811e-4249-8626-bcb53b82e7b5",
+            "670ed802-bc7b-40a0-80b8-9f61dde43b4c",
+            "ac468cee-7e0a-4bcc-830f-59fd761fc8d9",
+            "f7ae071c-f1cc-4c5d-bf26-d0ab6304259a"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.15
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "755a65a7-a120-4e85-bbef-4cf98318ff6f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In a Middle Eastern country, the arid urban landscape shifts from dusty villages to bustling cities. The rooftops, resembling spiny sea urchins, reach skyward under a scorching sun. Time lingers in the heavy air, bearing witness to profound historical challenges in the cityscape. Alleys weave tales of resilience through worn paths, murmuring the silent struggles embedded in the soul of the city. Bokeh. Low lighting. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.1",
+        "results": "50237021-c5a6-481c-aa2b-3b08db05b27c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T10:17:10.018Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/50237021-c5a6-481c-aa2b-3b08db05b27c/50237021-c5a6-481c-aa2b-3b08db05b27c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/0bcc5dcb-c9f7-4c22-ad7a-fadd285e0a32/0bcc5dcb-c9f7-4c22-ad7a-fadd285e0a32.png",
+            "https://cl.imagineapi.dev/assets/3822e19d-4805-4f65-99fe-9cba54bdc645/3822e19d-4805-4f65-99fe-9cba54bdc645.png",
+            "https://cl.imagineapi.dev/assets/81d32750-c563-486a-8de7-78bacfef4520/81d32750-c563-486a-8de7-78bacfef4520.png",
+            "https://cl.imagineapi.dev/assets/b5880bfc-3289-4591-9d7e-d5bc1f8a7e32/b5880bfc-3289-4591-9d7e-d5bc1f8a7e32.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0bcc5dcb-c9f7-4c22-ad7a-fadd285e0a32",
+            "3822e19d-4805-4f65-99fe-9cba54bdc645",
+            "81d32750-c563-486a-8de7-78bacfef4520",
+            "b5880bfc-3289-4591-9d7e-d5bc1f8a7e32"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.1
+}
