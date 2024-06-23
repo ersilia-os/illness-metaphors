@@ -42,7 +42,7 @@ class ImagineApi(object):
         if data_path is None:
             data_path = os.path.abspath(
                 os.path.join(
-                    os.path.dirname(__file__), "..", "..", "data", "jpegs", "microbes"
+                    os.path.dirname(__file__), "..", "..", "data", "jpegs", "reference"
                 )
             )
         self.data_path = data_path
@@ -67,11 +67,11 @@ class ImagineApi(object):
             jpg_filenames.append(fn)
         urls = []
         for jpg_filename in jpg_filenames:
-            reference_number = jpg_filename.split("-")[-1].split(".jpg")[0]
+            reference_number = jpg_filename.split("_")[-1].split(".jpg")[0]
             urls += [
                 (
                     reference_number,
-                    f"https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/microbes/{jpg_filename}?raw=true",
+                    f"https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/{jpg_filename}?raw=true",
                 )
             ]
         return urls
@@ -142,13 +142,14 @@ class ImagineApi(object):
     def generate_and_save_image_urls_with_reference(
         self, request_name, reference_number, prompt, reference_url
     ):
-        iw = round(random.uniform(0.5, 2), 2)
+        iw = round(random.uniform(1, 2.5), 2)
         prompt = f"{reference_url} {prompt} --iw {iw}"
         data = {"prompt": prompt}
         response_data = self.do_request(data)
         response_data["request_name"] = request_name
         response_data["disease_name"] = self.disease_base_name
         response_data["reference_number"] = reference_number
+        response_data["image_weight"] = iw
         json_file = os.path.join(
             self.disease_results_path, f"{request_name}-{reference_number}.json"
         )
