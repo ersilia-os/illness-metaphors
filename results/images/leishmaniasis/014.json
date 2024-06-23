@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "b4f3c66d-ae4e-4cb8-97c2-f52ffc988564",
+        "prompt": "In Libya, the Sahara Desert unfolds, with sun-scorched dunes intermingling with lush oases, mirroring transient mirages. A delicate equilibrium between life and desolation is depicted under the relentless desert sun, creating a captivating yet haunting beauty that enchants observers even after they have looked away. Photorealistic. Dramatic light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "3a71f743-9c26-45ad-9954-5f2f4d5990c5",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:11:05.055Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3a71f743-9c26-45ad-9954-5f2f4d5990c5/3a71f743-9c26-45ad-9954-5f2f4d5990c5.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/5b116375-d9e6-4104-a975-b7050503ddff/5b116375-d9e6-4104-a975-b7050503ddff.png",
+            "https://cl.imagineapi.dev/assets/fef417d5-5b8f-4d13-936b-851f80138950/fef417d5-5b8f-4d13-936b-851f80138950.png",
+            "https://cl.imagineapi.dev/assets/3f1cd878-b7aa-4074-b3b7-850ba28900b3/3f1cd878-b7aa-4074-b3b7-850ba28900b3.png",
+            "https://cl.imagineapi.dev/assets/8057bcfb-dc91-46a9-9e57-94151dfb48c5/8057bcfb-dc91-46a9-9e57-94151dfb48c5.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3f1cd878-b7aa-4074-b3b7-850ba28900b3",
+            "5b116375-d9e6-4104-a975-b7050503ddff",
+            "8057bcfb-dc91-46a9-9e57-94151dfb48c5",
+            "fef417d5-5b8f-4d13-936b-851f80138950"
+        ]
+    },
+    "request_name": "014",
+    "disease_name": "leishmaniasis"
+}

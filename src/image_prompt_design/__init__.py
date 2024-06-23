@@ -183,3 +183,35 @@ class ImagePromptDesignRequest(object):
             max_tokens=word_count * 2,
         )
         return response.choices[0].message.content
+
+    def generate_midsize_landscape_prompt(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=20
+    ):
+        user_prompt = self.generate_bulk_text(
+            system_prompt, user_prompt, assistant_prompt, word_count
+        )
+        client = OpenAI(api_key=self.openai_api_key)
+        system_prompt = """
+        Adapt the text received to strictly 50-70 words. Do not modify. Do not truncate the last sentence.
+        Mention the country, the region and the type of landscape. Be specific. Be concrete. Be concise.
+        Avoid using content that may be censored by DALL-E, Midjourney, StableDiffusion, or Adobe Firefly.
+        """.format(
+            word_count
+        )
+        system_prompt = system_prompt.strip().replace("\n", " ").replace("    ", " ")
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ]
+        if assistant_prompt is not None:
+            assistant_prompt = (
+                assistant_prompt.strip().replace("\n", " ").replace("    ", " ")
+            )
+            messages.append({"role": "assistant", "content": assistant_prompt})
+
+        response = client.chat.completions.create(
+            model=self.model_name,
+            messages=messages,
+            max_tokens=word_count * 2,
+        )
+        return response.choices[0].message.content.replace("\n", " ").replace("*", "")

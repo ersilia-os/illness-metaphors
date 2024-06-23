@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "0b74468e-72d0-4aa4-bb4c-b0048176180a",
+        "prompt": "In Sub-Saharan Africa, the savannah sprawls under the intense sun, illuminating acacia trees and arid grasslands. This region carries the burdens of colonialism with indigenous huts scattered across the land. Dust swirls, holding whispers of past injustices, while the soil shows scars of exploitation. Despite this, resilient communities move forward, reflecting a blend of strength and endurance in their eyes. Bokeh. Harsh light. Wide angle. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "fb809b7b-434f-4c00-8972-8fb5b10e504d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T06:23:17.596Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/fb809b7b-434f-4c00-8972-8fb5b10e504d/fb809b7b-434f-4c00-8972-8fb5b10e504d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a1b7a7c9-5f5d-4c52-8a58-cf04c286a558/a1b7a7c9-5f5d-4c52-8a58-cf04c286a558.png",
+            "https://cl.imagineapi.dev/assets/2cbe5f56-0988-48a2-8bad-5a1ec3b9cd87/2cbe5f56-0988-48a2-8bad-5a1ec3b9cd87.png",
+            "https://cl.imagineapi.dev/assets/32351ea0-ac89-4905-94db-147dbf08286f/32351ea0-ac89-4905-94db-147dbf08286f.png",
+            "https://cl.imagineapi.dev/assets/56e23f86-0635-40a9-9af0-ababbc974afc/56e23f86-0635-40a9-9af0-ababbc974afc.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2cbe5f56-0988-48a2-8bad-5a1ec3b9cd87",
+            "32351ea0-ac89-4905-94db-147dbf08286f",
+            "56e23f86-0635-40a9-9af0-ababbc974afc",
+            "a1b7a7c9-5f5d-4c52-8a58-cf04c286a558"
+        ]
+    },
+    "request_name": "016",
+    "disease_name": "trachoma"
+}

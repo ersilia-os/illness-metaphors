@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "0833944e-28b2-4376-937f-23ce53a5b35e",
+        "prompt": "In the Sahel region of Niger, arid plains stretch under acacia trees, casting long shadows. Nomads' whispers mix with the scent of dry earth. Mud-brick villages stand, resonating with laughter from sunlit children tending goats. A lone traveler on a camel reflects isolation, hinting at estrangement. Colonial legacies linger, shaping the landscape and its narratives in this enduring environment. Bokeh. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "8b84ef14-e19c-4bb1-bb07-a2f9a17deca9",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:24:10.732Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/8b84ef14-e19c-4bb1-bb07-a2f9a17deca9/8b84ef14-e19c-4bb1-bb07-a2f9a17deca9.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/09073cb8-3473-4b27-a9dd-4a05ceef30a9/09073cb8-3473-4b27-a9dd-4a05ceef30a9.png",
+            "https://cl.imagineapi.dev/assets/cbefca23-e3c6-4a6b-9994-77065a4abdf8/cbefca23-e3c6-4a6b-9994-77065a4abdf8.png",
+            "https://cl.imagineapi.dev/assets/d067be14-3495-49be-8ad5-b0ee95e769b9/d067be14-3495-49be-8ad5-b0ee95e769b9.png",
+            "https://cl.imagineapi.dev/assets/1cb0a83b-3720-49fd-a587-8f759ab4eecf/1cb0a83b-3720-49fd-a587-8f759ab4eecf.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "09073cb8-3473-4b27-a9dd-4a05ceef30a9",
+            "1cb0a83b-3720-49fd-a587-8f759ab4eecf",
+            "cbefca23-e3c6-4a6b-9994-77065a4abdf8",
+            "d067be14-3495-49be-8ad5-b0ee95e769b9"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "leishmaniasis"
+}

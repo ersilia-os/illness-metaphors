@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "b9369135-c7ac-493b-b9d7-92e66b99526d",
+        "prompt": "In the Amazon rainforest of Brazil, South America, a sinister landscape emerges. Olive shadows and crimson hints play over the dense canopy, concealing a treacherous environment. Twisting vines and foliage form a green labyrinth, seemingly alive. The atmosphere is tense, hinting at lurking dangers beneath the lush exterior, ready to trap the unsuspecting traveler in a web of mystery and risk. Bokeh. Low lighting. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "c7560e7a-4b18-491a-9388-cf0d583ecb04",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:33:25.289Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/c7560e7a-4b18-491a-9388-cf0d583ecb04/c7560e7a-4b18-491a-9388-cf0d583ecb04.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/dd7ab65e-0213-4b40-aa8a-9b2524ea84aa/dd7ab65e-0213-4b40-aa8a-9b2524ea84aa.png",
+            "https://cl.imagineapi.dev/assets/29994d33-dccc-48e6-bf81-69e7576a1e35/29994d33-dccc-48e6-bf81-69e7576a1e35.png",
+            "https://cl.imagineapi.dev/assets/5dcc10b8-f85d-4e50-b80c-1a3becb3c5d7/5dcc10b8-f85d-4e50-b80c-1a3becb3c5d7.png",
+            "https://cl.imagineapi.dev/assets/0b5f285b-5bd8-42cc-9c8e-6cefeed866c6/0b5f285b-5bd8-42cc-9c8e-6cefeed866c6.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0b5f285b-5bd8-42cc-9c8e-6cefeed866c6",
+            "29994d33-dccc-48e6-bf81-69e7576a1e35",
+            "5dcc10b8-f85d-4e50-b80c-1a3becb3c5d7",
+            "dd7ab65e-0213-4b40-aa8a-9b2524ea84aa"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "leishmaniasis"
+}

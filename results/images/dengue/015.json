@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "0c58859a-84f5-41c8-96c7-b13a6d1d5078",
+        "prompt": "In a tropical landscape in Southeast Asia, poverty and prejudice cast shadows on marginalized huts next to modern facades. Misconceptions spread as the unseen enemy lurks in the heavy air. This harsh terrain grapples with the battle against dengue fever. Bokeh. Low lighting. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "43ddd453-4a4d-4661-b4c2-53493b162252",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:18:27.925Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/43ddd453-4a4d-4661-b4c2-53493b162252/43ddd453-4a4d-4661-b4c2-53493b162252.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/5aaede90-c001-4326-a7cf-cb2d1b782c9c/5aaede90-c001-4326-a7cf-cb2d1b782c9c.png",
+            "https://cl.imagineapi.dev/assets/d41d6eda-2c61-4dd3-b716-27b7ab16d5e4/d41d6eda-2c61-4dd3-b716-27b7ab16d5e4.png",
+            "https://cl.imagineapi.dev/assets/4dc369d6-bae5-455e-836b-96b8f3eab0bc/4dc369d6-bae5-455e-836b-96b8f3eab0bc.png",
+            "https://cl.imagineapi.dev/assets/104195bf-0090-449c-9e40-ab3c548199d2/104195bf-0090-449c-9e40-ab3c548199d2.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "104195bf-0090-449c-9e40-ab3c548199d2",
+            "4dc369d6-bae5-455e-836b-96b8f3eab0bc",
+            "5aaede90-c001-4326-a7cf-cb2d1b782c9c",
+            "d41d6eda-2c61-4dd3-b716-27b7ab16d5e4"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "dengue"
+}

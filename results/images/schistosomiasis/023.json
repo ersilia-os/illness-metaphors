@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "1ae70d5f-a7e2-4058-a034-c7daa41aa688",
+        "prompt": "In the mystical expanse of the Nile Delta in Egypt, murky waters flow among twisted reeds, shrouding mysteries akin to a serpent in shadows. The landscape exudes an enigmatic charm, with an aura teeming with curiosity. A lively yet cryptic ecosystem thrives, masking perils beneath the surface. Here lies a realm of untold truths ready to reveal their mysterious essence to intrepid explorers. . Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "2814074c-6671-4ffb-9134-25fe95b04366",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:26:10.927Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2814074c-6671-4ffb-9134-25fe95b04366/2814074c-6671-4ffb-9134-25fe95b04366.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b981146d-148b-4604-b48e-20818e6e1ee8/b981146d-148b-4604-b48e-20818e6e1ee8.png",
+            "https://cl.imagineapi.dev/assets/c3c207b8-2058-4eb9-a7df-9002ca8323a0/c3c207b8-2058-4eb9-a7df-9002ca8323a0.png",
+            "https://cl.imagineapi.dev/assets/d87107ee-7330-459d-8bb7-8b401cbddc60/d87107ee-7330-459d-8bb7-8b401cbddc60.png",
+            "https://cl.imagineapi.dev/assets/3468acb1-207b-4855-879d-96ee3863d483/3468acb1-207b-4855-879d-96ee3863d483.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3468acb1-207b-4855-879d-96ee3863d483",
+            "b981146d-148b-4604-b48e-20818e6e1ee8",
+            "c3c207b8-2058-4eb9-a7df-9002ca8323a0",
+            "d87107ee-7330-459d-8bb7-8b401cbddc60"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "schistosomiasis"
+}

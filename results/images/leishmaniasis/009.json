@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "b3553842-78c3-44e8-b71b-fa15e2ef6d57",
+        "prompt": "In Morocco's central region, an intricate desert canyon reveals steep cliffs resembling whiplashes. The atmosphere harbors secrecy and imminent danger. This diverse landscape mirrors life's complexities, balancing beauty and peril like the disease-ridden regions of leishmaniasis. Bokeh. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "cdcf0371-bb4b-4860-aa07-f0410dfc320b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:03:29.935Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/cdcf0371-bb4b-4860-aa07-f0410dfc320b/cdcf0371-bb4b-4860-aa07-f0410dfc320b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c896c917-330e-43b2-a414-90e54a64076f/c896c917-330e-43b2-a414-90e54a64076f.png",
+            "https://cl.imagineapi.dev/assets/547b9b3f-aadf-41cc-9f24-31459063f6b7/547b9b3f-aadf-41cc-9f24-31459063f6b7.png",
+            "https://cl.imagineapi.dev/assets/49ff159c-057a-49d8-862a-0e31828641d0/49ff159c-057a-49d8-862a-0e31828641d0.png",
+            "https://cl.imagineapi.dev/assets/80a4ef3e-499e-4cf7-bf11-629c064001ff/80a4ef3e-499e-4cf7-bf11-629c064001ff.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "49ff159c-057a-49d8-862a-0e31828641d0",
+            "547b9b3f-aadf-41cc-9f24-31459063f6b7",
+            "80a4ef3e-499e-4cf7-bf11-629c064001ff",
+            "c896c917-330e-43b2-a414-90e54a64076f"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "leishmaniasis"
+}

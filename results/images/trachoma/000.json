@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "b5a260df-91bc-468b-89e2-721f6a08e3d1",
+        "prompt": "In Sub-Saharan Africa, the vast landscape features mud huts and thatched roofs under the scorching sun and boundless sky. Dusty streets reveal a community grappling with invisible threats and ancient scourges, showing resilience. Children play amidst contaminated wells, while women draw water with faces etched by struggle. Modern medicine battles insidious bacteria in this rural African region. Bokeh. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "dd065e04-a9f8-4534-a700-5e33f0d0ec2e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T21:56:26.821Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/dd065e04-a9f8-4534-a700-5e33f0d0ec2e/dd065e04-a9f8-4534-a700-5e33f0d0ec2e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4cde22e9-2f41-49e2-b2cd-b55d2bf64c53/4cde22e9-2f41-49e2-b2cd-b55d2bf64c53.png",
+            "https://cl.imagineapi.dev/assets/ca07cdf2-7d68-47a0-8004-4a380f188bdc/ca07cdf2-7d68-47a0-8004-4a380f188bdc.png",
+            "https://cl.imagineapi.dev/assets/c61c5980-bd6a-4609-8688-6b907d2ba060/c61c5980-bd6a-4609-8688-6b907d2ba060.png",
+            "https://cl.imagineapi.dev/assets/28917df3-d725-4b90-ad7a-9bcdd41ba705/28917df3-d725-4b90-ad7a-9bcdd41ba705.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "28917df3-d725-4b90-ad7a-9bcdd41ba705",
+            "4cde22e9-2f41-49e2-b2cd-b55d2bf64c53",
+            "c61c5980-bd6a-4609-8688-6b907d2ba060",
+            "ca07cdf2-7d68-47a0-8004-4a380f188bdc"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "trachoma"
+}

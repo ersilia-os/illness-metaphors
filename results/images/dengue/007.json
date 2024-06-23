@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "f5892ad5-22a3-44f3-84ca-003280720e11",
+        "prompt": "In a scorching savanna in Kenya, Africa, a vibrant landscape unfolds with crimson reds, radiant yellows, and opulent purples. The air thickens with warmth and the aroma of scorched earth, as towering trees and weary foliage endure the relentless sun. Raptors pierce the skies with piercing shrieks, blending hues in a fierce ballet of existence, resilience, and submission. Bokeh. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "e5483c2f-724c-4ad9-920f-6b5f10ae33d4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:05:53.370Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e5483c2f-724c-4ad9-920f-6b5f10ae33d4/e5483c2f-724c-4ad9-920f-6b5f10ae33d4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8c62e22a-9670-47fc-b1f0-fd646ef364fa/8c62e22a-9670-47fc-b1f0-fd646ef364fa.png",
+            "https://cl.imagineapi.dev/assets/a3d6da6b-932d-4000-a56f-de0526321c5b/a3d6da6b-932d-4000-a56f-de0526321c5b.png",
+            "https://cl.imagineapi.dev/assets/542767e5-4947-4ad8-b3c6-7d50bb97cf58/542767e5-4947-4ad8-b3c6-7d50bb97cf58.png",
+            "https://cl.imagineapi.dev/assets/dee53e1f-4a22-40b1-8178-756c8c780cf6/dee53e1f-4a22-40b1-8178-756c8c780cf6.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "542767e5-4947-4ad8-b3c6-7d50bb97cf58",
+            "8c62e22a-9670-47fc-b1f0-fd646ef364fa",
+            "a3d6da6b-932d-4000-a56f-de0526321c5b",
+            "dee53e1f-4a22-40b1-8178-756c8c780cf6"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "dengue"
+}

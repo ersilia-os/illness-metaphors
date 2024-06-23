@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "5a68790b-8001-436e-81ae-d51985775891",
+        "prompt": "In Egypt's Nile Valley, beauty merges with peril akin to ancient hieroglyphs. Once a cradle for pharaohs, now harboring latent threats within. Obscure currents bear hidden dangers like parasitic flatworms, a delicate balance of life and suffering. Riverbanks enveloped by reeds witness an eternal battle against schistosomiasis. The country showcases a captivating landscape tainted by a persistent health menace. Bokeh. Dramatic light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "9a79fb22-7c2e-4eda-bfcb-a488eb3896c9",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T23:40:48.861Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9a79fb22-7c2e-4eda-bfcb-a488eb3896c9/9a79fb22-7c2e-4eda-bfcb-a488eb3896c9.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3b036d4b-152c-4271-ad21-c7c8406ea7b4/3b036d4b-152c-4271-ad21-c7c8406ea7b4.png",
+            "https://cl.imagineapi.dev/assets/fd21b941-8720-4485-a259-96624c84125f/fd21b941-8720-4485-a259-96624c84125f.png",
+            "https://cl.imagineapi.dev/assets/dbf7a2bc-9bcf-4e77-b5bc-068db8798f58/dbf7a2bc-9bcf-4e77-b5bc-068db8798f58.png",
+            "https://cl.imagineapi.dev/assets/a4d6f33d-0a1d-4d2f-b9c6-1f66e2dcfe54/a4d6f33d-0a1d-4d2f-b9c6-1f66e2dcfe54.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3b036d4b-152c-4271-ad21-c7c8406ea7b4",
+            "a4d6f33d-0a1d-4d2f-b9c6-1f66e2dcfe54",
+            "dbf7a2bc-9bcf-4e77-b5bc-068db8798f58",
+            "fd21b941-8720-4485-a259-96624c84125f"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "schistosomiasis"
+}

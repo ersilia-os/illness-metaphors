@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "51d37173-4387-4499-b36f-a1e9a2537426",
+        "prompt": "In the arid deserts of North Africa and the Middle East, with their shifting dunes and elusive oases, life teeters on a fragile balance. The scorching heat creates a feverish haze, concealing hidden dangers beneath the sandy expanse. Survival is a relentless battle against the unforgiving elements, echoing the delicate existence shaped by the unseen menace in these lands. Photorealistic. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "7d128692-d82c-411b-af99-5c0f8b78823c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:25:45.215Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7d128692-d82c-411b-af99-5c0f8b78823c/7d128692-d82c-411b-af99-5c0f8b78823c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/d0854206-36de-425d-b546-3cd18b5d9db2/d0854206-36de-425d-b546-3cd18b5d9db2.png",
+            "https://cl.imagineapi.dev/assets/1f72c23f-f796-430e-8d3a-c0cac570e17c/1f72c23f-f796-430e-8d3a-c0cac570e17c.png",
+            "https://cl.imagineapi.dev/assets/9a85ab63-090c-42cf-8a1d-97db29acfc5a/9a85ab63-090c-42cf-8a1d-97db29acfc5a.png",
+            "https://cl.imagineapi.dev/assets/2623c6c2-a194-489e-97e8-997c9c067b1f/2623c6c2-a194-489e-97e8-997c9c067b1f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1f72c23f-f796-430e-8d3a-c0cac570e17c",
+            "2623c6c2-a194-489e-97e8-997c9c067b1f",
+            "9a85ab63-090c-42cf-8a1d-97db29acfc5a",
+            "d0854206-36de-425d-b546-3cd18b5d9db2"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "leishmaniasis"
+}

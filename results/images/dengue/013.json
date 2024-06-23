@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "5a0bbb85-9eb4-4a60-a471-2eb78edfef71",
+        "prompt": "In the urban sprawl of Vietnam's Ho Chi Minh City, the landscape is a surreal mix of clustered buildings and narrow alleys, emitting a sense of unease. Shadows play across faded walls, hinting at hidden dangers. The vibrant streets are a chaotic dance, where a silent predator may strike at any moment. Bokeh. Harsh light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "47793de3-ed1c-4a19-87e4-f380c2e10cac",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:15:16.000Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/47793de3-ed1c-4a19-87e4-f380c2e10cac/47793de3-ed1c-4a19-87e4-f380c2e10cac.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/0b1f8978-e9c9-4c98-962c-174d55e9b89d/0b1f8978-e9c9-4c98-962c-174d55e9b89d.png",
+            "https://cl.imagineapi.dev/assets/7b7db970-ec6b-4593-ab7f-8303aad18759/7b7db970-ec6b-4593-ab7f-8303aad18759.png",
+            "https://cl.imagineapi.dev/assets/03590a91-71d6-4071-abb7-8b656fca6921/03590a91-71d6-4071-abb7-8b656fca6921.png",
+            "https://cl.imagineapi.dev/assets/0877b5ef-7438-4b2d-8784-03b4f3e22047/0877b5ef-7438-4b2d-8784-03b4f3e22047.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "03590a91-71d6-4071-abb7-8b656fca6921",
+            "0877b5ef-7438-4b2d-8784-03b4f3e22047",
+            "0b1f8978-e9c9-4c98-962c-174d55e9b89d",
+            "7b7db970-ec6b-4593-ab7f-8303aad18759"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "dengue"
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "dba6bc07-2653-4e4e-82c0-69210a430e33",
+        "prompt": "In the Sahara Desert of Algeria, barren winds sweep across drought-stricken terrain. Endless sand dunes ripple like forgotten stories, mirages playing tricks on weary eyes. The landscape echoes with a profound solitude, reflecting hidden dangers beneath the surface. This formidable scene captures a haunting beauty tainted by silent erosion, akin to a solemn message borne by the breeze. Photorealistic. Studio light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "5d693dce-2833-476c-9610-02b0e1bfb0fa",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T22:52:06.593Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/5d693dce-2833-476c-9610-02b0e1bfb0fa/5d693dce-2833-476c-9610-02b0e1bfb0fa.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/da8d80de-0688-4b64-9aeb-f2c73864a272/da8d80de-0688-4b64-9aeb-f2c73864a272.png",
+            "https://cl.imagineapi.dev/assets/d3d026e2-469e-48d8-9cae-d45049f68ca9/d3d026e2-469e-48d8-9cae-d45049f68ca9.png",
+            "https://cl.imagineapi.dev/assets/17483e7d-8830-4759-95fb-7189434c96d8/17483e7d-8830-4759-95fb-7189434c96d8.png",
+            "https://cl.imagineapi.dev/assets/71333cb5-1590-4179-829b-5abe81a7df11/71333cb5-1590-4179-829b-5abe81a7df11.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "17483e7d-8830-4759-95fb-7189434c96d8",
+            "71333cb5-1590-4179-829b-5abe81a7df11",
+            "d3d026e2-469e-48d8-9cae-d45049f68ca9",
+            "da8d80de-0688-4b64-9aeb-f2c73864a272"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "trachoma"
+}

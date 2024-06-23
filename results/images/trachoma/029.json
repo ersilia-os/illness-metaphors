@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "adf580c0-5045-4556-a763-ac8dd90d3c81",
+        "prompt": "In the arid savanna region of Ethiopia, East Africa, cracked soil under the relentless sun paints a desolate landscape. Dust veils the scene, reflecting a harsh reality of suffering. Whispers of despair linger amidst the scorching heat in this land of struggle against decay. Bokeh. Low lighting. Landscape photography. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "2b5835f7-8e14-4737-a2a5-958ff9bd2cd4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T06:51:55.534Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2b5835f7-8e14-4737-a2a5-958ff9bd2cd4/2b5835f7-8e14-4737-a2a5-958ff9bd2cd4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/be051e7b-1ee5-4185-afbe-9cc928de6fb4/be051e7b-1ee5-4185-afbe-9cc928de6fb4.png",
+            "https://cl.imagineapi.dev/assets/f93eef4d-f442-44f5-b781-aa8b864d40fa/f93eef4d-f442-44f5-b781-aa8b864d40fa.png",
+            "https://cl.imagineapi.dev/assets/92a6cf03-b4be-4877-bc5a-7f81cf1310e5/92a6cf03-b4be-4877-bc5a-7f81cf1310e5.png",
+            "https://cl.imagineapi.dev/assets/753929ea-c963-4933-8c4a-e6c8527c6221/753929ea-c963-4933-8c4a-e6c8527c6221.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "753929ea-c963-4933-8c4a-e6c8527c6221",
+            "92a6cf03-b4be-4877-bc5a-7f81cf1310e5",
+            "be051e7b-1ee5-4185-afbe-9cc928de6fb4",
+            "f93eef4d-f442-44f5-b781-aa8b864d40fa"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "trachoma"
+}

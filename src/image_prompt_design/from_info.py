@@ -1,7 +1,10 @@
 import collections
 import random
 from . import BaseImagePromptDesigner, ImagePromptDesignRequest
+from .photo_specs import sample_midjourney_sufix
 from . import LOREM_IPSUM
+
+NUM_REPETITIONS = 10
 
 
 class ImageDescriptionFromInfo(BaseImagePromptDesigner):
@@ -58,7 +61,7 @@ class ImageDescriptionFromInfo(BaseImagePromptDesigner):
             for request_name in self.info[agent_name]:
                 agent_request_pairs.append((agent_name, request_name))
         agent_request_pairs = sorted(set(agent_request_pairs))
-        for i in range(5):
+        for i in range(NUM_REPETITIONS):
             agent_name, request_name = random.choice(agent_request_pairs)
             landscape = self.__get_landscape_description(i, agent_name, request_name)
             landscapes.append(landscape)
@@ -129,7 +132,7 @@ class ShortImageDescriptionFromInfo(BaseImagePromptDesigner):
             for request_name in self.info[agent_name]:
                 agent_request_pairs.append((agent_name, request_name))
         agent_request_pairs = sorted(set(agent_request_pairs))
-        for i in range(5):
+        for i in range(NUM_REPETITIONS):
             agent_name, request_name = random.choice(agent_request_pairs)
             landscape = self.__get_short_landscape_description(
                 i, agent_name, request_name
@@ -141,5 +144,68 @@ class ShortImageDescriptionFromInfo(BaseImagePromptDesigner):
         results = collections.OrderedDict()
         landscapes = self._get_short_landscape_descriptions()
         for r in landscapes:
+            results[r["name"]] = r["content"]
+        self.append_to_json(self.name, results)
+
+
+class MidjourneyPrompt(BaseImagePromptDesigner):
+    def __init__(self, disease_name, results_path=None):
+        self.name = "midjourney_prompts"
+        BaseImagePromptDesigner.__init__(
+            self, disease_name=disease_name, results_path=results_path
+        )
+        self.raw_prompts = self.read_json()
+
+    def _get_midjourney_prompt(self, i, agent_name, request_name):
+        name = "{0}".format(str(i).zfill(3))
+        request = self.get_request_if_done(self.name, name)
+        if request is not None:
+            return {"name": name, "content": request}
+        sufix = sample_midjourney_sufix()
+        content = self.raw_prompts[agent_name][request_name]
+        system_prompt = """
+        I want you to generate a landscape description based on the text provided by the user. Be as true to the text as possible.
+        Use mostly nouns, adjectives and verbs in -ing form.
+        Strict requirement: use at least 50 words and no more than 70 words.
+        The user will provide a text and a disease name. You should use one and only one region of incidence of this disease to specify the location of the landscape.
+        Always specify the location of the landscape in the first sentence.
+        Describe atmosphere. Use metaphors associated with the given disease (Susan Sontag). Use literary language (Kapuscinski, Hemingway). Use vivid language.
+        The disease name should not be mentioned in the description, but the metaphors associated with the disease can be captured in the landscape description.
+        """
+        user_prompt = "Describe a landscape that captures the essence of the following text: {0}:\n".format(
+            content
+        )
+        user_prompt += "Note: the disease of interest is: " + self.disease_name + ".\n"
+        assistant_prompt = None
+        response = ImagePromptDesignRequest(
+            self.model_name, self.openai_api_key
+        ).generate_midsize_landscape_prompt(
+            system_prompt,
+            user_prompt,
+            assistant_prompt=assistant_prompt,
+            word_count=50,
+        )
+        response += ". " + sufix
+        response = response.strip()
+        response = response.replace("\n", " ").replace("..", ".")
+        return {"name": name, "content": response}
+
+    def _get_midjourney_prompts(self):
+        mj_prompts = []
+        agent_request_pairs = []
+        for agent_name, v in self.raw_prompts.items():
+            for k, _ in v.items():
+                agent_request_pairs.append((agent_name, k))
+        agent_request_pairs = sorted(set(agent_request_pairs))
+        for i in range(NUM_REPETITIONS*3):
+            agent_name, request_name = random.choice(agent_request_pairs)
+            response = self._get_midjourney_prompt(i, agent_name, request_name)
+            mj_prompts.append(response)
+        return mj_prompts
+
+    def run(self):
+        results = collections.OrderedDict()
+        prompts = self._get_midjourney_prompts()
+        for r in prompts:
             results[r["name"]] = r["content"]
         self.append_to_json(self.name, results)

@@ -8,7 +8,9 @@ from agents.artist import ArtistAgent
 from image_prompt_design.from_info import (
     ImageDescriptionFromInfo,
     ShortImageDescriptionFromInfo,
+    MidjourneyPrompt,
 )
+from imagine.midjourney_api import ImagineApi, PngFetcher
 from utils.converters import InfoJson2Markdown, ImagePromptsJson2Markdown
 from utils.book import PrepareGitBook
 
@@ -30,7 +32,12 @@ class Pipeline(object):
     def _image_prompts(self):
         ShortImageDescriptionFromInfo(self.disease_name, self.results_dir).run()
         ImageDescriptionFromInfo(self.disease_name, self.results_dir).run()
+        MidjourneyPrompt(self.disease_name, self.results_dir).run()
         ImagePromptsJson2Markdown(self.disease_name, self.results_dir).convert()
+
+    def _image_generation(self):
+        ImagineApi(self.disease_name, self.results_dir).run()
+        PngFetcher(self.disease_name, self.results_dir).run()
 
     def _prepare_gitbook(self):
         PrepareGitBook(self.results_dir).run()
@@ -38,6 +45,7 @@ class Pipeline(object):
     def run(self):
         self._agents()
         self._image_prompts()
+        self._image_generation()
         self._prepare_gitbook()
 
 

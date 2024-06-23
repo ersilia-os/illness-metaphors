@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "327a2828-0918-41d8-abeb-81e0bdc884c9",
+        "prompt": "In a scorching desert landscape in Australia, vivid crimson reds, sunlit yellows, and deep purples paint the realm. The air thick with warmth carries scents of scorched earth and withered flora. Towering weary trees endure the relentless sun, while birds of prey wheel overhead with piercing screeches. A tumultuous ballet of colors and a fragile equilibrium between existence and survival unfold. Bokeh. Natural. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "b3858914-b7de-4760-87dc-ac886c77993a",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:35:29.540Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b3858914-b7de-4760-87dc-ac886c77993a/b3858914-b7de-4760-87dc-ac886c77993a.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/eab4731d-70b9-4808-8028-bc13cfb603e7/eab4731d-70b9-4808-8028-bc13cfb603e7.png",
+            "https://cl.imagineapi.dev/assets/2ec70ef0-dbaa-4747-909a-d69a13d8ca89/2ec70ef0-dbaa-4747-909a-d69a13d8ca89.png",
+            "https://cl.imagineapi.dev/assets/9f33bbdd-a238-4a85-afe1-3a076f655426/9f33bbdd-a238-4a85-afe1-3a076f655426.png",
+            "https://cl.imagineapi.dev/assets/bd4942c9-a307-4585-81e1-21234ae8fddb/bd4942c9-a307-4585-81e1-21234ae8fddb.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2ec70ef0-dbaa-4747-909a-d69a13d8ca89",
+            "9f33bbdd-a238-4a85-afe1-3a076f655426",
+            "bd4942c9-a307-4585-81e1-21234ae8fddb",
+            "eab4731d-70b9-4808-8028-bc13cfb603e7"
+        ]
+    },
+    "request_name": "026",
+    "disease_name": "dengue"
+}

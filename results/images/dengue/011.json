@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "64fb8ea9-0def-446d-af7d-7d62c62c081e",
+        "prompt": "In Southeast Asia, intricate alleys wind through frenzied markets, captivating with vivid hues on people's faces. Anticipation hangs heavy in the air, shadowed by the unseen threat of dengue. This bustling landscape paints a vivid picture in this country's urban region, brimming with diverse culture and energy. Photorealistic. Low lighting. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "98dfed6f-e175-4ed0-a157-835c65e4a8c6",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:12:01.209Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/98dfed6f-e175-4ed0-a157-835c65e4a8c6/98dfed6f-e175-4ed0-a157-835c65e4a8c6.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ee86bada-9232-4da2-824e-5f6078f74c04/ee86bada-9232-4da2-824e-5f6078f74c04.png",
+            "https://cl.imagineapi.dev/assets/cbc10d51-5607-4a18-8f06-851a8eeb0d14/cbc10d51-5607-4a18-8f06-851a8eeb0d14.png",
+            "https://cl.imagineapi.dev/assets/814a6073-b966-4dbe-9280-f18d466a068e/814a6073-b966-4dbe-9280-f18d466a068e.png",
+            "https://cl.imagineapi.dev/assets/14137814-448b-44ec-9b56-95dbf1395119/14137814-448b-44ec-9b56-95dbf1395119.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "14137814-448b-44ec-9b56-95dbf1395119",
+            "814a6073-b966-4dbe-9280-f18d466a068e",
+            "cbc10d51-5607-4a18-8f06-851a8eeb0d14",
+            "ee86bada-9232-4da2-824e-5f6078f74c04"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "dengue"
+}

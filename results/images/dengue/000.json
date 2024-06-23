@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "13673fd9-b29e-4811-972c-5c7ecede92ee",
+        "prompt": "In a secluded corner of [Country], within [Region], a dense, humid jungle dominates the landscape, engulfed by a thick canopy that blocks out most light. The atmosphere is heavy with moisture, droplets cling to wet leaves that shimmer with an eerie beauty. Every step forward is a dance with the unknown, as mysteries hide in the lush environment, where unease lurks beneath the surface, ready to strike. Bokeh. Natural. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "ac09f1ea-86e3-48ae-80a7-426c9408cb97",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T23:55:12.797Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ac09f1ea-86e3-48ae-80a7-426c9408cb97/ac09f1ea-86e3-48ae-80a7-426c9408cb97.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2ad88f33-99ed-48ed-a34c-b8c39b2ba3ff/2ad88f33-99ed-48ed-a34c-b8c39b2ba3ff.png",
+            "https://cl.imagineapi.dev/assets/8c0209a9-ef01-4d4d-a30c-9e5228ec11af/8c0209a9-ef01-4d4d-a30c-9e5228ec11af.png",
+            "https://cl.imagineapi.dev/assets/52fd37e4-7710-4c1d-8265-3ff346151b60/52fd37e4-7710-4c1d-8265-3ff346151b60.png",
+            "https://cl.imagineapi.dev/assets/b275f922-57ec-4407-8a9c-37f50b047ce3/b275f922-57ec-4407-8a9c-37f50b047ce3.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2ad88f33-99ed-48ed-a34c-b8c39b2ba3ff",
+            "52fd37e4-7710-4c1d-8265-3ff346151b60",
+            "8c0209a9-ef01-4d4d-a30c-9e5228ec11af",
+            "b275f922-57ec-4407-8a9c-37f50b047ce3"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "dengue"
+}

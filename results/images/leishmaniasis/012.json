@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "09cf0915-ee60-4fdf-88a5-3444eb3dc6a0",
+        "prompt": "In northern Africa, the Sahara Desert's arid region showcases vast dunes constantly shaped by the wind. Despite its unforgiving nature, occasional oases provide temporary relief. The climate exudes intense heat and an air of hidden dangers, reminiscent of the lurking threats posed by this harsh, relentless landscape. Photorealistic. Dramatic light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "b9a45eb3-f3a0-4a4c-8906-364d1425b730",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:07:52.205Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b9a45eb3-f3a0-4a4c-8906-364d1425b730/b9a45eb3-f3a0-4a4c-8906-364d1425b730.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2f5715d1-a2ba-4875-88ab-f656cfd323ed/2f5715d1-a2ba-4875-88ab-f656cfd323ed.png",
+            "https://cl.imagineapi.dev/assets/cb932abe-b79b-463c-b941-c70567e3658d/cb932abe-b79b-463c-b941-c70567e3658d.png",
+            "https://cl.imagineapi.dev/assets/551dbb13-0389-474a-ac9d-41d4f375dd3e/551dbb13-0389-474a-ac9d-41d4f375dd3e.png",
+            "https://cl.imagineapi.dev/assets/a5c2aed2-a0a4-4c60-8ccb-674f13b3de96/a5c2aed2-a0a4-4c60-8ccb-674f13b3de96.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2f5715d1-a2ba-4875-88ab-f656cfd323ed",
+            "551dbb13-0389-474a-ac9d-41d4f375dd3e",
+            "a5c2aed2-a0a4-4c60-8ccb-674f13b3de96",
+            "cb932abe-b79b-463c-b941-c70567e3658d"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "leishmaniasis"
+}

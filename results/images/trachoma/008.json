@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "5516630c-0e14-42d6-a88f-7026d53ea04f",
+        "prompt": "In the Sahel region of Chad, the arid landscape reflects a harsh cycle of devastation and recovery. The cracked earth and resilient acacia trees signify ongoing survival battles. Amid mud-brick houses, shadows play out delicate scenes of existence in a fragile balance. As the sun sets, its golden light hints at the unforgiving nature of this land on the edge of desolation. Bokeh. Studio light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "dc5aa138-5bf1-4767-99c2-d47b046b60c2",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T22:48:08.620Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/dc5aa138-5bf1-4767-99c2-d47b046b60c2/dc5aa138-5bf1-4767-99c2-d47b046b60c2.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/98bfb075-8a6b-4da0-949e-7be7ba3b7516/98bfb075-8a6b-4da0-949e-7be7ba3b7516.png",
+            "https://cl.imagineapi.dev/assets/11033f9b-1f54-439d-b430-75a8d53f8119/11033f9b-1f54-439d-b430-75a8d53f8119.png",
+            "https://cl.imagineapi.dev/assets/4c435b34-af6f-4284-b479-3afe42c57638/4c435b34-af6f-4284-b479-3afe42c57638.png",
+            "https://cl.imagineapi.dev/assets/aaa72c77-280b-4aed-9c0b-f2199789dc4f/aaa72c77-280b-4aed-9c0b-f2199789dc4f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "11033f9b-1f54-439d-b430-75a8d53f8119",
+            "4c435b34-af6f-4284-b479-3afe42c57638",
+            "98bfb075-8a6b-4da0-949e-7be7ba3b7516",
+            "aaa72c77-280b-4aed-9c0b-f2199789dc4f"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "trachoma"
+}

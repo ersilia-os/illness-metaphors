@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "bd361a93-4460-49ef-9c13-8a8cb37736d4",
+        "prompt": "In the region where Egypt, Japan, and the United States meet, a diverse landscape emerges. Cairo's ancient streets blend with Japan's lush forests, showcasing a delicate balance. Amidst the buzzing Aedes aegypti mosquitoes, a mix of vitality and danger fills the air. Here, under the twilight sky, different strains of the virus dance intricately, as dengue lurks with stealth. Bokeh. Natural. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "9f8e4c49-de7c-40d4-b414-7043eaf4cdb4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:33:47.157Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9f8e4c49-de7c-40d4-b414-7043eaf4cdb4/9f8e4c49-de7c-40d4-b414-7043eaf4cdb4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4f74c38b-f416-4527-acfd-274a6b64fc04/4f74c38b-f416-4527-acfd-274a6b64fc04.png",
+            "https://cl.imagineapi.dev/assets/68d2db3a-7644-4a08-8090-e5efdef36c44/68d2db3a-7644-4a08-8090-e5efdef36c44.png",
+            "https://cl.imagineapi.dev/assets/d8133441-f56f-4a00-8da3-83b5a59633b5/d8133441-f56f-4a00-8da3-83b5a59633b5.png",
+            "https://cl.imagineapi.dev/assets/01bb9e40-3b79-4ebc-bce9-f5d77e7bf5b9/01bb9e40-3b79-4ebc-bce9-f5d77e7bf5b9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "01bb9e40-3b79-4ebc-bce9-f5d77e7bf5b9",
+            "4f74c38b-f416-4527-acfd-274a6b64fc04",
+            "68d2db3a-7644-4a08-8090-e5efdef36c44",
+            "d8133441-f56f-4a00-8da3-83b5a59633b5"
+        ]
+    },
+    "request_name": "025",
+    "disease_name": "dengue"
+}
