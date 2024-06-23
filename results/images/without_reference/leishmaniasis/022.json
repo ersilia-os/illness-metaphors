@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "2a971d79-cf0c-4588-8efc-f0ce068571f6",
+        "prompt": "In the Sahel's vast dusty plains in Mali, resilient acacia trees dot the landscape. The air carries the scent of parched earth, mingling with nomadic whispers. Sun-kissed children play amidst mud-brick villages, echoing with laughter. A lone traveler on a camel symbolizes isolation in a region shadowed by colonialism, shaping narratives and divisions. Bokeh. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "79993399-09bd-4ee9-be20-de7dc45d1be3",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:22:17.240Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/79993399-09bd-4ee9-be20-de7dc45d1be3/79993399-09bd-4ee9-be20-de7dc45d1be3.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/92aa9298-71d4-403d-946b-57cc9d10f957/92aa9298-71d4-403d-946b-57cc9d10f957.png",
+            "https://cl.imagineapi.dev/assets/f7207061-e1d3-47ae-a52d-d64f8c2301c3/f7207061-e1d3-47ae-a52d-d64f8c2301c3.png",
+            "https://cl.imagineapi.dev/assets/811b9d82-05c1-4f31-997b-bb3cc0a629fa/811b9d82-05c1-4f31-997b-bb3cc0a629fa.png",
+            "https://cl.imagineapi.dev/assets/95f53939-92ca-4331-ac06-094e48b01532/95f53939-92ca-4331-ac06-094e48b01532.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "811b9d82-05c1-4f31-997b-bb3cc0a629fa",
+            "92aa9298-71d4-403d-946b-57cc9d10f957",
+            "95f53939-92ca-4331-ac06-094e48b01532",
+            "f7207061-e1d3-47ae-a52d-d64f8c2301c3"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "leishmaniasis"
+}

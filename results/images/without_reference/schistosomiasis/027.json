@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "03393af7-eddb-42b1-be65-228dfbffa4cd",
+        "prompt": "In Sub-Saharan Africa's savanna plains, ancient acacia trees stand tall, embodying resilience with their thorny branches. The red earth exudes a pungent scent under the high sun. Amidst this landscape, wildebeests migrate, rivers meander, and shimmering reflections dance in the sweltering heat. This region, rich in natural beauty, showcases the essence of African wilderness. Photorealistic. Natural. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "ef4b67f6-454d-4166-9809-25b338ef7a87",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:32:49.507Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ef4b67f6-454d-4166-9809-25b338ef7a87/ef4b67f6-454d-4166-9809-25b338ef7a87.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8e6f1088-845e-4812-861a-8be16a1f5698/8e6f1088-845e-4812-861a-8be16a1f5698.png",
+            "https://cl.imagineapi.dev/assets/59eb6f7c-8f08-4568-86ac-ee32547f5853/59eb6f7c-8f08-4568-86ac-ee32547f5853.png",
+            "https://cl.imagineapi.dev/assets/fe3b2bc4-a7f8-4b1a-8cc1-bc972a5600ca/fe3b2bc4-a7f8-4b1a-8cc1-bc972a5600ca.png",
+            "https://cl.imagineapi.dev/assets/13527a8f-80e9-454c-aed4-4c17f33b64ed/13527a8f-80e9-454c-aed4-4c17f33b64ed.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "13527a8f-80e9-454c-aed4-4c17f33b64ed",
+            "59eb6f7c-8f08-4568-86ac-ee32547f5853",
+            "8e6f1088-845e-4812-861a-8be16a1f5698",
+            "fe3b2bc4-a7f8-4b1a-8cc1-bc972a5600ca"
+        ]
+    },
+    "request_name": "027",
+    "disease_name": "schistosomiasis"
+}

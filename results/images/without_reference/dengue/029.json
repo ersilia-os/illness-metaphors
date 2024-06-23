@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "eba7bf40-307b-4ba7-a59e-0d445d32189e",
+        "prompt": "In the tropical savanna of Kenya, East Africa, the sun casts vibrant colors across the sky. Heat waves distort the air as tall acacia trees stand resilient. The cracked earth reflects the harsh landscape while wildlife adapts to the echoing rhythms of the savanna. Bokeh. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "b17f43f4-12c2-43ea-9290-c9ad40db9d27",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:40:13.034Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b17f43f4-12c2-43ea-9290-c9ad40db9d27/b17f43f4-12c2-43ea-9290-c9ad40db9d27.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a2051aff-4715-4805-b006-1b4b14c05585/a2051aff-4715-4805-b006-1b4b14c05585.png",
+            "https://cl.imagineapi.dev/assets/229cebb4-6272-47b4-a02c-413388752fa0/229cebb4-6272-47b4-a02c-413388752fa0.png",
+            "https://cl.imagineapi.dev/assets/ec7a8d08-d70b-4a04-a955-eb005c6d5758/ec7a8d08-d70b-4a04-a955-eb005c6d5758.png",
+            "https://cl.imagineapi.dev/assets/3101bab8-85c9-49c9-b985-de5cb0c6b801/3101bab8-85c9-49c9-b985-de5cb0c6b801.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "229cebb4-6272-47b4-a02c-413388752fa0",
+            "3101bab8-85c9-49c9-b985-de5cb0c6b801",
+            "a2051aff-4715-4805-b006-1b4b14c05585",
+            "ec7a8d08-d70b-4a04-a955-eb005c6d5758"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "dengue"
+}

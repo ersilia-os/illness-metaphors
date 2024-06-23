@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "27117050-24ff-44f7-a86b-240ac5fec193",
+        "prompt": "In a tropical jungle in Southeast Asia, shadows play over the lush greenery, carrying the weight of history. The relentless sun radiates colonial echoes, as exotic blooms scent the air. Humidity envelops the scene, hiding dangers in the undergrowth. Rustling palm fronds complement distant cries, nature's drama unfolding amidst the remnants of past injustices. Photorealistic. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "097ccbb9-ad7f-4d15-a75a-398b21b6cb10",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:13:26.586Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/097ccbb9-ad7f-4d15-a75a-398b21b6cb10/097ccbb9-ad7f-4d15-a75a-398b21b6cb10.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/7d3515c9-0cca-444e-9d26-36ec07b0f3c2/7d3515c9-0cca-444e-9d26-36ec07b0f3c2.png",
+            "https://cl.imagineapi.dev/assets/2f05b817-c485-4da8-8170-cc935f028a06/2f05b817-c485-4da8-8170-cc935f028a06.png",
+            "https://cl.imagineapi.dev/assets/b3e5e1d7-96bc-4a4c-80cf-009fdfdf8635/b3e5e1d7-96bc-4a4c-80cf-009fdfdf8635.png",
+            "https://cl.imagineapi.dev/assets/7be4dd88-e182-4170-8db9-1b9c0cdc303a/7be4dd88-e182-4170-8db9-1b9c0cdc303a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2f05b817-c485-4da8-8170-cc935f028a06",
+            "7be4dd88-e182-4170-8db9-1b9c0cdc303a",
+            "7d3515c9-0cca-444e-9d26-36ec07b0f3c2",
+            "b3e5e1d7-96bc-4a4c-80cf-009fdfdf8635"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "dengue"
+}

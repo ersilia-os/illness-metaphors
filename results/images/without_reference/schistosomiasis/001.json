@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "c53c7ee5-739a-4767-a0b3-a17e92a39acd",
+        "prompt": "Nestled in Sub-Saharan Africa's misty marshlands, a mystical landscape thrives. Damp tendrils cloak the area, concealing enigmatic secrets. Every step sinks into the lush soil, embracing the visitor like the murky waters. Life beats in rhythmic harmony with the land, shrouded in mystery and vitality. This captivating region, steeped in hidden wonders, pulses with the essence of existence. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "8edd6072-7914-449a-8852-0817e2fb9d02",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T23:23:51.815Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/8edd6072-7914-449a-8852-0817e2fb9d02/8edd6072-7914-449a-8852-0817e2fb9d02.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4666d479-80a8-4ee9-9ca0-c79709dcb4a9/4666d479-80a8-4ee9-9ca0-c79709dcb4a9.png",
+            "https://cl.imagineapi.dev/assets/05efb9bb-a06d-402a-b21e-12029b5d77b8/05efb9bb-a06d-402a-b21e-12029b5d77b8.png",
+            "https://cl.imagineapi.dev/assets/fc16bdb3-9441-4074-aa81-bfb7bd1c8439/fc16bdb3-9441-4074-aa81-bfb7bd1c8439.png",
+            "https://cl.imagineapi.dev/assets/077fa3ae-ead3-4db7-bd14-5529dd554dbc/077fa3ae-ead3-4db7-bd14-5529dd554dbc.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "05efb9bb-a06d-402a-b21e-12029b5d77b8",
+            "077fa3ae-ead3-4db7-bd14-5529dd554dbc",
+            "4666d479-80a8-4ee9-9ca0-c79709dcb4a9",
+            "fc16bdb3-9441-4074-aa81-bfb7bd1c8439"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "schistosomiasis"
+}

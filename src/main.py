@@ -36,7 +36,8 @@ class Pipeline(object):
         ImagePromptsJson2Markdown(self.disease_name, self.results_dir).convert()
 
     def _image_generation(self):
-        ImagineApi(self.disease_name, self.results_dir).run()
+        ImagineApi(self.disease_name, False, self.results_dir).run()
+        ImagineApi(self.disease_name, True, self.results_dir).run()
         PngFetcher(self.disease_name, self.results_dir).run()
 
     def _prepare_gitbook(self):

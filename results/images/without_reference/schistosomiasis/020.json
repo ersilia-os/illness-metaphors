@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "c76b8de5-bb26-4dec-a6dd-08ecc93c5319",
+        "prompt": "In the arid desert of sub-Saharan Africa, shadows play on red and golden dunes. Time flows like shifting sand, rich with ancient tales of conquest. Jagged cliffs and deep ravines hint at past battles. Resilient flora defy nature, their twisted shapes symbolizing defiance. This landscape, found in Namibia, Southern Africa, is a testament to enduring history and nature's strength. Photorealistic. Studio light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "127c6d86-2569-49e4-84ed-21bf10fe3b15",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:15:45.702Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/127c6d86-2569-49e4-84ed-21bf10fe3b15/127c6d86-2569-49e4-84ed-21bf10fe3b15.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f1bf567e-130c-4b92-b889-42f9b7cbc597/f1bf567e-130c-4b92-b889-42f9b7cbc597.png",
+            "https://cl.imagineapi.dev/assets/d1278686-d681-458b-88c2-0ee6e8cc97d8/d1278686-d681-458b-88c2-0ee6e8cc97d8.png",
+            "https://cl.imagineapi.dev/assets/931636cc-8f5f-464b-9f17-eac1f65028ba/931636cc-8f5f-464b-9f17-eac1f65028ba.png",
+            "https://cl.imagineapi.dev/assets/f3ff38a8-db36-4834-a80e-5f9873965b1a/f3ff38a8-db36-4834-a80e-5f9873965b1a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "931636cc-8f5f-464b-9f17-eac1f65028ba",
+            "d1278686-d681-458b-88c2-0ee6e8cc97d8",
+            "f1bf567e-130c-4b92-b889-42f9b7cbc597",
+            "f3ff38a8-db36-4834-a80e-5f9873965b1a"
+        ]
+    },
+    "request_name": "020",
+    "disease_name": "schistosomiasis"
+}

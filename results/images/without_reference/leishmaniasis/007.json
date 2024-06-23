@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "8c37ed8e-08e9-4589-9e3c-4bf10ff10112",
+        "prompt": "Amid a desolate marsh in Romania's Danube Delta, a chilling mist envelops the murky waters, creating an ominous scene. The region's mysteries lure daring adventurers into its secretive embrace. An atmosphere ripe with suspense shrouds the area, akin to a stealthy predator on the prowl. Unveiling hidden dangers and enigmatic stories, this landscape is a realm where risks intertwine with destiny's whims. Photorealistic. Studio light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "e7e39852-c90c-45b1-b9a8-e747680ec882",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:00:46.760Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e7e39852-c90c-45b1-b9a8-e747680ec882/e7e39852-c90c-45b1-b9a8-e747680ec882.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/45fb8676-abb3-4b92-a332-5b406cceb039/45fb8676-abb3-4b92-a332-5b406cceb039.png",
+            "https://cl.imagineapi.dev/assets/790eb7f8-fb8c-457e-8b8f-ee1c539c5ca2/790eb7f8-fb8c-457e-8b8f-ee1c539c5ca2.png",
+            "https://cl.imagineapi.dev/assets/4e7b22ee-f365-4cc7-b030-01e76f2e97df/4e7b22ee-f365-4cc7-b030-01e76f2e97df.png",
+            "https://cl.imagineapi.dev/assets/a0d3cc46-94ce-44a9-a3c7-a00c6e031e66/a0d3cc46-94ce-44a9-a3c7-a00c6e031e66.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "45fb8676-abb3-4b92-a332-5b406cceb039",
+            "4e7b22ee-f365-4cc7-b030-01e76f2e97df",
+            "790eb7f8-fb8c-457e-8b8f-ee1c539c5ca2",
+            "a0d3cc46-94ce-44a9-a3c7-a00c6e031e66"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "leishmaniasis"
+}

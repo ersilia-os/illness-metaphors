@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "43e4b2df-2077-4ab2-a5bf-8a121184f491",
+        "prompt": "In the Southeast Asian country, Indonesia, lush jungle thrives, vibrant foliage intertwining amid a cacophony of buzzing insects. Tranquil sapphire pools dot the landscape, their serene appearance concealing lurking perils beneath, shrouded by the dense, untamed jungle canopy in this remote region. Photorealistic. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "303fae73-d7a8-48ac-95b0-ab6a44fdac96",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:38:32.900Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/303fae73-d7a8-48ac-95b0-ab6a44fdac96/303fae73-d7a8-48ac-95b0-ab6a44fdac96.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a25555a9-e76a-425d-888b-ede580e6e38f/a25555a9-e76a-425d-888b-ede580e6e38f.png",
+            "https://cl.imagineapi.dev/assets/c3d3a0d8-8d37-43f9-8fbf-72d718632080/c3d3a0d8-8d37-43f9-8fbf-72d718632080.png",
+            "https://cl.imagineapi.dev/assets/cbec3db8-5600-412a-8c84-a933c39375d0/cbec3db8-5600-412a-8c84-a933c39375d0.png",
+            "https://cl.imagineapi.dev/assets/0d3b69bd-00f6-47dd-bb9e-d9892adf46df/0d3b69bd-00f6-47dd-bb9e-d9892adf46df.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0d3b69bd-00f6-47dd-bb9e-d9892adf46df",
+            "a25555a9-e76a-425d-888b-ede580e6e38f",
+            "c3d3a0d8-8d37-43f9-8fbf-72d718632080",
+            "cbec3db8-5600-412a-8c84-a933c39375d0"
+        ]
+    },
+    "request_name": "028",
+    "disease_name": "dengue"
+}

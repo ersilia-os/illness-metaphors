@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "20c3229e-30a0-450d-a5e8-bf3ae0d0a2a6",
+        "prompt": "In the heart of the Sahel region in Niger, vast deserts bear witness to nomadic tribes clinging to ancient rituals and battling trachoma\u2019s legacy. Sunlit barren lands echo with tales of survival and suffering, the scorching sun chronicling their struggle. Sparse vegetation and dusty pathways illustrate a landscape where the past is etched into the collective memory, embodying a harsh reality under the relentless gaze of the sun. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "b75596ed-69a9-400a-aafe-6708590e37ee",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-22T21:58:08.126Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b75596ed-69a9-400a-aafe-6708590e37ee/b75596ed-69a9-400a-aafe-6708590e37ee.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3ebfe485-e61d-402e-b94e-0933d0890bae/3ebfe485-e61d-402e-b94e-0933d0890bae.png",
+            "https://cl.imagineapi.dev/assets/d35cac81-2c2d-4d54-b0ab-ea14f6a52f32/d35cac81-2c2d-4d54-b0ab-ea14f6a52f32.png",
+            "https://cl.imagineapi.dev/assets/15b7281d-8574-4148-96d4-814c3cdf0b06/15b7281d-8574-4148-96d4-814c3cdf0b06.png",
+            "https://cl.imagineapi.dev/assets/8da1f6f7-7e9a-4dac-a144-2d989a71d267/8da1f6f7-7e9a-4dac-a144-2d989a71d267.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "15b7281d-8574-4148-96d4-814c3cdf0b06",
+            "3ebfe485-e61d-402e-b94e-0933d0890bae",
+            "8da1f6f7-7e9a-4dac-a144-2d989a71d267",
+            "d35cac81-2c2d-4d54-b0ab-ea14f6a52f32"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "trachoma"
+}

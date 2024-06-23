@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "3a3b5a24-af2b-4821-b6a5-a757c49c7df2",
+        "prompt": "In a forsaken desert in Jordan's Wadi Rum region, jagged rocks and shifting sands dominate. The harsh sun casts unforgiving light and shadows, illuminating boulders scattered like remnants of a violent past. The sandy expanse mirrors a silent menace beneath, felt in every gust of wind through the desolate landscape. Bokeh. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "07cef4da-056a-4ce6-b353-abf702b1d477",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:02:03.291Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/07cef4da-056a-4ce6-b353-abf702b1d477/07cef4da-056a-4ce6-b353-abf702b1d477.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/41527138-3a5c-4253-b7ae-4c991137516e/41527138-3a5c-4253-b7ae-4c991137516e.png",
+            "https://cl.imagineapi.dev/assets/e873cd01-489c-4ea3-8edf-068258bbc22a/e873cd01-489c-4ea3-8edf-068258bbc22a.png",
+            "https://cl.imagineapi.dev/assets/bfcfd546-9d52-4bf5-a8fe-a7ee4f511a02/bfcfd546-9d52-4bf5-a8fe-a7ee4f511a02.png",
+            "https://cl.imagineapi.dev/assets/7fa5aaae-6b47-4b1b-acf7-4b3fefe7dcc3/7fa5aaae-6b47-4b1b-acf7-4b3fefe7dcc3.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "41527138-3a5c-4253-b7ae-4c991137516e",
+            "7fa5aaae-6b47-4b1b-acf7-4b3fefe7dcc3",
+            "bfcfd546-9d52-4bf5-a8fe-a7ee4f511a02",
+            "e873cd01-489c-4ea3-8edf-068258bbc22a"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "leishmaniasis"
+}

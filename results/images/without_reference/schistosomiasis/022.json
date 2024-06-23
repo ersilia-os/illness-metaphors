@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "23d1f936-57b9-4d29-aef2-d93b74f8d924",
+        "prompt": "In Egypt, within the Saharan desert, an enchanting oasis flourishes, radiating tranquility and hope in a harsh landscape. The golden waters of the Nile River shine brightly, offering renewal under the scorching sun. Graceful palm trees sway in the warm breeze, embodying resilience amid majestic sand dunes. This sanctuary promises transformation, a timeless refuge for spirits seeking rebirth and freedom. Bokeh. Harsh light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "eff44020-51e2-43ec-a45d-5ad809370ae7",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:23:52.742Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/eff44020-51e2-43ec-a45d-5ad809370ae7/eff44020-51e2-43ec-a45d-5ad809370ae7.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3dadabbb-26a6-4999-b28a-ff9e2f17ee5a/3dadabbb-26a6-4999-b28a-ff9e2f17ee5a.png",
+            "https://cl.imagineapi.dev/assets/46a023e6-4284-4d75-a804-0f5c8082f133/46a023e6-4284-4d75-a804-0f5c8082f133.png",
+            "https://cl.imagineapi.dev/assets/1d1792d7-11fa-487d-9d44-e57cb421af80/1d1792d7-11fa-487d-9d44-e57cb421af80.png",
+            "https://cl.imagineapi.dev/assets/27cbfc4c-e13d-4488-bac4-2fb7ea145b7f/27cbfc4c-e13d-4488-bac4-2fb7ea145b7f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1d1792d7-11fa-487d-9d44-e57cb421af80",
+            "27cbfc4c-e13d-4488-bac4-2fb7ea145b7f",
+            "3dadabbb-26a6-4999-b28a-ff9e2f17ee5a",
+            "46a023e6-4284-4d75-a804-0f5c8082f133"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "schistosomiasis"
+}

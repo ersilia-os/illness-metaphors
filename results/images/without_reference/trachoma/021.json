@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "8012e13b-437f-43ea-bd26-0395c4a27f0c",
+        "prompt": "In Africa's arid deserts, dust envelops ancient villages and sprawling cities under the unforgiving sun. Sharp shadows dance across rooftops resembling spiny sea urchins. An air of desolation and harshness fills the urban landscape, reflecting an unseen affliction silently haunting the populace. Photorealistic. Natural. Shot from below. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0",
+        "results": "81bdf2ed-2ccb-4446-a4f6-7f50c9d44f86",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T06:33:56.978Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/81bdf2ed-2ccb-4446-a4f6-7f50c9d44f86/81bdf2ed-2ccb-4446-a4f6-7f50c9d44f86.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/729d0626-efe2-48fa-b6a0-2d73444d64ae/729d0626-efe2-48fa-b6a0-2d73444d64ae.png",
+            "https://cl.imagineapi.dev/assets/74bd6f65-7a40-412a-b6fb-13ebc53d75bb/74bd6f65-7a40-412a-b6fb-13ebc53d75bb.png",
+            "https://cl.imagineapi.dev/assets/3e0d5f08-cd40-4a8c-ac0c-29ee38495890/3e0d5f08-cd40-4a8c-ac0c-29ee38495890.png",
+            "https://cl.imagineapi.dev/assets/74fa1a2e-5bf2-45e5-ad2e-ac77a446f324/74fa1a2e-5bf2-45e5-ad2e-ac77a446f324.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3e0d5f08-cd40-4a8c-ac0c-29ee38495890",
+            "729d0626-efe2-48fa-b6a0-2d73444d64ae",
+            "74bd6f65-7a40-412a-b6fb-13ebc53d75bb",
+            "74fa1a2e-5bf2-45e5-ad2e-ac77a446f324"
+        ]
+    },
+    "request_name": "021",
+    "disease_name": "trachoma"
+}

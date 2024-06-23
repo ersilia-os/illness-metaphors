@@ -197,7 +197,7 @@ class MidjourneyPrompt(BaseImagePromptDesigner):
             for k, _ in v.items():
                 agent_request_pairs.append((agent_name, k))
         agent_request_pairs = sorted(set(agent_request_pairs))
-        for i in range(NUM_REPETITIONS*3):
+        for i in range(NUM_REPETITIONS * 3):
             agent_name, request_name = random.choice(agent_request_pairs)
             response = self._get_midjourney_prompt(i, agent_name, request_name)
             mj_prompts.append(response)

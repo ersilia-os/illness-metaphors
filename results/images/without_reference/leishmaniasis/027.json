@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "2ca2b405-7b84-42d2-9008-d488f0ad87da",
+        "prompt": "In Morocco's central region lies a narrow, winding desert canyon with sharp cliffs towering overhead. The diverse landscape paints a hauntingly beautiful scene, reminiscent of a mysterious tale. The atmosphere is heavy with secrets, hidden dangers and unseen threats lurking beneath the golden surface, waiting to ensnare the unwary wanderer. Photorealistic. Studio light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "d19ae814-6fb5-42b5-a9b8-a4799a0897dc",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:30:32.634Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d19ae814-6fb5-42b5-a9b8-a4799a0897dc/d19ae814-6fb5-42b5-a9b8-a4799a0897dc.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bcaecc7d-3ed9-4e76-811c-59209b8111c0/bcaecc7d-3ed9-4e76-811c-59209b8111c0.png",
+            "https://cl.imagineapi.dev/assets/c35be124-5546-4a72-9b94-aeecd98f0171/c35be124-5546-4a72-9b94-aeecd98f0171.png",
+            "https://cl.imagineapi.dev/assets/2071ec47-8c2f-4ec1-a5fa-b9e545986d66/2071ec47-8c2f-4ec1-a5fa-b9e545986d66.png",
+            "https://cl.imagineapi.dev/assets/5febfdd8-3719-4e68-937a-2eea2baf97f9/5febfdd8-3719-4e68-937a-2eea2baf97f9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2071ec47-8c2f-4ec1-a5fa-b9e545986d66",
+            "5febfdd8-3719-4e68-937a-2eea2baf97f9",
+            "bcaecc7d-3ed9-4e76-811c-59209b8111c0",
+            "c35be124-5546-4a72-9b94-aeecd98f0171"
+        ]
+    },
+    "request_name": "027",
+    "disease_name": "leishmaniasis"
+}

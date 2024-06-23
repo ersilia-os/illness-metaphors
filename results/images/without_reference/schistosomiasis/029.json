@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "889c8ae8-b6d0-4925-a8a4-ce29c4620a3c",
+        "prompt": "In the Sahara Desert, located in Algeria, North Africa, an oasis stands out amid the barren landscape. Sand dunes stretch like waves of desolation, contrasting with resilient palm trees swaying in the scorching wind. The oasis symbolizes hope and freedom, encapsulating a powerful paradox of confinement and escape - a poignant reflection of hidden struggles beneath the serene facade. Photorealistic. Harsh light. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "619c057f-766a-4314-b4a3-cb20730e7e9d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:35:44.402Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/619c057f-766a-4314-b4a3-cb20730e7e9d/619c057f-766a-4314-b4a3-cb20730e7e9d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/71deb790-1853-46c6-bc6e-d76b910362b1/71deb790-1853-46c6-bc6e-d76b910362b1.png",
+            "https://cl.imagineapi.dev/assets/1f80e73f-672d-4902-b646-5ed1c8a9aa34/1f80e73f-672d-4902-b646-5ed1c8a9aa34.png",
+            "https://cl.imagineapi.dev/assets/be070602-f44d-4457-8141-f362cd4d4d6c/be070602-f44d-4457-8141-f362cd4d4d6c.png",
+            "https://cl.imagineapi.dev/assets/0f391e67-d620-47b8-a702-f3e4364f4581/0f391e67-d620-47b8-a702-f3e4364f4581.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0f391e67-d620-47b8-a702-f3e4364f4581",
+            "1f80e73f-672d-4902-b646-5ed1c8a9aa34",
+            "71deb790-1853-46c6-bc6e-d76b910362b1",
+            "be070602-f44d-4457-8141-f362cd4d4d6c"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "schistosomiasis"
+}

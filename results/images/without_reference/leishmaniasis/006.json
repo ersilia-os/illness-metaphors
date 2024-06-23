@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "2bcbfa1c-a64b-4383-bea2-8da1f428d8af",
+        "prompt": "In the arid Bihar hills of India, the relentless landscape mirrors a battle against visceral leishmaniasis. The scorching sun beats down on rocky terrain with sparse vegetation akin to scars on rocky outcrops. Bodies battle in the feverish heat, bearing enlarged spleens and livers. The haunting presence of this disease besieges internal organs, where life hangs in the balance. Photorealistic. Dramatic light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "113f5433-9e2c-4818-b92d-01233caad6c6",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:59:06.928Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/113f5433-9e2c-4818-b92d-01233caad6c6/113f5433-9e2c-4818-b92d-01233caad6c6.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/587ed2c9-8bd0-4e54-9e87-a0f7d095e736/587ed2c9-8bd0-4e54-9e87-a0f7d095e736.png",
+            "https://cl.imagineapi.dev/assets/a134652f-0a2e-4e79-af5b-8733a6b83c6a/a134652f-0a2e-4e79-af5b-8733a6b83c6a.png",
+            "https://cl.imagineapi.dev/assets/63b68695-c5df-4d30-bf00-07f0fa174660/63b68695-c5df-4d30-bf00-07f0fa174660.png",
+            "https://cl.imagineapi.dev/assets/1e7e8177-a94b-4e44-a8bb-069f4c510b4c/1e7e8177-a94b-4e44-a8bb-069f4c510b4c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1e7e8177-a94b-4e44-a8bb-069f4c510b4c",
+            "587ed2c9-8bd0-4e54-9e87-a0f7d095e736",
+            "63b68695-c5df-4d30-bf00-07f0fa174660",
+            "a134652f-0a2e-4e79-af5b-8733a6b83c6a"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "leishmaniasis"
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "0eecc808-dba1-4b99-b2b5-da6ee22fcd6b",
+        "prompt": "In the depths of an emerald forest in Brazil's Amazon Rainforest, sinuous rivers meander amidst lush greenery, shrouded in an eerie allure. Shadows play on the dark waters, concealing lurking perils. The dense vegetation traps unsuspecting wanderers, mirroring a sinister presence. The landscape, with its winding rivers, reflects an ominous air of concealed danger, showcasing a menacing charm unique to this region. Photorealistic. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "28681abd-f617-46f8-8533-9f01bb4a880c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:29:45.018Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/28681abd-f617-46f8-8533-9f01bb4a880c/28681abd-f617-46f8-8533-9f01bb4a880c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e124bb2d-9277-41d5-a8bf-fc316ff0cbb6/e124bb2d-9277-41d5-a8bf-fc316ff0cbb6.png",
+            "https://cl.imagineapi.dev/assets/80c82c88-89b9-467d-a371-8a7dce6452c6/80c82c88-89b9-467d-a371-8a7dce6452c6.png",
+            "https://cl.imagineapi.dev/assets/43b37ca7-68a3-44ca-a865-7cf567872ed0/43b37ca7-68a3-44ca-a865-7cf567872ed0.png",
+            "https://cl.imagineapi.dev/assets/ad3c9c1c-e5e7-4c0e-b437-79c81de0280b/ad3c9c1c-e5e7-4c0e-b437-79c81de0280b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "43b37ca7-68a3-44ca-a865-7cf567872ed0",
+            "80c82c88-89b9-467d-a371-8a7dce6452c6",
+            "ad3c9c1c-e5e7-4c0e-b437-79c81de0280b",
+            "e124bb2d-9277-41d5-a8bf-fc316ff0cbb6"
+        ]
+    },
+    "request_name": "025",
+    "disease_name": "schistosomiasis"
+}

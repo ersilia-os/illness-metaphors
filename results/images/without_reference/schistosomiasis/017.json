@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "ce887810-153f-4127-8018-54dc5bb139f9",
+        "prompt": "In the tropical rainforest of Costa Rica, Central America, a captivating scene emerges. Enveloped in mist, the lush canopy teems with life. Vibrant greenery embellishes aged boulders by sparkling streams, reflecting the dance of aquatic creatures. Nature's mysteries saturate the air, echoing a melodic exchange between intertwined organisms. These whispers convey stories of renewal amid the misty shroud. Photorealistic. Natural. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "55d61b92-b68e-47fd-8ba5-721b60af64e8",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T07:08:23.153Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/55d61b92-b68e-47fd-8ba5-721b60af64e8/55d61b92-b68e-47fd-8ba5-721b60af64e8.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/dd7d8b8e-0f3f-421c-95ea-e3d4a4231341/dd7d8b8e-0f3f-421c-95ea-e3d4a4231341.png",
+            "https://cl.imagineapi.dev/assets/2e291e4c-0403-4b44-a3c4-8f99827b99f7/2e291e4c-0403-4b44-a3c4-8f99827b99f7.png",
+            "https://cl.imagineapi.dev/assets/f20e8656-d44a-4963-8ceb-9a392a8070db/f20e8656-d44a-4963-8ceb-9a392a8070db.png",
+            "https://cl.imagineapi.dev/assets/35e53a6b-c0a6-43b0-8b97-f6e5eb18c0c5/35e53a6b-c0a6-43b0-8b97-f6e5eb18c0c5.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2e291e4c-0403-4b44-a3c4-8f99827b99f7",
+            "35e53a6b-c0a6-43b0-8b97-f6e5eb18c0c5",
+            "dd7d8b8e-0f3f-421c-95ea-e3d4a4231341",
+            "f20e8656-d44a-4963-8ceb-9a392a8070db"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "schistosomiasis"
+}

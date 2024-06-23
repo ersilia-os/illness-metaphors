@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "a257c2fa-9169-4b22-84ec-371d5692d508",
+        "prompt": "In the arid desert of Sahara, North Africa, oases provide a brief escape amid vast sand dunes under the fierce sun. Here, light and shadow play a captivating game in an unforgiving environment, where life battles against nature's harshness. The unpredictable affliction echoing through these lands remains unseen yet ever-present. Bokeh. Harsh light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "a33a72ae-d0d3-4da2-a137-64bebd12d625",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:31:54.625Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a33a72ae-d0d3-4da2-a137-64bebd12d625/a33a72ae-d0d3-4da2-a137-64bebd12d625.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6b4684b9-c7a7-4a05-b8a4-b0c231cf5ada/6b4684b9-c7a7-4a05-b8a4-b0c231cf5ada.png",
+            "https://cl.imagineapi.dev/assets/42a56021-0195-4a89-acce-a58c81239889/42a56021-0195-4a89-acce-a58c81239889.png",
+            "https://cl.imagineapi.dev/assets/f5711bbf-e3d0-43b3-9e0f-5036c01f4bd8/f5711bbf-e3d0-43b3-9e0f-5036c01f4bd8.png",
+            "https://cl.imagineapi.dev/assets/e3e1f2ef-58f8-40a1-bebc-a500595d0bd0/e3e1f2ef-58f8-40a1-bebc-a500595d0bd0.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "42a56021-0195-4a89-acce-a58c81239889",
+            "6b4684b9-c7a7-4a05-b8a4-b0c231cf5ada",
+            "e3e1f2ef-58f8-40a1-bebc-a500595d0bd0",
+            "f5711bbf-e3d0-43b3-9e0f-5036c01f4bd8"
+        ]
+    },
+    "request_name": "028",
+    "disease_name": "leishmaniasis"
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "32c30ae5-91e8-4d8f-ab70-de4763429fc4",
+        "prompt": "In India's Bihar hills, under the scorching sun and relentless winds, a haunting landscape emerges. Barren flora fights the weathered rocks, mirroring the internal battle within bodies. The region embodies a relentless siege on internal organs, where each individual struggles with enlarged spleens and livers, isolated in pain. This unforgiving terrain in Bihar, India, bears witness to the visceral affliction haunting its residents. Photorealistic. Natural. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "61d5003a-9620-41b4-b988-d7d335ae4ed3",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T01:13:59.121Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/61d5003a-9620-41b4-b988-d7d335ae4ed3/61d5003a-9620-41b4-b988-d7d335ae4ed3.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2d4043a6-6fb2-411b-8960-cb046906f40c/2d4043a6-6fb2-411b-8960-cb046906f40c.png",
+            "https://cl.imagineapi.dev/assets/877dd1b1-5b72-4815-9c54-af1f2a886332/877dd1b1-5b72-4815-9c54-af1f2a886332.png",
+            "https://cl.imagineapi.dev/assets/a6560e52-b8e2-4b98-90b3-25e4ab708d98/a6560e52-b8e2-4b98-90b3-25e4ab708d98.png",
+            "https://cl.imagineapi.dev/assets/3ffb6081-e521-44f2-a253-2a3c0e15b49d/3ffb6081-e521-44f2-a253-2a3c0e15b49d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2d4043a6-6fb2-411b-8960-cb046906f40c",
+            "3ffb6081-e521-44f2-a253-2a3c0e15b49d",
+            "877dd1b1-5b72-4815-9c54-af1f2a886332",
+            "a6560e52-b8e2-4b98-90b3-25e4ab708d98"
+        ]
+    },
+    "request_name": "016",
+    "disease_name": "leishmaniasis"
+}

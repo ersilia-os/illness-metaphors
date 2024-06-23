@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "36d7303e-34a9-49c2-9b05-24d918875099",
+        "prompt": "In the tropical rainforest of Costa Rica, Central America, dense canopies of tall intertwining trees create patterns of light and shadow on the forest floor. The air is hot and humid, teeming with life. Exotic birds sing, creatures move about, and a distant roar echoes. As you delve further, an unsettling feeling akin to nighttime emerges. This eerie beauty conceals hidden dangers of the region. Bokeh. Low lighting. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "737d8ee8-ed4b-4f13-80ab-682de4af8101",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T00:21:01.674Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/737d8ee8-ed4b-4f13-80ab-682de4af8101/737d8ee8-ed4b-4f13-80ab-682de4af8101.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/140c3da1-e454-41a2-abc8-0bf1bf426ca1/140c3da1-e454-41a2-abc8-0bf1bf426ca1.png",
+            "https://cl.imagineapi.dev/assets/19b78211-78e3-4553-bb80-df36c1b2de14/19b78211-78e3-4553-bb80-df36c1b2de14.png",
+            "https://cl.imagineapi.dev/assets/26c3a9ea-ef49-4e07-a18c-cb6bb8bdb9ac/26c3a9ea-ef49-4e07-a18c-cb6bb8bdb9ac.png",
+            "https://cl.imagineapi.dev/assets/04bcf57f-3da5-4726-b83e-216e10f3a686/04bcf57f-3da5-4726-b83e-216e10f3a686.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "04bcf57f-3da5-4726-b83e-216e10f3a686",
+            "140c3da1-e454-41a2-abc8-0bf1bf426ca1",
+            "19b78211-78e3-4553-bb80-df36c1b2de14",
+            "26c3a9ea-ef49-4e07-a18c-cb6bb8bdb9ac"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "dengue"
+}
