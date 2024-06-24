@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3042a934-aa8f-4192-9b1b-fc3daf155234",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the Sahel region of Mali, the arid landscape showcases a village enveloped in swirling dust under the relentless sun. Women, draped in vibrant cloths, gather in the courtyard amidst scorching afternoons and dry winds. The weariness in their eyes, etched faces of children, and tears on their cheeks reflect the communal sorrow amidst humble dwellings. Bokeh. Low lighting. Shot from above. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.16",
+        "results": "ad7339bc-3d2d-4cf5-8c03-d3f63733bd67",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:22:38.212Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ad7339bc-3d2d-4cf5-8c03-d3f63733bd67/ad7339bc-3d2d-4cf5-8c03-d3f63733bd67.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e961c887-b121-4c47-980a-a782b54390cf/e961c887-b121-4c47-980a-a782b54390cf.png",
+            "https://cl.imagineapi.dev/assets/826ba6cb-10ea-4a0f-8e96-148571fb97af/826ba6cb-10ea-4a0f-8e96-148571fb97af.png",
+            "https://cl.imagineapi.dev/assets/2d017458-d5ec-4073-92fc-dacfe018c343/2d017458-d5ec-4073-92fc-dacfe018c343.png",
+            "https://cl.imagineapi.dev/assets/d1814882-5d19-49d0-8bf0-bfd8ba4768f7/d1814882-5d19-49d0-8bf0-bfd8ba4768f7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2d017458-d5ec-4073-92fc-dacfe018c343",
+            "826ba6cb-10ea-4a0f-8e96-148571fb97af",
+            "d1814882-5d19-49d0-8bf0-bfd8ba4768f7",
+            "e961c887-b121-4c47-980a-a782b54390cf"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.16
+}

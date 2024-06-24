@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "54244af9-cec5-4ea0-a53b-76a78144bcc6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In northern Africa, the Sahara Desert's arid region showcases vast dunes constantly shaped by the wind. Despite its unforgiving nature, occasional oases provide temporary relief. The climate exudes intense heat and an air of hidden dangers, reminiscent of the lurking threats posed by this harsh, relentless landscape. Photorealistic. Dramatic light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.04",
+        "results": "9297b654-81dd-44b6-8216-04f9efa9ae34",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:11:30.245Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9297b654-81dd-44b6-8216-04f9efa9ae34/9297b654-81dd-44b6-8216-04f9efa9ae34.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6b57629a-8d6a-48ff-acbd-fca4a8af9424/6b57629a-8d6a-48ff-acbd-fca4a8af9424.png",
+            "https://cl.imagineapi.dev/assets/21f8d665-5c0b-4234-a43f-c7e8ec36a227/21f8d665-5c0b-4234-a43f-c7e8ec36a227.png",
+            "https://cl.imagineapi.dev/assets/bce0bc98-478a-49ba-916a-27e6c5ad636a/bce0bc98-478a-49ba-916a-27e6c5ad636a.png",
+            "https://cl.imagineapi.dev/assets/91e87a25-719f-465c-bc74-23eb3aa2cb1f/91e87a25-719f-465c-bc74-23eb3aa2cb1f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "21f8d665-5c0b-4234-a43f-c7e8ec36a227",
+            "6b57629a-8d6a-48ff-acbd-fca4a8af9424",
+            "91e87a25-719f-465c-bc74-23eb3aa2cb1f",
+            "bce0bc98-478a-49ba-916a-27e6c5ad636a"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 2.04
+}

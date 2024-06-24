@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "cf119933-d049-4bdb-9c36-4de83921f524",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true Within the serene Egyptian landscape beside the Nile River, beauty intertwines with danger. Silent menace lurks beneath the waters, as parasitic flatworms hide, shifting the delicate balance between existence and affliction. Echoing history, the reed-cloaked riverbanks unfold the timeless struggle against schistosomiasis. This enduring legacy challenges medical progress in tropical and subtropical Egypt. Photorealistic. Low lighting. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.21",
+        "results": "f4b6a23e-e003-4a5d-8563-47ed402bedca",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:43:22.266Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f4b6a23e-e003-4a5d-8563-47ed402bedca/f4b6a23e-e003-4a5d-8563-47ed402bedca.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/cc452773-43cd-45c0-ab3b-dff054de530a/cc452773-43cd-45c0-ab3b-dff054de530a.png",
+            "https://cl.imagineapi.dev/assets/920619f5-3ba2-46e8-9efe-4791a5dbf9f2/920619f5-3ba2-46e8-9efe-4791a5dbf9f2.png",
+            "https://cl.imagineapi.dev/assets/6cde67b3-736d-465c-9013-8b81d8270c0d/6cde67b3-736d-465c-9013-8b81d8270c0d.png",
+            "https://cl.imagineapi.dev/assets/e208f092-47e7-44c6-871b-9a5e870e04cc/e208f092-47e7-44c6-871b-9a5e870e04cc.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "6cde67b3-736d-465c-9013-8b81d8270c0d",
+            "920619f5-3ba2-46e8-9efe-4791a5dbf9f2",
+            "cc452773-43cd-45c0-ab3b-dff054de530a",
+            "e208f092-47e7-44c6-871b-9a5e870e04cc"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.21
+}

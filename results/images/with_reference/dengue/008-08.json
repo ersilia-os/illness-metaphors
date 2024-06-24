@@ -1,0 +1,14 @@
+{
+    "errors": [
+        {
+            "message": "An unexpected error occurred.",
+            "extensions": {
+                "code": "INTERNAL_SERVER_ERROR"
+            }
+        }
+    ],
+    "request_name": "008",
+    "disease_name": "dengue",
+    "reference_number": "08",
+    "image_weight": 1.18
+}

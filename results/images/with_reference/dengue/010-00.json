@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ec42eff8-6267-4b05-8aa1-b0a7a2c1f902",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_12493_00.jpg?raw=true In the heart of Brazil's Amazon Rainforest, a dangerous yet stunning landscape thrives. Lush foliage hides lurking danger amidst vibrant petals and subtle whispers. The atmosphere oscillates between gentle caresses and abrupt outbursts, embodying a capricious lover's spirit.Rio, Amazon Rainforest, tropical forest. Photorealistic. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.02",
+        "results": "0739cc28-263b-4662-8d7a-f9ffd08acffa",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:36:49.185Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0739cc28-263b-4662-8d7a-f9ffd08acffa/0739cc28-263b-4662-8d7a-f9ffd08acffa.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/419541d0-8c94-45da-9a8e-8a3285c201b7/419541d0-8c94-45da-9a8e-8a3285c201b7.png",
+            "https://cl.imagineapi.dev/assets/f3d8bb8d-42d4-4142-b149-b89a47968a69/f3d8bb8d-42d4-4142-b149-b89a47968a69.png",
+            "https://cl.imagineapi.dev/assets/21b1512b-a12e-4df1-a691-e092b70d8a7b/21b1512b-a12e-4df1-a691-e092b70d8a7b.png",
+            "https://cl.imagineapi.dev/assets/c74ea4af-c309-463c-a18b-1aaacb19b060/c74ea4af-c309-463c-a18b-1aaacb19b060.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "21b1512b-a12e-4df1-a691-e092b70d8a7b",
+            "419541d0-8c94-45da-9a8e-8a3285c201b7",
+            "c74ea4af-c309-463c-a18b-1aaacb19b060",
+            "f3d8bb8d-42d4-4142-b149-b89a47968a69"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "dengue",
+    "reference_number": "00",
+    "image_weight": 2.02
+}

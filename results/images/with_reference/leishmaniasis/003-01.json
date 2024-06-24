@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "6a887f86-199e-4443-af82-bb06500b8eba",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In the Amazon rainforest in Brazil, the landscape is a complex interplay of shadows and light, with vines weaving a web of colors. The air carries the scent of decay, signifying the hidden dangers within the lush canopy. Rustling leaves hint at the teeming life and perils lurking in this landscape ravaged by disease. Photorealistic. Low lighting. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.61",
+        "results": "ae28cc4f-dfda-4093-ab4d-d07bc9f8e6aa",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:45:31.413Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ae28cc4f-dfda-4093-ab4d-d07bc9f8e6aa/ae28cc4f-dfda-4093-ab4d-d07bc9f8e6aa.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b55e8c4c-f215-4deb-bd33-b7f2f9ba9c65/b55e8c4c-f215-4deb-bd33-b7f2f9ba9c65.png",
+            "https://cl.imagineapi.dev/assets/7b24916b-39c6-4f7f-9dff-b141f09c1338/7b24916b-39c6-4f7f-9dff-b141f09c1338.png",
+            "https://cl.imagineapi.dev/assets/16ab22ff-04d4-4e0c-9eec-140685a844ab/16ab22ff-04d4-4e0c-9eec-140685a844ab.png",
+            "https://cl.imagineapi.dev/assets/6fe8ae4d-dec2-4277-b979-9931c2799ece/6fe8ae4d-dec2-4277-b979-9931c2799ece.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "16ab22ff-04d4-4e0c-9eec-140685a844ab",
+            "6fe8ae4d-dec2-4277-b979-9931c2799ece",
+            "7b24916b-39c6-4f7f-9dff-b141f09c1338",
+            "b55e8c4c-f215-4deb-bd33-b7f2f9ba9c65"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 1.61
+}

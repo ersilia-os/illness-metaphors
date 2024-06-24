@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "5d5da4c4-830f-43c2-8b8b-ae2b26c3634f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_2779_00.jpg?raw=true In West Africa, by the riverside, lush foliage veils the sky. Sunlight shyly filters through, casting fleeting shadows on the moist ground. The humid air hums with unseen black flies near murky waters. Traditional huts with thatched roofs line the riverbanks like weary sentinels. Children play in the shallow mud barefoot, their laughter echoing across the serene landscape of the region. Bokeh. Studio light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.08",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T06:52:29.718Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "017",
+    "disease_name": "onchocerciasis",
+    "reference_number": "00",
+    "image_weight": 1.08
+}

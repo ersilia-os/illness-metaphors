@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "cef05efb-6f61-448e-a709-0083e48dbc64",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In Sub-Saharan Africa, within a rural settlement, mud huts and thatched roofs endure under the radiant sun. Dusty streets tell stories of a community grappling with challenges, their resilience unwavering. Children play near water sources, while women fetch water with determination. Amidst this African landscape, modern medical efforts combat invisible threats, creating a striking atmosphere under the captivating light and bokeh. Bokeh. Studio light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.38",
+        "results": "f05f15f2-437c-4357-97ed-45eb5992eb20",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:54:08.207Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f05f15f2-437c-4357-97ed-45eb5992eb20/f05f15f2-437c-4357-97ed-45eb5992eb20.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/5766457a-11d0-4f86-8723-eaa08e143961/5766457a-11d0-4f86-8723-eaa08e143961.png",
+            "https://cl.imagineapi.dev/assets/badbb15a-9a97-43dd-b92e-8019827b455a/badbb15a-9a97-43dd-b92e-8019827b455a.png",
+            "https://cl.imagineapi.dev/assets/99d40136-b6ce-4673-8272-24eaca4bed52/99d40136-b6ce-4673-8272-24eaca4bed52.png",
+            "https://cl.imagineapi.dev/assets/3b0abcd5-315f-4230-a3e5-799bbe576058/3b0abcd5-315f-4230-a3e5-799bbe576058.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3b0abcd5-315f-4230-a3e5-799bbe576058",
+            "5766457a-11d0-4f86-8723-eaa08e143961",
+            "99d40136-b6ce-4673-8272-24eaca4bed52",
+            "badbb15a-9a97-43dd-b92e-8019827b455a"
+        ]
+    },
+    "request_name": "028",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 2.38
+}

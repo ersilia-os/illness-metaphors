@@ -1,0 +1,23 @@
+{
+    "data": {
+        "id": "88cce651-d5f5-4597-9762-c6fad47a15e2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the tropical rainforests of Brazil, South America, dense canopies filter sunlight over lush greenery, ancient rocks, and sunlit streams. Life flourishes in this verdant habitat, showcasing a vibrant ecosystem in the heart of the Amazon region. Photorealistic. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.85",
+        "results": "8b396470-4e32-4b7e-8ec2-a0af45ced686",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:24:50.917Z",
+        "status": "in-progress",
+        "progress": 35,
+        "url": "https://cl.imagineapi.dev/assets/8b396470-4e32-4b7e-8ec2-a0af45ced686/8b396470-4e32-4b7e-8ec2-a0af45ced686.webp",
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "8b396470-4e32-4b7e-8ec2-a0af45ced686",
+            "b9e616de-4fe6-4536-801f-77fbb6e4684a"
+        ]
+    },
+    "request_name": "021",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.85
+}

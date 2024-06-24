@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7cbf4856-321f-4bb2-9346-dce7c4a31898",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In the dense jungle of Mato Grosso, Brazil, shadows of olive and hints of crimson cloak the lush foliage. Creeping vines entwine in this tropical landscape, where whispers of danger create a tapestry of mystery and trepidation. The atmosphere is thick with the insidious nature of the unknown, promising an adventure fraught with peril for daring explorers. Photorealistic. Low lighting. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.46",
+        "results": "98491e39-0e0e-4390-92e2-9c2c5f734eea",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:39:07.521Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/98491e39-0e0e-4390-92e2-9c2c5f734eea/98491e39-0e0e-4390-92e2-9c2c5f734eea.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8a3061ec-d7e5-409e-9e01-26125de10c3a/8a3061ec-d7e5-409e-9e01-26125de10c3a.png",
+            "https://cl.imagineapi.dev/assets/26a6ee13-5983-4a63-8533-57872a436b55/26a6ee13-5983-4a63-8533-57872a436b55.png",
+            "https://cl.imagineapi.dev/assets/ec7c352d-4287-4b48-8b2e-7d3e0d909620/ec7c352d-4287-4b48-8b2e-7d3e0d909620.png",
+            "https://cl.imagineapi.dev/assets/284fb1b5-aeb6-4d40-a1c5-430f40c59365/284fb1b5-aeb6-4d40-a1c5-430f40c59365.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "26a6ee13-5983-4a63-8533-57872a436b55",
+            "284fb1b5-aeb6-4d40-a1c5-430f40c59365",
+            "8a3061ec-d7e5-409e-9e01-26125de10c3a",
+            "ec7c352d-4287-4b48-8b2e-7d3e0d909620"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.46
+}

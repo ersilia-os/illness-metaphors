@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "a1fb0464-1c8e-4def-abe1-6afb20262245",
+        "prompt": "In the African savannah of Tanzania, East Africa, lies a treacherous terrain with deceptive shadows and hidden perils. The undulating landscape conceals dangers beneath its graceful appearance, with an atmosphere alive with secrets of survival and demise. The region's air is thick with foreboding, hinting at invisible threats awaiting beyond the horizon. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "6a2c4d76-6328-4a0b-847e-77d587f0007a",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:44:45.854Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6a2c4d76-6328-4a0b-847e-77d587f0007a/6a2c4d76-6328-4a0b-847e-77d587f0007a.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/61117e6a-10da-45b1-9ed4-0e3d43cd9fff/61117e6a-10da-45b1-9ed4-0e3d43cd9fff.png",
+            "https://cl.imagineapi.dev/assets/c2306794-77d0-40d9-af78-7b6ec9cc7846/c2306794-77d0-40d9-af78-7b6ec9cc7846.png",
+            "https://cl.imagineapi.dev/assets/b504b4b2-8b10-4960-9454-13366bbbf109/b504b4b2-8b10-4960-9454-13366bbbf109.png",
+            "https://cl.imagineapi.dev/assets/3170417b-6499-434c-82a6-a7dc5aa4e703/3170417b-6499-434c-82a6-a7dc5aa4e703.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3170417b-6499-434c-82a6-a7dc5aa4e703",
+            "61117e6a-10da-45b1-9ed4-0e3d43cd9fff",
+            "b504b4b2-8b10-4960-9454-13366bbbf109",
+            "c2306794-77d0-40d9-af78-7b6ec9cc7846"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "onchocerciasis"
+}

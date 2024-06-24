@@ -1,0 +1,25 @@
+{
+    "data": {
+        "id": "0692bfdc-0e4b-4f76-8c0c-6529eccc4115",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018d_12.jpg?raw=true Within the fiery Southeast Asian plains, a vivid palette of red, yellow, and purple hues reverberates across the terrain. The atmosphere simmers with anticipation, akin to a brewing tempest. Beneath the relentless sun, elongated shadows creep across the landscape, evoking a sense of impending unease. The vibrancy and tension of the scene envelop the region in an eerie, yet captivating embrace. Bokeh. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.89",
+        "results": "a0106d2b-92fb-4bea-a41d-f0fa9ec3a3db",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:01:55.072Z",
+        "status": "in-progress",
+        "progress": 75,
+        "url": "https://cl.imagineapi.dev/assets/a0106d2b-92fb-4bea-a41d-f0fa9ec3a3db/a0106d2b-92fb-4bea-a41d-f0fa9ec3a3db.webp",
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "7be0486f-121b-4960-91fc-83ba194ad757",
+            "80da2bb4-65fa-43ff-be40-700e25f1d5f5",
+            "a0106d2b-92fb-4bea-a41d-f0fa9ec3a3db",
+            "c5d15e39-e291-4e0e-b657-53579083a599"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "dengue",
+    "reference_number": "12",
+    "image_weight": 1.89
+}

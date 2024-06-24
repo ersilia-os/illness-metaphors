@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "1730d7ad-84b0-4fbd-b67b-1d2ecead9443",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20206_01.jpg?raw=true In Southeast Asia's urban setting, bustling alleys, prickly buildings, and narrow passageways create an uneasy atmosphere. Shadows play eerie games, uncertainty thickens the air. Streets throb with restless energy, hiding lurking dangers within the maze of architecture. Each corner whispers secrets, each step unveils risks in this labyrinthine world of hidden perils and unseen threats in a specific country, region, and urban landscape. Photorealistic. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.86",
+        "results": "69b8b61c-e427-4610-b930-8ee9f4beba2e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:48:51.024Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/69b8b61c-e427-4610-b930-8ee9f4beba2e/69b8b61c-e427-4610-b930-8ee9f4beba2e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/48a11359-a2cd-40ac-b543-a874e31df0af/48a11359-a2cd-40ac-b543-a874e31df0af.png",
+            "https://cl.imagineapi.dev/assets/629a45df-1b79-423b-9b3d-7a0814c00c3d/629a45df-1b79-423b-9b3d-7a0814c00c3d.png",
+            "https://cl.imagineapi.dev/assets/6034ed7a-95b7-4774-a47b-1d557c2d8d0d/6034ed7a-95b7-4774-a47b-1d557c2d8d0d.png",
+            "https://cl.imagineapi.dev/assets/af500ab5-7178-4f13-a9d2-8d63d27d0e62/af500ab5-7178-4f13-a9d2-8d63d27d0e62.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "48a11359-a2cd-40ac-b543-a874e31df0af",
+            "6034ed7a-95b7-4774-a47b-1d557c2d8d0d",
+            "629a45df-1b79-423b-9b3d-7a0814c00c3d",
+            "af500ab5-7178-4f13-a9d2-8d63d27d0e62"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "dengue",
+    "reference_number": "01",
+    "image_weight": 1.86
+}

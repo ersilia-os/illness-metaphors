@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "033ffb45-75e0-4bc1-aa34-feb6eedfe17b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In a tropical delta in Malaysia's Sarawak region, the swampy landscape merges land and water, with mud, tangled roots, and shallow waters forming eerie terrains. Dense canopy casting a greenish hue over stagnant pools mirrors the overgrown foliage. Concealed within shadows, dangers hide amidst buzzing insects' symphony. This delicate ecosystem balances decay and rebirth, yet unseen threats loom in the afflicted areas. Photorealistic. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.31",
+        "results": "95794f56-ee69-4405-a798-b3019a865f3b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:47:07.486Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/95794f56-ee69-4405-a798-b3019a865f3b/95794f56-ee69-4405-a798-b3019a865f3b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c4bec77c-01c1-4bdf-a63c-f74f0166fc82/c4bec77c-01c1-4bdf-a63c-f74f0166fc82.png",
+            "https://cl.imagineapi.dev/assets/56c0e27c-1a28-4c79-9a0a-e26acbd94c1c/56c0e27c-1a28-4c79-9a0a-e26acbd94c1c.png",
+            "https://cl.imagineapi.dev/assets/722e8542-f3ce-400e-ac57-61095cf641dc/722e8542-f3ce-400e-ac57-61095cf641dc.png",
+            "https://cl.imagineapi.dev/assets/de342acd-8805-41d1-8125-8a2aa05c0a23/de342acd-8805-41d1-8125-8a2aa05c0a23.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "56c0e27c-1a28-4c79-9a0a-e26acbd94c1c",
+            "722e8542-f3ce-400e-ac57-61095cf641dc",
+            "c4bec77c-01c1-4bdf-a63c-f74f0166fc82",
+            "de342acd-8805-41d1-8125-8a2aa05c0a23"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 1.31
+}

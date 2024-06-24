@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "7a8a4dbc-329b-4f9a-afef-d30df1082079",
+        "prompt": "In Zimbabwe, Southern Africa, the savannah landscape tells a story of enduring turmoil. The scorching sun mirrors a troubled past, while rivers flow carrying tales of hidden anguish. Scarred by historical interventions, the region's plains reflect a blend of tradition and displacement. Communities struggle under stigma, weaving a narrative of resilience amid adversity. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "04cbf08c-bee8-45de-bcc8-c25e90571b48",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:34:48.815Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/04cbf08c-bee8-45de-bcc8-c25e90571b48/04cbf08c-bee8-45de-bcc8-c25e90571b48.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2218565f-5ce6-4bfc-b106-620c6ff715c0/2218565f-5ce6-4bfc-b106-620c6ff715c0.png",
+            "https://cl.imagineapi.dev/assets/a331158e-d531-4f2b-884c-d2ce82b25a2a/a331158e-d531-4f2b-884c-d2ce82b25a2a.png",
+            "https://cl.imagineapi.dev/assets/a83dfae6-1d7a-441e-b2de-3c0852e545d4/a83dfae6-1d7a-441e-b2de-3c0852e545d4.png",
+            "https://cl.imagineapi.dev/assets/58b9fc8e-65ff-4879-935a-114935ccbcf7/58b9fc8e-65ff-4879-935a-114935ccbcf7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2218565f-5ce6-4bfc-b106-620c6ff715c0",
+            "58b9fc8e-65ff-4879-935a-114935ccbcf7",
+            "a331158e-d531-4f2b-884c-d2ce82b25a2a",
+            "a83dfae6-1d7a-441e-b2de-3c0852e545d4"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "onchocerciasis"
+}

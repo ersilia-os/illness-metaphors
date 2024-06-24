@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f5bb8c5f-b225-4bca-8746-1822081ad0c2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true Deep in the mysterious marshlands of the Sundarbans, Bangladesh, tangled secrets whisper amid sultry mist. Sinister figures float atop murky waters, while camouflaged creatures prowl with tenacity. Nature's eerie performance is a ballet of shadows and silence, concealing hidden dangers in its humid embrace, mirroring the relentless pursuit of an unknown adversary. Bokeh. Studio light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.95",
+        "results": "aab783c7-f466-43c0-ad47-5b7ec8785d18",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:59:31.731Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/aab783c7-f466-43c0-ad47-5b7ec8785d18/aab783c7-f466-43c0-ad47-5b7ec8785d18.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/75b3e066-4a41-4e16-879d-adfda4367e07/75b3e066-4a41-4e16-879d-adfda4367e07.png",
+            "https://cl.imagineapi.dev/assets/13155e3b-f8d2-4c8e-9e02-345c05fb056a/13155e3b-f8d2-4c8e-9e02-345c05fb056a.png",
+            "https://cl.imagineapi.dev/assets/44e6a191-7c42-48dd-b8d8-c007e13c209b/44e6a191-7c42-48dd-b8d8-c007e13c209b.png",
+            "https://cl.imagineapi.dev/assets/b67ea3e7-672d-4fa6-8fa8-a5036f3ee4fb/b67ea3e7-672d-4fa6-8fa8-a5036f3ee4fb.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "13155e3b-f8d2-4c8e-9e02-345c05fb056a",
+            "44e6a191-7c42-48dd-b8d8-c007e13c209b",
+            "75b3e066-4a41-4e16-879d-adfda4367e07",
+            "b67ea3e7-672d-4fa6-8fa8-a5036f3ee4fb"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.95
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "bf33ef6e-5a3b-48e7-a6ec-e22e2d564f05",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In Yemen, the Rub' al Khali desert offers an unforgiving landscape. Sand dunes shift endlessly under the scorching sun. Oases emerge as rare beacons of hope amid the whispers of ancient curses and unseen predators, creating a mesmerizing dance of survival where life and death collide beneath the relentless gaze of the sky. Photorealistic. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.03",
+        "results": "b21770d0-490a-4212-aded-3018f393ea32",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:01:44.046Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b21770d0-490a-4212-aded-3018f393ea32/b21770d0-490a-4212-aded-3018f393ea32.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/459d30f5-314c-4a62-9637-2671da652dfa/459d30f5-314c-4a62-9637-2671da652dfa.png",
+            "https://cl.imagineapi.dev/assets/5967d423-e557-4f8d-92fc-0cd08717e5b9/5967d423-e557-4f8d-92fc-0cd08717e5b9.png",
+            "https://cl.imagineapi.dev/assets/2a5cb687-7dc6-493d-9121-c63c5c26f85d/2a5cb687-7dc6-493d-9121-c63c5c26f85d.png",
+            "https://cl.imagineapi.dev/assets/5bf15551-306e-40a8-8e4b-948602f7e51b/5bf15551-306e-40a8-8e4b-948602f7e51b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2a5cb687-7dc6-493d-9121-c63c5c26f85d",
+            "459d30f5-314c-4a62-9637-2671da652dfa",
+            "5967d423-e557-4f8d-92fc-0cd08717e5b9",
+            "5bf15551-306e-40a8-8e4b-948602f7e51b"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 2.03
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "9a9dd99e-a3fa-4331-ac99-91fa6e247d93",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_Metz2018c_11.jpg?raw=true In the arid deserts of Australia, hues clash: bright reds, fiery yellows, and deep purples. Warm air carries scents of burnt earth and fading plants. Tall trees and weary leaves stand against the harsh sun. Predatory birds pierce the quiet with their cries. Colors mix in a vivid dance. Life fights for survival in the fragile balance of resilience and acceptance. Bokeh. Dramatic light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.4",
+        "results": "779319a9-039d-449d-9ac3-30763b717142",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:51:30.158Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/779319a9-039d-449d-9ac3-30763b717142/779319a9-039d-449d-9ac3-30763b717142.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e9b4ad3e-3a0b-4af6-bcf8-0a34e7ef666d/e9b4ad3e-3a0b-4af6-bcf8-0a34e7ef666d.png",
+            "https://cl.imagineapi.dev/assets/ec697e61-ee27-4e66-b3cf-e3b24a4a1388/ec697e61-ee27-4e66-b3cf-e3b24a4a1388.png",
+            "https://cl.imagineapi.dev/assets/25403721-2ec9-467b-8c01-29cedbf3dae8/25403721-2ec9-467b-8c01-29cedbf3dae8.png",
+            "https://cl.imagineapi.dev/assets/14e958f5-39f9-4aa7-8f16-c249bdf92b43/14e958f5-39f9-4aa7-8f16-c249bdf92b43.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "14e958f5-39f9-4aa7-8f16-c249bdf92b43",
+            "25403721-2ec9-467b-8c01-29cedbf3dae8",
+            "e9b4ad3e-3a0b-4af6-bcf8-0a34e7ef666d",
+            "ec697e61-ee27-4e66-b3cf-e3b24a4a1388"
+        ]
+    },
+    "request_name": "002",
+    "disease_name": "dengue",
+    "reference_number": "11",
+    "image_weight": 2.4
+}

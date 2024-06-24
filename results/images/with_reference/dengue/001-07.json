@@ -1,0 +1,24 @@
+{
+    "data": {
+        "id": "34af61c1-0e4c-4294-91f1-ae79f2209ded",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010e_07.jpg?raw=true In a mysterious tropical delta in Malaysia, Asia, lies a haunting, intertwined landscape. Tangled roots in murky shallows create hidden paths. Stagnant pools reflect a dense canopy, glowing ghostly green. Overgrown foliage casts intricate patterns of shadows and light, concealing lurking dangers. The humid air buzzes with insects, embodying delicate equilibrium in this fragile ecosystem. Bokeh. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.27",
+        "results": "652bfd7a-c8bb-41ee-8729-a1ee9aa97aab",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T13:53:04.671Z",
+        "status": "in-progress",
+        "progress": 75,
+        "url": "https://cl.imagineapi.dev/assets/652bfd7a-c8bb-41ee-8729-a1ee9aa97aab/652bfd7a-c8bb-41ee-8729-a1ee9aa97aab.webp",
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "12cbb26a-c620-4ddd-97c7-d5448bac4219",
+            "652bfd7a-c8bb-41ee-8729-a1ee9aa97aab",
+            "9ecb9d13-9370-43bd-b67a-a26278713f9b"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "dengue",
+    "reference_number": "07",
+    "image_weight": 1.27
+}

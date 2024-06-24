@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "8155f895-a56e-460f-a870-07283c65f968",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_2779_00.jpg?raw=true In the Sahel region of Africa, barren landscapes under the scorching sun reveal a harsh reality. Thorny acacias line dry rivers, permeated by an air of struggle. Skin ailments reflect the suffering of afflicted inhabitants, plagued by exclusion. Fragile huts provide scant protection against these unforgiving surroundings, illustrating the challenges faced in this arid environment of despair. Bokeh. Low lighting. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.04",
+        "results": "d94d2efe-8aea-4034-b658-ee1c08ca8748",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:26:57.760Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d94d2efe-8aea-4034-b658-ee1c08ca8748/d94d2efe-8aea-4034-b658-ee1c08ca8748.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b6a04969-7992-48d5-947b-ab9c05b38211/b6a04969-7992-48d5-947b-ab9c05b38211.png",
+            "https://cl.imagineapi.dev/assets/eb967c9a-4476-48e9-a252-0cca6d8a1eda/eb967c9a-4476-48e9-a252-0cca6d8a1eda.png",
+            "https://cl.imagineapi.dev/assets/5ff0171d-c0ca-4770-aa73-b7358f86c497/5ff0171d-c0ca-4770-aa73-b7358f86c497.png",
+            "https://cl.imagineapi.dev/assets/547fda1f-c2ef-4b4d-97ab-8ba3ab480d99/547fda1f-c2ef-4b4d-97ab-8ba3ab480d99.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "547fda1f-c2ef-4b4d-97ab-8ba3ab480d99",
+            "5ff0171d-c0ca-4770-aa73-b7358f86c497",
+            "b6a04969-7992-48d5-947b-ab9c05b38211",
+            "eb967c9a-4476-48e9-a252-0cca6d8a1eda"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "onchocerciasis",
+    "reference_number": "00",
+    "image_weight": 1.04
+}

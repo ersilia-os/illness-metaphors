@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "6471ef0e-430b-44c4-9e45-124635643f4d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In the African savannah of Tanzania, East Africa, lies a treacherous terrain with deceptive shadows and hidden perils. The undulating landscape conceals dangers beneath its graceful appearance, with an atmosphere alive with secrets of survival and demise. The region's air is thick with foreboding, hinting at invisible threats awaiting beyond the horizon. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.35",
+        "results": "2653ee54-b9ee-4d72-b8b2-e272d9be0a4f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:09:49.937Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2653ee54-b9ee-4d72-b8b2-e272d9be0a4f/2653ee54-b9ee-4d72-b8b2-e272d9be0a4f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/95a089ce-1336-427e-9359-fba808c00e78/95a089ce-1336-427e-9359-fba808c00e78.png",
+            "https://cl.imagineapi.dev/assets/6b233590-082e-42f3-9d7a-2e0fdd60a5a5/6b233590-082e-42f3-9d7a-2e0fdd60a5a5.png",
+            "https://cl.imagineapi.dev/assets/730223a4-728b-4c81-889e-f4e0997a3d70/730223a4-728b-4c81-889e-f4e0997a3d70.png",
+            "https://cl.imagineapi.dev/assets/db39d75b-1301-4a16-9422-358fd7889b72/db39d75b-1301-4a16-9422-358fd7889b72.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "6b233590-082e-42f3-9d7a-2e0fdd60a5a5",
+            "730223a4-728b-4c81-889e-f4e0997a3d70",
+            "95a089ce-1336-427e-9359-fba808c00e78",
+            "db39d75b-1301-4a16-9422-358fd7889b72"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 2.35
+}

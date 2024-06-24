@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a1535687-938e-4131-8bf2-70bf2e042202",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the mystical expanse of the Nile Delta in Egypt, murky waters flow among twisted reeds, shrouding mysteries akin to a serpent in shadows. The landscape exudes an enigmatic charm, with an aura teeming with curiosity. A lively yet cryptic ecosystem thrives, masking perils beneath the surface. Here lies a realm of untold truths ready to reveal their mysterious essence to intrepid explorers. . Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.24",
+        "results": "1c07658b-aab5-4643-b290-14a0025e3a90",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:56:01.236Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/1c07658b-aab5-4643-b290-14a0025e3a90/1c07658b-aab5-4643-b290-14a0025e3a90.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/9bf4af11-b3b5-4d66-89c5-369d1830b298/9bf4af11-b3b5-4d66-89c5-369d1830b298.png",
+            "https://cl.imagineapi.dev/assets/aa0ab9f2-b970-4235-9a3a-3dc899b2a961/aa0ab9f2-b970-4235-9a3a-3dc899b2a961.png",
+            "https://cl.imagineapi.dev/assets/8eaac41f-0e4f-4049-89cb-a3a660a0f07f/8eaac41f-0e4f-4049-89cb-a3a660a0f07f.png",
+            "https://cl.imagineapi.dev/assets/5e8a5265-512e-4764-a73b-397766281b85/5e8a5265-512e-4764-a73b-397766281b85.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "5e8a5265-512e-4764-a73b-397766281b85",
+            "8eaac41f-0e4f-4049-89cb-a3a660a0f07f",
+            "9bf4af11-b3b5-4d66-89c5-369d1830b298",
+            "aa0ab9f2-b970-4235-9a3a-3dc899b2a961"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.24
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e2d627b7-55b4-423e-bec2-97a50cf42444",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the vibrant Sub-Saharan swamps of Nigeria, life flourishes in a lush, teeming ecosystem. Thick humidity envelops the scene, as reflections shimmer on the water's surface. A melodic symphony resonates through dense foliage, encapsulating the mysteries and enchantment of this untamed haven. The region boasts a cacophony of existence, a harmonious blend of untold stories waiting to be discovered. Photorealistic. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.62",
+        "results": "0c322537-aeb0-47a8-b375-655c0cdfe702",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:31:47.994Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0c322537-aeb0-47a8-b375-655c0cdfe702/0c322537-aeb0-47a8-b375-655c0cdfe702.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e603d91b-d5b5-4ba2-9011-4585760ffd32/e603d91b-d5b5-4ba2-9011-4585760ffd32.png",
+            "https://cl.imagineapi.dev/assets/ec1df24a-22f5-474a-95ae-e94c57de1be4/ec1df24a-22f5-474a-95ae-e94c57de1be4.png",
+            "https://cl.imagineapi.dev/assets/888ed0e0-915a-44ae-9e9f-ab46db51ab98/888ed0e0-915a-44ae-9e9f-ab46db51ab98.png",
+            "https://cl.imagineapi.dev/assets/a232f6a3-7f00-4ce8-a781-da36af7771ea/a232f6a3-7f00-4ce8-a781-da36af7771ea.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "888ed0e0-915a-44ae-9e9f-ab46db51ab98",
+            "a232f6a3-7f00-4ce8-a781-da36af7771ea",
+            "e603d91b-d5b5-4ba2-9011-4585760ffd32",
+            "ec1df24a-22f5-474a-95ae-e94c57de1be4"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.62
+}

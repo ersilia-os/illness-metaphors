@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "aec139d9-3b0c-4d4a-afbd-9072884972a8",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In Egypt, the Nile River flows through a captivating yet perilous landscape. Once a source of life for pharaohs, now harboring unseen dangers. Parasitic flatworms in its depths pose a silent threat, symbolizing the delicate equilibrium between life and illness. Reeds lining the riverbanks mark the passage of time, bearing witness to the enduring legacy of schistosomiasis. This struggle persists in the tropical and subtropical regions of the country. Photorealistic. Studio light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.36",
+        "results": "73645dfe-e7b7-412e-870a-96ac713373c0",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:13:49.218Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/73645dfe-e7b7-412e-870a-96ac713373c0/73645dfe-e7b7-412e-870a-96ac713373c0.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e3ba9e66-7920-45af-9a44-68b5c4a752c1/e3ba9e66-7920-45af-9a44-68b5c4a752c1.png",
+            "https://cl.imagineapi.dev/assets/8a0b1e02-fd24-4af9-9bdd-d02cedc014dd/8a0b1e02-fd24-4af9-9bdd-d02cedc014dd.png",
+            "https://cl.imagineapi.dev/assets/7124b73d-c44d-4d9b-9abc-f52945441635/7124b73d-c44d-4d9b-9abc-f52945441635.png",
+            "https://cl.imagineapi.dev/assets/13cfef60-f201-4206-9420-fe2b98db1b3e/13cfef60-f201-4206-9420-fe2b98db1b3e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "13cfef60-f201-4206-9420-fe2b98db1b3e",
+            "7124b73d-c44d-4d9b-9abc-f52945441635",
+            "8a0b1e02-fd24-4af9-9bdd-d02cedc014dd",
+            "e3ba9e66-7920-45af-9a44-68b5c4a752c1"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.36
+}

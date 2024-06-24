@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e43c8f64-fc57-4323-8fdb-35a21b87e35c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In a secluded area in Oman, within the Wahiba Sands desert, the landscape echoes ancient tales. The wind molds dunes, uncovering raw beauty in an unforgiving terrain. As the sun sets, the desert mirrors nature's harshness, with a silent menace lingering. Photorealistic. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.36",
+        "results": "35ebaddb-7608-4eed-bd14-5e344a5e1ffc",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:48:31.117Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/35ebaddb-7608-4eed-bd14-5e344a5e1ffc/35ebaddb-7608-4eed-bd14-5e344a5e1ffc.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bed569b7-66eb-43a6-a00a-e5007fc9024e/bed569b7-66eb-43a6-a00a-e5007fc9024e.png",
+            "https://cl.imagineapi.dev/assets/ca7df739-4dac-45a0-8c6b-9810f3423f6d/ca7df739-4dac-45a0-8c6b-9810f3423f6d.png",
+            "https://cl.imagineapi.dev/assets/239e6f89-3cde-435d-b47c-cbab3524c503/239e6f89-3cde-435d-b47c-cbab3524c503.png",
+            "https://cl.imagineapi.dev/assets/65823836-4594-4a71-87f1-3ede2a30a0ad/65823836-4594-4a71-87f1-3ede2a30a0ad.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "239e6f89-3cde-435d-b47c-cbab3524c503",
+            "65823836-4594-4a71-87f1-3ede2a30a0ad",
+            "bed569b7-66eb-43a6-a00a-e5007fc9024e",
+            "ca7df739-4dac-45a0-8c6b-9810f3423f6d"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 2.36
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a524dc15-9228-4e1b-b142-f1a1434fc66f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In a tropical delta in Malaysia's Sarawak region, the swampy landscape merges land and water, with mud, tangled roots, and shallow waters forming eerie terrains. Dense canopy casting a greenish hue over stagnant pools mirrors the overgrown foliage. Concealed within shadows, dangers hide amidst buzzing insects' symphony. This delicate ecosystem balances decay and rebirth, yet unseen threats loom in the afflicted areas. Photorealistic. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.7",
+        "results": "4f760d6d-22fa-457e-baca-8f339ff34884",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:14:32.594Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/4f760d6d-22fa-457e-baca-8f339ff34884/4f760d6d-22fa-457e-baca-8f339ff34884.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/9e57bf80-1828-4156-8495-ed572c03c86d/9e57bf80-1828-4156-8495-ed572c03c86d.png",
+            "https://cl.imagineapi.dev/assets/e04ce4f8-ae05-418c-94da-a4a7474e8093/e04ce4f8-ae05-418c-94da-a4a7474e8093.png",
+            "https://cl.imagineapi.dev/assets/5974e717-13c5-4cdd-93db-c067b05dccb7/5974e717-13c5-4cdd-93db-c067b05dccb7.png",
+            "https://cl.imagineapi.dev/assets/9d485888-acef-4ad5-bcb6-c27b9323d7ec/9d485888-acef-4ad5-bcb6-c27b9323d7ec.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "5974e717-13c5-4cdd-93db-c067b05dccb7",
+            "9d485888-acef-4ad5-bcb6-c27b9323d7ec",
+            "9e57bf80-1828-4156-8495-ed572c03c86d",
+            "e04ce4f8-ae05-418c-94da-a4a7474e8093"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 1.7
+}

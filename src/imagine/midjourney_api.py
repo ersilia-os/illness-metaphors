@@ -196,6 +196,9 @@ class ImagineApi(object):
                 continue
             with open(os.path.join(self.disease_results_path, fn), "r") as f:
                 data = json.load(f)
+                if "data" not in data:
+                    os.remove(os.path.join(self.disease_results_path, fn))
+                    continue
                 if data["data"]["status"] != "completed":
                     os.remove(os.path.join(self.disease_results_path, fn))
 
@@ -273,6 +276,8 @@ class PngFetcher(object):
         request_name = json_file.split("/")[-1].split(".json")[0]
         with open(json_file, "r") as f:
             data = json.load(f)
+            if "data" not in data:
+                return
             urls = data["data"]["upscaled_urls"]
             if urls is None:
                 return
@@ -286,6 +291,8 @@ class PngFetcher(object):
         request_name = json_file.split("/")[-1].split(".json")[0]
         with open(json_file, "r") as f:
             data = json.load(f)
+            if "data" not in data:
+                return
             urls = data["data"]["upscaled_urls"]
             if urls is None:
                 return

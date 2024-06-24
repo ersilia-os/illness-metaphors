@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "353f0735-6f2b-4335-843e-8f084face2b7",
+        "prompt": "In Central Africa, the unforgiving sun unveils a silent symphony landscape. Rivers meander, concealing perils beneath their shimmering surface. The region's beauty contrasts with hidden threats, where danger lurks in shadows hinting at unseen disease. Photorealistic. Harsh light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "b77fc3aa-7ffb-4bed-929b-b2053d8a2171",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:52:52.902Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b77fc3aa-7ffb-4bed-929b-b2053d8a2171/b77fc3aa-7ffb-4bed-929b-b2053d8a2171.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/15c5dba8-90a2-46ef-abe0-1139ca16c247/15c5dba8-90a2-46ef-abe0-1139ca16c247.png",
+            "https://cl.imagineapi.dev/assets/29f23d4b-f9a4-4f12-836d-b7b1c26534aa/29f23d4b-f9a4-4f12-836d-b7b1c26534aa.png",
+            "https://cl.imagineapi.dev/assets/2eab1be3-6eaa-456e-8a85-aa725ac4977d/2eab1be3-6eaa-456e-8a85-aa725ac4977d.png",
+            "https://cl.imagineapi.dev/assets/c7951515-6f3c-4490-848f-bd385d0899ac/c7951515-6f3c-4490-848f-bd385d0899ac.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "15c5dba8-90a2-46ef-abe0-1139ca16c247",
+            "29f23d4b-f9a4-4f12-836d-b7b1c26534aa",
+            "2eab1be3-6eaa-456e-8a85-aa725ac4977d",
+            "c7951515-6f3c-4490-848f-bd385d0899ac"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "onchocerciasis"
+}

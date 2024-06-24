@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "82dc1a9c-1158-4661-8130-52387f63eb9f",
+        "prompt": "In the heart of a dense African jungle, eerie shadows loom over the trembling foliage, imbuing the landscape with mystery and unease. Moss-clad trees echo ancient secrets while a palpable sense of anticipation lingers in the thick air. The haunting beauty of the region is enhanced by the restless spirits that haunt the tangled undergrowth, resulting in a landscape that evokes both fear and allure. Bokeh. Low lighting. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "55c30e9d-a974-418e-823d-7f60c0ee8a96",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:49:57.063Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/55c30e9d-a974-418e-823d-7f60c0ee8a96/55c30e9d-a974-418e-823d-7f60c0ee8a96.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e4d2c9c5-1c98-4938-922f-6abc9f782ab8/e4d2c9c5-1c98-4938-922f-6abc9f782ab8.png",
+            "https://cl.imagineapi.dev/assets/feaedb97-b8f4-48cf-a70c-9f98f368daa8/feaedb97-b8f4-48cf-a70c-9f98f368daa8.png",
+            "https://cl.imagineapi.dev/assets/e931e0b1-d26d-4bc3-9747-2604e36fcf13/e931e0b1-d26d-4bc3-9747-2604e36fcf13.png",
+            "https://cl.imagineapi.dev/assets/75a234c8-972d-4103-98a3-d743b273c6a7/75a234c8-972d-4103-98a3-d743b273c6a7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "75a234c8-972d-4103-98a3-d743b273c6a7",
+            "e4d2c9c5-1c98-4938-922f-6abc9f782ab8",
+            "e931e0b1-d26d-4bc3-9747-2604e36fcf13",
+            "feaedb97-b8f4-48cf-a70c-9f98f368daa8"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "onchocerciasis"
+}

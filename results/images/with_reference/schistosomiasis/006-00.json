@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "eb1eab0d-70b8-4d9a-8acd-a14902daac77",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true Within the serene Egyptian landscape beside the Nile River, beauty intertwines with danger. Silent menace lurks beneath the waters, as parasitic flatworms hide, shifting the delicate balance between existence and affliction. Echoing history, the reed-cloaked riverbanks unfold the timeless struggle against schistosomiasis. This enduring legacy challenges medical progress in tropical and subtropical Egypt. Photorealistic. Low lighting. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.31",
+        "results": "4b3fde76-f29c-4991-a3c9-5de5be1d5d00",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:36:27.652Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/4b3fde76-f29c-4991-a3c9-5de5be1d5d00/4b3fde76-f29c-4991-a3c9-5de5be1d5d00.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/de8d46f9-2f34-4f33-a562-7ff1e43e3685/de8d46f9-2f34-4f33-a562-7ff1e43e3685.png",
+            "https://cl.imagineapi.dev/assets/4cb6291c-9f5d-4924-8a4b-7dc4b8ea5e19/4cb6291c-9f5d-4924-8a4b-7dc4b8ea5e19.png",
+            "https://cl.imagineapi.dev/assets/b338e16e-a8d4-4820-a454-67224f7bf09c/b338e16e-a8d4-4820-a454-67224f7bf09c.png",
+            "https://cl.imagineapi.dev/assets/02ccb37a-ca8e-4cef-b07b-85b01262b6ba/02ccb37a-ca8e-4cef-b07b-85b01262b6ba.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "02ccb37a-ca8e-4cef-b07b-85b01262b6ba",
+            "4cb6291c-9f5d-4924-8a4b-7dc4b8ea5e19",
+            "b338e16e-a8d4-4820-a454-67224f7bf09c",
+            "de8d46f9-2f34-4f33-a562-7ff1e43e3685"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 2.31
+}

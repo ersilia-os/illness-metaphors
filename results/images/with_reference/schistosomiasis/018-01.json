@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "321593c8-6248-4f07-9b2d-972655399f67",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In the Saharan desert of Mali, West Africa, the arid landscape reflects a harsh reality. The sun-bleached, cracked earth stands as a testament to nature's power, while relentless heat makes acacia trees sway. Nomads in flowing robes traverse the rugged terrain with determined expressions. The scene encapsulates the unyielding spirit of the region's inhabitants. Bokeh. Low lighting. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.12",
+        "results": "0462ab32-2a87-4b67-ae49-36c6f3a8cb62",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:12:24.835Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0462ab32-2a87-4b67-ae49-36c6f3a8cb62/0462ab32-2a87-4b67-ae49-36c6f3a8cb62.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/0557fe92-e929-45f9-b6a4-5cd3194c1cc2/0557fe92-e929-45f9-b6a4-5cd3194c1cc2.png",
+            "https://cl.imagineapi.dev/assets/3928fc95-dada-4942-83cf-13a15db7bd4d/3928fc95-dada-4942-83cf-13a15db7bd4d.png",
+            "https://cl.imagineapi.dev/assets/3312e64d-c580-44c2-bc52-32e650dd496c/3312e64d-c580-44c2-bc52-32e650dd496c.png",
+            "https://cl.imagineapi.dev/assets/372d0ddb-b3df-400a-ba56-5988f6476aba/372d0ddb-b3df-400a-ba56-5988f6476aba.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0557fe92-e929-45f9-b6a4-5cd3194c1cc2",
+            "3312e64d-c580-44c2-bc52-32e650dd496c",
+            "372d0ddb-b3df-400a-ba56-5988f6476aba",
+            "3928fc95-dada-4942-83cf-13a15db7bd4d"
+        ]
+    },
+    "request_name": "018",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 2.12
+}

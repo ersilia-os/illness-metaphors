@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ed93f96a-7fd4-470a-9516-a9fba24cb645",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In Africa's savannah, ancient echoes linger among remnants of past civilizations. The land carries the weight of history, hinting at old afflictions and colonial scars. This harsh landscape under the scorching sun exposes disrupted traditions and displaced communities in the region. Rivers flow like veins, bearing the burdens of bygone eras. Photorealistic. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.79",
+        "results": "32a4bf71-a181-41b5-9812-801eaa129c5e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:37:51.461Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/32a4bf71-a181-41b5-9812-801eaa129c5e/32a4bf71-a181-41b5-9812-801eaa129c5e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/d0fdb02c-9bef-48f5-9633-a9adb13bc692/d0fdb02c-9bef-48f5-9633-a9adb13bc692.png",
+            "https://cl.imagineapi.dev/assets/384e4315-610e-44fa-9494-1ade2043cc3e/384e4315-610e-44fa-9494-1ade2043cc3e.png",
+            "https://cl.imagineapi.dev/assets/d0ee7c4b-35b3-4906-9b93-e91d373c77de/d0ee7c4b-35b3-4906-9b93-e91d373c77de.png",
+            "https://cl.imagineapi.dev/assets/db3d4a5c-b222-4a15-93c8-d853eab61615/db3d4a5c-b222-4a15-93c8-d853eab61615.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "384e4315-610e-44fa-9494-1ade2043cc3e",
+            "d0ee7c4b-35b3-4906-9b93-e91d373c77de",
+            "d0fdb02c-9bef-48f5-9633-a9adb13bc692",
+            "db3d4a5c-b222-4a15-93c8-d853eab61615"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 1.79
+}

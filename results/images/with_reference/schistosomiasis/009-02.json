@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3e1e2602-718a-47e2-a9ee-d6dba8e51e58",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the vibrant Sub-Saharan swamps of Nigeria, life flourishes in a lush, teeming ecosystem. Thick humidity envelops the scene, as reflections shimmer on the water's surface. A melodic symphony resonates through dense foliage, encapsulating the mysteries and enchantment of this untamed haven. The region boasts a cacophony of existence, a harmonious blend of untold stories waiting to be discovered. Photorealistic. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.42",
+        "results": "0d301dd0-b473-4b2c-b13e-7f77eea1f2cc",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:33:59.566Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0d301dd0-b473-4b2c-b13e-7f77eea1f2cc/0d301dd0-b473-4b2c-b13e-7f77eea1f2cc.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b2a2ce69-12e6-483f-abbf-8d3c88009e70/b2a2ce69-12e6-483f-abbf-8d3c88009e70.png",
+            "https://cl.imagineapi.dev/assets/58ed2020-011f-4bdd-b75f-a716daaef10e/58ed2020-011f-4bdd-b75f-a716daaef10e.png",
+            "https://cl.imagineapi.dev/assets/68cb5286-5ba8-4a5d-a14d-465e8cd199f5/68cb5286-5ba8-4a5d-a14d-465e8cd199f5.png",
+            "https://cl.imagineapi.dev/assets/19c86084-df36-4776-9879-f7a3b4d977ef/19c86084-df36-4776-9879-f7a3b4d977ef.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "19c86084-df36-4776-9879-f7a3b4d977ef",
+            "58ed2020-011f-4bdd-b75f-a716daaef10e",
+            "68cb5286-5ba8-4a5d-a14d-465e8cd199f5",
+            "b2a2ce69-12e6-483f-abbf-8d3c88009e70"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.42
+}

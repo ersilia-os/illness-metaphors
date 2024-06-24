@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7963b3db-c358-4f1a-ae5e-263e86fcec1e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010_03.jpg?raw=true In Southeast Asia's urban setting, bustling alleys, prickly buildings, and narrow passageways create an uneasy atmosphere. Shadows play eerie games, uncertainty thickens the air. Streets throb with restless energy, hiding lurking dangers within the maze of architecture. Each corner whispers secrets, each step unveils risks in this labyrinthine world of hidden perils and unseen threats in a specific country, region, and urban landscape. Photorealistic. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.77",
+        "results": "0f6f970e-424f-490c-8990-f72a82a0ecc9",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:54:35.095Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0f6f970e-424f-490c-8990-f72a82a0ecc9/0f6f970e-424f-490c-8990-f72a82a0ecc9.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/83d5caf1-85de-4196-9dfa-5b7c857e9c91/83d5caf1-85de-4196-9dfa-5b7c857e9c91.png",
+            "https://cl.imagineapi.dev/assets/f9d7e66e-1a30-40a4-a18b-f780c9c32c1c/f9d7e66e-1a30-40a4-a18b-f780c9c32c1c.png",
+            "https://cl.imagineapi.dev/assets/fbe2a2ba-db91-407a-b125-5f3228d4f13a/fbe2a2ba-db91-407a-b125-5f3228d4f13a.png",
+            "https://cl.imagineapi.dev/assets/a1130ebf-2c07-43ce-a849-63b9d12ea846/a1130ebf-2c07-43ce-a849-63b9d12ea846.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "83d5caf1-85de-4196-9dfa-5b7c857e9c91",
+            "a1130ebf-2c07-43ce-a849-63b9d12ea846",
+            "f9d7e66e-1a30-40a4-a18b-f780c9c32c1c",
+            "fbe2a2ba-db91-407a-b125-5f3228d4f13a"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "dengue",
+    "reference_number": "03",
+    "image_weight": 1.77
+}

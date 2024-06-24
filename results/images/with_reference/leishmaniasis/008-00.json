@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "70c7a8ba-e02b-4250-86bb-01f332b44a38",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In a forsaken desert in Jordan's Wadi Rum region, jagged rocks and shifting sands dominate. The harsh sun casts unforgiving light and shadows, illuminating boulders scattered like remnants of a violent past. The sandy expanse mirrors a silent menace beneath, felt in every gust of wind through the desolate landscape. Bokeh. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.15",
+        "results": "53b9e804-6273-46af-9688-b131917e2852",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:12:36.089Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/53b9e804-6273-46af-9688-b131917e2852/53b9e804-6273-46af-9688-b131917e2852.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/cb0107f5-67a6-4909-9d7c-1f472e96e88f/cb0107f5-67a6-4909-9d7c-1f472e96e88f.png",
+            "https://cl.imagineapi.dev/assets/609f848b-8347-4b13-a4f1-c76a8c31237f/609f848b-8347-4b13-a4f1-c76a8c31237f.png",
+            "https://cl.imagineapi.dev/assets/a44f5db2-4100-4f89-b56b-4203e58850ba/a44f5db2-4100-4f89-b56b-4203e58850ba.png",
+            "https://cl.imagineapi.dev/assets/4339990c-46e6-48fb-9f6f-03620e0b3b0e/4339990c-46e6-48fb-9f6f-03620e0b3b0e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "4339990c-46e6-48fb-9f6f-03620e0b3b0e",
+            "609f848b-8347-4b13-a4f1-c76a8c31237f",
+            "a44f5db2-4100-4f89-b56b-4203e58850ba",
+            "cb0107f5-67a6-4909-9d7c-1f472e96e88f"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 2.15
+}

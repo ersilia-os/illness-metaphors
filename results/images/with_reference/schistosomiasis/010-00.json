@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7e55a2e3-f4b2-4e99-ac8a-8cf7bccdb74f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In tropical Africa, under the scorching sun, a historic landscape emerges. Towering baobab trees and dense foliage line the humid air over still waters. Colonial remnants mingle with neglected villages in a region marked by shadows of the past. Stagnant waters hold lurking dangers, whilst the wind whispers tales of resistance against colonial rule. This is a view of modern-day Africa, in Southern Nigeria, featuring a dense tropical landscape rich in history and cultural significance. Bokeh. Low lighting. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.77",
+        "results": "a8ec3603-91a1-4914-ae8c-ccdf97e567a2",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:35:59.678Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a8ec3603-91a1-4914-ae8c-ccdf97e567a2/a8ec3603-91a1-4914-ae8c-ccdf97e567a2.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/206ff7af-5189-4d04-be22-208f49fd3b92/206ff7af-5189-4d04-be22-208f49fd3b92.png",
+            "https://cl.imagineapi.dev/assets/7a18fe24-471d-4ef7-9046-844b0e38a7e2/7a18fe24-471d-4ef7-9046-844b0e38a7e2.png",
+            "https://cl.imagineapi.dev/assets/a87acc93-c0db-4862-af05-243279bb17de/a87acc93-c0db-4862-af05-243279bb17de.png",
+            "https://cl.imagineapi.dev/assets/2d1a0fd5-e477-4b3e-94fa-1170e4958321/2d1a0fd5-e477-4b3e-94fa-1170e4958321.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "206ff7af-5189-4d04-be22-208f49fd3b92",
+            "2d1a0fd5-e477-4b3e-94fa-1170e4958321",
+            "7a18fe24-471d-4ef7-9046-844b0e38a7e2",
+            "a87acc93-c0db-4862-af05-243279bb17de"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 1.77
+}

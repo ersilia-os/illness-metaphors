@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "0ae02dde-b981-4d47-aaad-b60a9c9da60a",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In Morocco's central region, an intricate desert canyon reveals steep cliffs resembling whiplashes. The atmosphere harbors secrecy and imminent danger. This diverse landscape mirrors life's complexities, balancing beauty and peril like the disease-ridden regions of leishmaniasis. Bokeh. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.69",
+        "results": "e6822e81-5e2e-4140-af27-f7042a338e85",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:24:40.052Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e6822e81-5e2e-4140-af27-f7042a338e85/e6822e81-5e2e-4140-af27-f7042a338e85.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f62da471-92a4-4017-b13d-75aa3fd8a163/f62da471-92a4-4017-b13d-75aa3fd8a163.png",
+            "https://cl.imagineapi.dev/assets/03d130e9-81ae-4172-a04f-cc36d60f447f/03d130e9-81ae-4172-a04f-cc36d60f447f.png",
+            "https://cl.imagineapi.dev/assets/1c30d1fb-daa5-48c2-9361-a0a8a045d3bf/1c30d1fb-daa5-48c2-9361-a0a8a045d3bf.png",
+            "https://cl.imagineapi.dev/assets/219251ff-7e18-44c6-9120-655656f08e17/219251ff-7e18-44c6-9120-655656f08e17.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "03d130e9-81ae-4172-a04f-cc36d60f447f",
+            "1c30d1fb-daa5-48c2-9361-a0a8a045d3bf",
+            "219251ff-7e18-44c6-9120-655656f08e17",
+            "f62da471-92a4-4017-b13d-75aa3fd8a163"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.69
+}

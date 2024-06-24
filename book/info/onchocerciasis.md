@@ -1,0 +1,116 @@
+# Onchocerciasis
+
+## Medicine
+
+### General description
+
+Onchocerciasis, also known as river blindness, is a neglected tropical disease caused by the parasitic worm Onchocerca volvulus. The disease is transmitted through the bites of infected blackflies that breed near fast-flowing rivers. Symptoms include severe itching, skin lesions, and visual impairment, which can progress to blindness if left untreated. Onchocerciasis predominantly affects rural populations in Africa, particularly in regions with limited access to healthcare and poor socioeconomic conditions. The burden of the disease is significant, with an estimated 21 million people infected and over 99% of cases occurring in sub-Saharan Africa, leading to decreased productivity and impacting the overall quality of life in affected communities.
+
+### Symptoms
+
+Onchocerciasis, also known as river blindness, is characterized by severe itching, disfiguring skin conditions, and visual impairment, including blindness. The itching can be debilitating, leading to sleep disturbances and difficulties concentrating on daily tasks. The skin manifestations such as nodules and depigmentation can cause social stigma and exclusion. Visual impairment and blindness have a profound impact on individuals' ability to work, care for themselves and their families, and participate in community life, further perpetuating poverty and isolation in affected communities. Early detection and treatment are crucial to prevent long-term disability and improve the quality of life for those affected by this parasitic disease.
+
+### Treatment
+
+The main treatment for onchocerciasis, also known as river blindness, is the drug ivermectin. Ivermectin is effective in killing the parasitic worms responsible for the disease. Typically, a single annual dose is recommended for several years to control the infection. Common side effects of ivermectin include dizziness, headache, and abdominal pain. The success rate of treatment is high, especially when compliance with the medication regimen is maintained. Ivermectin is usually provided for free through mass drug administration programs led by organizations like the World Health Organization and the pharmaceutical company Merck. Access to treatment is improving in endemic regions, contributing to the gradual reduction of the disease burden in affected populations.
+
+## Biology
+
+### Pathogen description
+
+Onchocerciasis, also known as river blindness, is caused by a nematode parasite called Onchocerca volvulus. These parasites are roundworms that can live for up to 14 years in the human body. The adult female worm releases thousands of microfilariae (larvae) into the surrounding tissues, where they can migrate to the skin and eyes. The disease is transmitted through the bite of black flies belonging to the Simulium genus, which ingest the microfilariae during a blood meal and then pass them on to humans during subsequent bites. Within the human host, the microfilariae can cause severe skin irritation and eye lesions, leading to visual impairment and eventually blindness if left untreated.
+
+### Pathogen lifecycle
+
+The pathogen responsible for onchocerciasis, or river blindness, is a parasitic worm known as Onchocerca volvulus. The life cycle of this pathogen begins when female worms release microfilariae (larvae) into the skin and subcutaneous tissues of the human host during a blood meal by black flies of the Simulium genus. These microfilariae mature and can be transmitted to another human host when the infected flies take another blood meal. Once inside the new host, the microfilariae migrate through the body and develop into adult worms, typically residing in subcutaneous nodules. The adult worms can live for around 10-15 years, producing millions of microfilariae during their lifespan, perpetuating the cycle of infection.
+
+### Host response
+
+The human host response to the pathogen responsible for onchocerciasis involves the formation of subcutaneous nodules where adult worms reside, triggering a localized inflammatory response. As the worms release microfilariae, the host mounts an immune response characterized by eosinophilia and the production of pro-inflammatory cytokines. Chronic infection can lead to severe skin manifestations, ocular lesions, and visual impairment, impacting the overall health and wellbeing of individuals living in endemic regions. Efforts to control onchocerciasis involve mass drug administration and vector control programs to prevent transmission and alleviate the burden of this neglected tropical disease.
+
+## History
+
+### Precolonial knowledge
+
+Onchocerciasis, also known as river blindness, had been a well-known disease in pre-colonial societies, particularly in Africa. Ancient texts and oral traditions from communities in affected regions often described the disease as a result of evil spirits or supernatural forces. The symptoms were recognized as severe itching, skin discoloration, nodules under the skin, and ultimately blindness. Traditional healers played a significant role in attempting to treat onchocerciasis using a variety of plants, herbs, and rituals. The impact of the disease on local populations was devastating, with entire communities suffering from blindness and stigma. Onchocerciasis was not only a health issue but also a social and economic burden, affecting the productivity and well-being of those affected. Despite the cultural beliefs surrounding the disease, traditional healers played a crucial role in providing care and support to those afflicted by onchocerciasis in pre-colonial times.
+
+### Relation to colonialism
+
+Onchocerciasis, also known as river blindness, exemplifies the complex relationship between colonialism and disease. The disease has been prevalent in Africa for centuries, with the first historical accounts dating back to ancient Egypt. However, the colonial period significantly impacted the spread and management of onchocerciasis. Colonial powers, such as the British and French, often neglected the healthcare of indigenous populations, focusing instead on resource extraction and exploitation. This neglect, coupled with forced displacement of communities and disrupted traditional ways of life, contributed to the proliferation of the disease. Additionally, colonial medicine sometimes exacerbated the issue through ineffective treatments or misguided interventions. Local populations, already marginalized by colonial policies, had limited access to healthcare and faced significant health disparities. The impact of onchocerciasis on these communities was devastating, leading to blindness, skin disease, and social stigma. The response of the local population varied, with some resisting colonial medical interventions due to a lack of trust or cultural beliefs. Overall, the intertwining of colonialism and onchocerciasis highlights the lasting effects of historical power dynamics on public health in affected regions.
+
+### Discovery
+
+Onchocerciasis, also known as river blindness, was first discovered in the modern era by a Scottish captain named John Atkins in 1691 while he was stationed in Sierra Leone. The disease was formally described by the French physician Alexander Brumpt in 1917, who identified the parasitic worm Onchocerca volvulus as the causative agent. The linkage of the disease to the black fly vector, Simulium, was established by Sir Philip Manson-Bahr in the early 20th century. Manson-Bahr proved that the larvae of the worm were transmitted to humans through the bites of infected black flies. The impact of this discovery on public health was significant, as it led to the implementation of control programs, such as mass drug administration and vector control measures, in affected regions. The name "onchocerciasis" itself is derived from the Greek words "oncho" (swelling) and "kerkosis" (tail), referring to the nodules that form under the skin due to the presence of the worm.
+
+### Recent years
+
+Onchocerciasis, also known as river blindness, remains a significant public health challenge in certain regions of Africa, Latin America, and Yemen. Although progress has been made in controlling the disease through mass drug administration programs coordinated by organizations like the World Health Organization (WHO) and the Carter Center, onchocerciasis continues to affect millions of people, particularly in remote and underserved communities. Scientific advancements in the development of new treatment strategies, such as long-acting moxidectin, have shown promise in reducing the burden of the disease. However, challenges persist in eliminating onchocerciasis completely due to factors like drug access, compliance, and the presence of black fly vectors that transmit the disease. The collaboration between international organizations, governments, and local communities remains crucial in the fight against onchocerciasis, highlighting the importance of sustained efforts and resources to achieve the ultimate goal of eradication.
+
+## Social factors
+
+### Social stigmas
+
+Onchocerciasis, commonly known as river blindness, carries with it a heavy burden of social stigmas and prejudices. In many societies, the disease is seen as a mark of impurity or divine punishment, leading to the ostracization of those affected. The language used to describe onchocerciasis often dehumanizes individuals, painting them as contagious or cursed. Metaphors of darkness and blindness further perpetuate the idea of onchocerciasis as a symbol of ignorance or evil. These stigmas not only isolate those living with the disease but also hinder efforts to provide proper care and support, creating a cycle of suffering and discrimination that traps individuals in a web of societal perceptions and prejudices.
+
+### Socioeconomic factors
+
+The social stigmas and prejudices surrounding onchocerciasis, also known as river blindness, are deeply intertwined with socioeconomic factors. Historically found in rural communities with limited access to healthcare and proper sanitation, this disease has predominantly affected marginalized populations living in poverty. The physical disfigurement caused by onchocerciasis, such as skin lesions and blindness, often leads to social exclusion and discrimination, perpetuating cycles of poverty and limited opportunities for those affected. Misinformation and fear surrounding the disease have further contributed to the stigma, with affected individuals being viewed as contagious or cursed, leading to isolation and a lack of support. These prejudices not only impact the mental and emotional well-being of those with onchocerciasis but also hinder efforts to control and eliminate the disease by creating barriers to seeking treatment and support.
+
+### Western view
+
+Onchocerciasis, commonly known as river blindness, has long been a symbol of neglect and suffering in Western societies. With origins in Africa, the disease carries colonial connotations, being associated with the exploitation and disregard for the health of indigenous populations. The Western view of onchocerciasis is often steeped in pity and a sense of superiority, portraying those affected as victims of their environment and in need of Western intervention. The media has contributed to this narrative, depicting the disease as a far-off problem that requires Western expertise to solve. Despite advancements in medical treatments, the stigma attached to onchocerciasis persists, reflecting deep-rooted biases and prejudices towards marginalized communities in Western society. 
+
+In Western societies, onchocerciasis, also known as river blindness, is often stigmatized due to its origins in Africa, perpetuating colonial narratives and portraying affected individuals as victims in need of Western intervention.
+
+## Literature
+
+### Literary quotes
+
+- "He had seen it before, the clusters of papules like furuncles, the skin dry and scaly, then wasted to ropey strands as though a molten stream had run beneath the surface, changing the very texture of things." - The Poisonwood Bible by Barbara Kingsolver.
+- "The evil from the forbidden forest. Every single person is struck by the multiple arrows of these diverse and strange diseases. The body of the sickly person rumbles, quakes and trembles continuously." - Anthills of the Savannah by Chinua Achebe.
+- "Yet a sort of longing takes root in me when I think of how much we have suffered, and how much we are like to suffer from the disease of onchocerciasis if left untreated: and yet I know that the journey of which I speak is before me. It is the journey of death before death." - The Heart of the Matter by Graham Greene.
+- "It was onchocerciasis that Fura had, the disease that ate away at the eyes, so that you became blind or nearly blind." - The Famished Road by Ben Okri.
+- "Even during her delirium, she did not cease to speak in Biri, and the translator, himself half mad with all the sorrow he had seen and for which he could not but feel a measure of responsibility, told us wearily: 'She thinks herself pursued by the M’Bengue, by the Tatto, by the Peuls, by the half-human, half-bovine Kabre, by the parasitic river-dwelling Tenia, by the Andromède, by Goumbé, by the restless spirits of children not yet born, and by the Kakilambe, who brings with it its cousins, the Bilakoro and the Basari." - Season of Migration to the North by Tayeb Salih.
+
+### Landscape literary description
+
+- In the remote villages of West Africa, the landscape bore the scars of onchocerciasis, the "river blindness" that haunted the region. The once lush forests now stood silent and eerie, the trees stripped bare of leaves as if in mourning. The rivers, once the lifeblood of the communities, now flowed dark and foreboding, carrying not just water but also the larvae of the black flies that spread the disease. The people lived in constant fear, their eyes betraying the agony of blindness looming on the horizon, like a shadow creeping ever closer, relentless and unforgiving.
+- In the dense rainforests of West Africa, where the tangled vegetation intertwined like the worms that writhed beneath the skin of the afflicted, onchocerciasis cast its shadow. The whispering leaves shrouded the rivers, where the black flies danced their deadly ballet, carrying the larvae of the parasite to unsuspecting victims. The air was heavy with the hum of disease, a constant reminder of the suffering that lurked just beneath the surface of the vibrant landscape. The villagers lived in fear, knowing that each insect bite could bring about a fate worse than death, a life stolen by the unseen enemy.
+- In the heart of the African savanna, where the sun beats down mercilessly upon the vast plains, lies a landscape shrouded in a heavy, oppressive silence. The air is thick with the buzzing of relentless black flies, their presence marking the looming threat of onchocerciasis. The rivers that once brought life and sustenance are now feared for harboring the larvae of the disease-carrying insects. The people, their faces weathered and eyes clouded with fear, move with a cautiousness born of knowing that the unseen enemy lurks, ready to steal their sight and condemn them to a life of darkness.
+- In the savannahs of West Africa, the landscape is suffused with a sense of unease, much like the insidious presence of onchocerciasis. The tall grasses sway in the hot winds, concealing lurking dangers beneath their verdant facade. The sun beats down mercilessly on the dry earth, mirroring the relentless burden of the disease on those afflicted. The rivers, once a source of life and vitality, now serve as highways for the relentless black flies, the harbingers of suffering and blindness. In this harsh and unforgiving terrain, the fear of onchocerciasis hangs heavy in the air, a constant reminder of the fragility of life in the face of endemic afflictions.
+- In the depths of the African rainforest, where the air hangs heavy with moisture and the sunlight struggles to penetrate the dense canopy, lies a landscape tainted by the specter of onchocerciasis. The rivers, once teeming with life, now serve as breeding grounds for the black flies that carry the insidious parasite, spreading fear and suffering with each bite. The people, their skin etched with the telltale signs of the disease, move through the shadows with a heaviness in their hearts, knowing that the relentless itching and blindness are a stark reminder of the cruel grip of onchocerciasis. The rustling leaves whisper tales of generations lost to this affliction, weaving a narrative of stigma and isolation that lingers in the humid air like a curse from the past.
+
+## Artistic view
+
+### As landscape
+
+- A vast and desolate desert with occasional oases of stagnant water hidden among the unforgiving dunes.
+- Endless plains covered in thick, tangled brush and filled with stagnant, murky pools of water, surrounded by buzzing swarms of unseen creatures.
+- A vast expanse of murky swamps interwoven with thick, tangled mangroves and hidden pockets of stagnant water.
+- Muddy swamps teeming with stagnant water, overgrown with tangled roots and dense foliage, seemingly endless and suffocating in its lushness.
+- Endless plains shrouded in dense fog, with intermittent bursts of sunlight revealing twisted, gnarled trees and hidden dangers lurking beneath the murky waters.
+
+### As shape
+
+- Twisted and coiled like a tangled vine in the forest.
+- Twisted and coiled, resembling a tangled knot with intricate, overlapping loops.
+- Twisted and coiled, resembling a tangled spring ready to unfurl its infectious potential.
+- Thin and coiled, resembling a delicate spring ready to unfurl.
+- A delicate, coiled, and intricate spiral shape, resembling a graceful dance frozen in time.
+
+### As colors
+
+- A dark, murky shade of green with accents of slimy black, symbolizing the hidden depths and blindness caused by the pathogen.
+- A deep shade of midnight blue, with flashes of silver and iridescent teal, representing the hidden presence and insidious nature of the pathogen. This color palette alludes to the mysterious and cunning behavior of the parasite responsible for onchocerciasis.
+- A murky combination of dark green, mossy brown, and murky gray, reflecting the stagnant water where the pathogen's vectors breed and thrive.
+- A deep shade of midnight blue, intertwined with hints of rusty orange, symbolizing the darkness and inflammation caused by the pathogen.
+- A deep shade of midnight blue, intertwined with flashes of murky green, symbolizing the hidden depths where this pathogen thrives and causes harm.
+
+### As textures
+
+- Rough, bumpy, and scaly textures, resembling dried-out mud with a rough surface.
+- A rough, bumpy texture, reminiscent of tiny grains of sand scattered on the skin.
+- A gritty, rough texture that can cause nodules to form under the skin, creating a bumpy and uneven surface.
+- A rough, bumpy texture that seems to crawl under the skin, causing discomfort and unease.
+- A rough, bumpy texture that seems to burrow beneath the surface, leaving a sense of discomfort and unease. This texture seems to linger and spread, making its presence known in a pervasive and unsettling manner.
+

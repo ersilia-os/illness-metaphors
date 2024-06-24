@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "858ccf6c-6b71-4e99-8bac-230bf2cdc316",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In Sub-Saharan Africa, ancient acacia trees thrive under the sun. Resilience whispers through the rustling leaves, as the scent of red earth lingers. Wildebeests migrate near meandering rivers reflecting the sun's heat. Mud huts with thatched roofs cluster together, their smoky chimneys painting patterns in the sky.  Country is Sub-Saharan Africa, region is unspecified, and the landscape is savanna. Bokeh. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.11",
+        "results": "84be1629-e8f5-415a-a032-e26afc00ea08",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:47:34.809Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/84be1629-e8f5-415a-a032-e26afc00ea08/84be1629-e8f5-415a-a032-e26afc00ea08.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/9cc99f6a-2bd2-4e2c-bbe1-dfc5735cb624/9cc99f6a-2bd2-4e2c-bbe1-dfc5735cb624.png",
+            "https://cl.imagineapi.dev/assets/c9b4926e-dad3-4fae-8b98-464ff7ed8c1a/c9b4926e-dad3-4fae-8b98-464ff7ed8c1a.png",
+            "https://cl.imagineapi.dev/assets/de28bc9e-224c-4f84-8e94-f3f3c96c31b0/de28bc9e-224c-4f84-8e94-f3f3c96c31b0.png",
+            "https://cl.imagineapi.dev/assets/1c0b0e6b-8ad1-4591-a15f-7647767ded64/1c0b0e6b-8ad1-4591-a15f-7647767ded64.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1c0b0e6b-8ad1-4591-a15f-7647767ded64",
+            "9cc99f6a-2bd2-4e2c-bbe1-dfc5735cb624",
+            "c9b4926e-dad3-4fae-8b98-464ff7ed8c1a",
+            "de28bc9e-224c-4f84-8e94-f3f3c96c31b0"
+        ]
+    },
+    "request_name": "019",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.11
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e27a0441-5dee-4e9f-bbfb-58bfdf6220e7",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In Sub-Saharan Africa's misty marshlands, a mysterious world emerges with hidden vitality and intricate cycles. Nature's whispers resonate through the reeds, where life pulses. Shadows dance on the marsh's surface, embodying unseen forces. Amidst ancient mysteries, in this enigmatic realm, lies a landscape waiting to reveal its secrets. Photorealistic. Low lighting. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.16",
+        "results": "b098fa66-17eb-42d3-ac56-52e133a61ed5",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:30:46.270Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b098fa66-17eb-42d3-ac56-52e133a61ed5/b098fa66-17eb-42d3-ac56-52e133a61ed5.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/fb8204ca-31fe-4c05-8acd-69fa691d6a8c/fb8204ca-31fe-4c05-8acd-69fa691d6a8c.png",
+            "https://cl.imagineapi.dev/assets/5aca4fb1-91ac-4a13-94b6-e0ac8fe8cc60/5aca4fb1-91ac-4a13-94b6-e0ac8fe8cc60.png",
+            "https://cl.imagineapi.dev/assets/3bdc3b0b-6731-40a2-9f86-f97f11bbd0cf/3bdc3b0b-6731-40a2-9f86-f97f11bbd0cf.png",
+            "https://cl.imagineapi.dev/assets/7e1d9448-b55c-4574-9a29-19130fd6c50d/7e1d9448-b55c-4574-9a29-19130fd6c50d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3bdc3b0b-6731-40a2-9f86-f97f11bbd0cf",
+            "5aca4fb1-91ac-4a13-94b6-e0ac8fe8cc60",
+            "7e1d9448-b55c-4574-9a29-19130fd6c50d",
+            "fb8204ca-31fe-4c05-8acd-69fa691d6a8c"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.16
+}

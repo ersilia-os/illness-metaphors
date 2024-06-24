@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "63607791-fd81-46f0-9ed0-4ff94fd5302b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In Central Africa, along the Ogoou\u00e9 River, ancient villages are frozen in time. Majestic mahogany trees tower high, creating a dense canopy with intertwined vines. Mysterious sounds fill the air while the deep river teems with hidden life. Mud huts blend into the lush landscape, where residents live in harmony with the captivating surroundings. Photorealistic. Studio light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.51",
+        "results": "e0d8ac19-ce32-40f4-9e35-288032124e78",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:20:48.112Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e0d8ac19-ce32-40f4-9e35-288032124e78/e0d8ac19-ce32-40f4-9e35-288032124e78.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/697911b3-57b5-4c5f-b583-3eac1e90b41b/697911b3-57b5-4c5f-b583-3eac1e90b41b.png",
+            "https://cl.imagineapi.dev/assets/2fe6fc2f-bcfd-4689-8adc-5afbefb39152/2fe6fc2f-bcfd-4689-8adc-5afbefb39152.png",
+            "https://cl.imagineapi.dev/assets/4fd68698-9f7c-43b1-b146-29c341d3db42/4fd68698-9f7c-43b1-b146-29c341d3db42.png",
+            "https://cl.imagineapi.dev/assets/3cc45e3c-96d2-4a78-8647-bc51bd71ce1a/3cc45e3c-96d2-4a78-8647-bc51bd71ce1a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2fe6fc2f-bcfd-4689-8adc-5afbefb39152",
+            "3cc45e3c-96d2-4a78-8647-bc51bd71ce1a",
+            "4fd68698-9f7c-43b1-b146-29c341d3db42",
+            "697911b3-57b5-4c5f-b583-3eac1e90b41b"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 1.51
+}

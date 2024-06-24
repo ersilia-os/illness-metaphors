@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3a63c20e-09a6-4de3-b540-453cad758e06",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the tropical rainforests of Brazil, South America, dense canopies filter sunlight over lush greenery, ancient rocks, and sunlit streams. Life flourishes in this verdant habitat, showcasing a vibrant ecosystem in the heart of the Amazon region. Photorealistic. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.03",
+        "results": "e8a064eb-1d84-4270-8593-caa5edcaae25",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:22:30.093Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e8a064eb-1d84-4270-8593-caa5edcaae25/e8a064eb-1d84-4270-8593-caa5edcaae25.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/30379fd2-2f33-43e5-b7d7-bf40a4270088/30379fd2-2f33-43e5-b7d7-bf40a4270088.png",
+            "https://cl.imagineapi.dev/assets/71fe7a67-2e88-40a3-bbe1-1a66dae234c3/71fe7a67-2e88-40a3-bbe1-1a66dae234c3.png",
+            "https://cl.imagineapi.dev/assets/8f70e6a5-14fa-4a8f-a266-cd00c7e0725c/8f70e6a5-14fa-4a8f-a266-cd00c7e0725c.png",
+            "https://cl.imagineapi.dev/assets/f10f9347-e1b1-4654-bea9-b00be92d0384/f10f9347-e1b1-4654-bea9-b00be92d0384.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "30379fd2-2f33-43e5-b7d7-bf40a4270088",
+            "71fe7a67-2e88-40a3-bbe1-1a66dae234c3",
+            "8f70e6a5-14fa-4a8f-a266-cd00c7e0725c",
+            "f10f9347-e1b1-4654-bea9-b00be92d0384"
+        ]
+    },
+    "request_name": "021",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.03
+}

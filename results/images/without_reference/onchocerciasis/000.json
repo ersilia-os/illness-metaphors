@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "1a11867b-59c3-490f-9c7a-1cfd36450124",
+        "prompt": "In a secluded valley in Nigeria, in the Sahel region, barren and afflicted by onchocerciasis, the landscape mirrors the disease's grasp. The dry, scaly lumps resembling ancient secrets blend with the rugged terrain, carved by meandering streams. A sense of decay looms heavy in the air, shrouding the earth in shadows, a slow dance of destruction and rejuvenation. Bokeh. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "7bcb517a-a972-46a5-9080-468aed3da9fa",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:57:12.945Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7bcb517a-a972-46a5-9080-468aed3da9fa/7bcb517a-a972-46a5-9080-468aed3da9fa.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c82c937c-587a-43c9-a6e6-d9d787ff9ebd/c82c937c-587a-43c9-a6e6-d9d787ff9ebd.png",
+            "https://cl.imagineapi.dev/assets/5624b5b9-72b0-473b-bf27-7911d26d57ca/5624b5b9-72b0-473b-bf27-7911d26d57ca.png",
+            "https://cl.imagineapi.dev/assets/395973a7-7e69-49d3-812e-ebe1e28fc8d5/395973a7-7e69-49d3-812e-ebe1e28fc8d5.png",
+            "https://cl.imagineapi.dev/assets/e7e9204b-78ca-47d9-a83a-3eddcfec2066/e7e9204b-78ca-47d9-a83a-3eddcfec2066.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "395973a7-7e69-49d3-812e-ebe1e28fc8d5",
+            "5624b5b9-72b0-473b-bf27-7911d26d57ca",
+            "c82c937c-587a-43c9-a6e6-d9d787ff9ebd",
+            "e7e9204b-78ca-47d9-a83a-3eddcfec2066"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "onchocerciasis"
+}

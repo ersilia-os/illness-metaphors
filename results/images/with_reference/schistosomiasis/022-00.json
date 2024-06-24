@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3c1122bb-d728-42b4-9de1-fefa53237ee1",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In Egypt, within the Saharan desert, an enchanting oasis flourishes, radiating tranquility and hope in a harsh landscape. The golden waters of the Nile River shine brightly, offering renewal under the scorching sun. Graceful palm trees sway in the warm breeze, embodying resilience amid majestic sand dunes. This sanctuary promises transformation, a timeless refuge for spirits seeking rebirth and freedom. Bokeh. Harsh light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.25",
+        "results": "bd5e585f-fabe-412b-92bf-f3630c353e12",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:40:59.650Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/bd5e585f-fabe-412b-92bf-f3630c353e12/bd5e585f-fabe-412b-92bf-f3630c353e12.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c94f88bc-b691-4b42-be15-c123fe682ac4/c94f88bc-b691-4b42-be15-c123fe682ac4.png",
+            "https://cl.imagineapi.dev/assets/5a3f05ba-08c7-45c3-8313-4d4ab96a17f3/5a3f05ba-08c7-45c3-8313-4d4ab96a17f3.png",
+            "https://cl.imagineapi.dev/assets/0000836c-9af8-44b8-a6aa-4beaacb79752/0000836c-9af8-44b8-a6aa-4beaacb79752.png",
+            "https://cl.imagineapi.dev/assets/93eaa7ed-af03-4839-9acd-bab49d3018cd/93eaa7ed-af03-4839-9acd-bab49d3018cd.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0000836c-9af8-44b8-a6aa-4beaacb79752",
+            "5a3f05ba-08c7-45c3-8313-4d4ab96a17f3",
+            "93eaa7ed-af03-4839-9acd-bab49d3018cd",
+            "c94f88bc-b691-4b42-be15-c123fe682ac4"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 2.25
+}

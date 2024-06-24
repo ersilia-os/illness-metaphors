@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "40019e81-b24e-41a1-8206-dd3893ba5497",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In the vast desert of the Arabian Peninsula, the scorching sun illuminates a barren landscape with hidden perils. The mirage-like terrain masks dangers, waiting to entrap the unwary. The shimmering heat distorts the horizon, mirroring the treachery of the desert. Amidst its harsh beauty, a landscape of desolation and concealed hazards emerges from the grains of sand, painting a haunting picture of the region. Bokeh. Dramatic light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.06",
+        "results": "d8691c47-bf78-475a-86e5-6333345c7e64",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:48:38.783Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d8691c47-bf78-475a-86e5-6333345c7e64/d8691c47-bf78-475a-86e5-6333345c7e64.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a65d1377-84f0-42ee-b346-cd2f8b69a98c/a65d1377-84f0-42ee-b346-cd2f8b69a98c.png",
+            "https://cl.imagineapi.dev/assets/7a734b11-2ba9-4c18-a814-62fd7fc2c20a/7a734b11-2ba9-4c18-a814-62fd7fc2c20a.png",
+            "https://cl.imagineapi.dev/assets/443e763c-be91-4401-85a9-96543c37b27c/443e763c-be91-4401-85a9-96543c37b27c.png",
+            "https://cl.imagineapi.dev/assets/ceb8bc4b-6a29-4cf1-b7a6-06d07009dcab/ceb8bc4b-6a29-4cf1-b7a6-06d07009dcab.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "443e763c-be91-4401-85a9-96543c37b27c",
+            "7a734b11-2ba9-4c18-a814-62fd7fc2c20a",
+            "a65d1377-84f0-42ee-b346-cd2f8b69a98c",
+            "ceb8bc4b-6a29-4cf1-b7a6-06d07009dcab"
+        ]
+    },
+    "request_name": "019",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 2.06
+}

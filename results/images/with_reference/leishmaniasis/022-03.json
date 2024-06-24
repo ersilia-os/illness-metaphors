@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f5bd7f0d-1e8e-48cb-8d00-058e5d5ec4a1",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In the Sahel's vast dusty plains in Mali, resilient acacia trees dot the landscape. The air carries the scent of parched earth, mingling with nomadic whispers. Sun-kissed children play amidst mud-brick villages, echoing with laughter. A lone traveler on a camel symbolizes isolation in a region shadowed by colonialism, shaping narratives and divisions. Bokeh. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.43",
+        "results": "080c66d6-ff1e-4d5a-a5e2-95bb12ad9199",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:37:38.604Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/080c66d6-ff1e-4d5a-a5e2-95bb12ad9199/080c66d6-ff1e-4d5a-a5e2-95bb12ad9199.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3df826b0-d41b-42a3-acd7-91961e8befff/3df826b0-d41b-42a3-acd7-91961e8befff.png",
+            "https://cl.imagineapi.dev/assets/ff33d5f6-06a6-491f-8f34-447db53c37ea/ff33d5f6-06a6-491f-8f34-447db53c37ea.png",
+            "https://cl.imagineapi.dev/assets/8409a0f6-8f28-4cfe-b211-72776ae63781/8409a0f6-8f28-4cfe-b211-72776ae63781.png",
+            "https://cl.imagineapi.dev/assets/476f7dd2-7280-40d8-a743-ced06bdce33d/476f7dd2-7280-40d8-a743-ced06bdce33d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3df826b0-d41b-42a3-acd7-91961e8befff",
+            "476f7dd2-7280-40d8-a743-ced06bdce33d",
+            "8409a0f6-8f28-4cfe-b211-72776ae63781",
+            "ff33d5f6-06a6-491f-8f34-447db53c37ea"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.43
+}

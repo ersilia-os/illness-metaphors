@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a418751e-1aaa-4f3a-b106-b512ee76ae3b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In the rural savannah of Kenya, East Africa, rivers wind through ancient communities who coexist with nature's mysteries. The landscape blends harmoniously with pre-colonial traditions, embracing the dual nature of the flowing waters as both a source of sustenance and potential illness. Amidst the whispering palm leaves, traditional healers harness ancient wisdom to navigate these unseen forces of fragility and healing. Bokeh. Harsh light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.43",
+        "results": "95981454-2387-4886-8c38-b3610d0b592f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:33:01.957Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/95981454-2387-4886-8c38-b3610d0b592f/95981454-2387-4886-8c38-b3610d0b592f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8f0263eb-7865-4469-b70c-650826d8dc46/8f0263eb-7865-4469-b70c-650826d8dc46.png",
+            "https://cl.imagineapi.dev/assets/06292f54-92e8-493b-8d8e-48f925d2c995/06292f54-92e8-493b-8d8e-48f925d2c995.png",
+            "https://cl.imagineapi.dev/assets/e0261fb6-ac02-4af8-a3ab-70091fc6fc71/e0261fb6-ac02-4af8-a3ab-70091fc6fc71.png",
+            "https://cl.imagineapi.dev/assets/14681b91-e2c8-4cb1-9cdd-daf8b42d5bc7/14681b91-e2c8-4cb1-9cdd-daf8b42d5bc7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "06292f54-92e8-493b-8d8e-48f925d2c995",
+            "14681b91-e2c8-4cb1-9cdd-daf8b42d5bc7",
+            "8f0263eb-7865-4469-b70c-650826d8dc46",
+            "e0261fb6-ac02-4af8-a3ab-70091fc6fc71"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 2.43
+}

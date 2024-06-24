@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "7d00cf26-f76c-4a8c-8786-da0183992565",
+        "prompt": "In the Sub-Saharan African jungle, dense and humid, twisted vines and branches blend like serpents, concealing lurking dangers. The region, characterized by oppressive foreboding, holds an imminent sense of doom. Every rustle unveils hidden risks, enveloping the landscape in hazardous uncertainty. Bokeh. Harsh light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "5b119803-1098-4697-9d9b-efe6a7dcb063",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:41:21.590Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/5b119803-1098-4697-9d9b-efe6a7dcb063/5b119803-1098-4697-9d9b-efe6a7dcb063.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ddc3922d-4607-4439-8163-3e8313747aff/ddc3922d-4607-4439-8163-3e8313747aff.png",
+            "https://cl.imagineapi.dev/assets/eae07e67-c60b-44b4-bbd4-3312c958b109/eae07e67-c60b-44b4-bbd4-3312c958b109.png",
+            "https://cl.imagineapi.dev/assets/f05159a1-f8ad-40db-87bb-896a9d335baa/f05159a1-f8ad-40db-87bb-896a9d335baa.png",
+            "https://cl.imagineapi.dev/assets/cfa7db0f-5bd1-41f1-9800-e36f8efc6fb5/cfa7db0f-5bd1-41f1-9800-e36f8efc6fb5.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "cfa7db0f-5bd1-41f1-9800-e36f8efc6fb5",
+            "ddc3922d-4607-4439-8163-3e8313747aff",
+            "eae07e67-c60b-44b4-bbd4-3312c958b109",
+            "f05159a1-f8ad-40db-87bb-896a9d335baa"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "onchocerciasis"
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "cc0ac790-6909-41c6-a2ce-26c3745c2b34",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In Egypt's Nile Valley, beauty merges with peril akin to ancient hieroglyphs. Once a cradle for pharaohs, now harboring latent threats within. Obscure currents bear hidden dangers like parasitic flatworms, a delicate balance of life and suffering. Riverbanks enveloped by reeds witness an eternal battle against schistosomiasis. The country showcases a captivating landscape tainted by a persistent health menace. Bokeh. Dramatic light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.04",
+        "results": "937de6c1-41e8-44d5-b516-7c3638b01a61",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:22:23.071Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/937de6c1-41e8-44d5-b516-7c3638b01a61/937de6c1-41e8-44d5-b516-7c3638b01a61.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/53f86f37-1e6b-4304-9c82-082a6e1390c5/53f86f37-1e6b-4304-9c82-082a6e1390c5.png",
+            "https://cl.imagineapi.dev/assets/7f17512c-ff72-4b96-9996-e783fb40be20/7f17512c-ff72-4b96-9996-e783fb40be20.png",
+            "https://cl.imagineapi.dev/assets/800111fa-ba67-431f-a96f-71272f105dbe/800111fa-ba67-431f-a96f-71272f105dbe.png",
+            "https://cl.imagineapi.dev/assets/2c51442d-d8f5-462f-a482-9256b8b57b1a/2c51442d-d8f5-462f-a482-9256b8b57b1a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2c51442d-d8f5-462f-a482-9256b8b57b1a",
+            "53f86f37-1e6b-4304-9c82-082a6e1390c5",
+            "7f17512c-ff72-4b96-9996-e783fb40be20",
+            "800111fa-ba67-431f-a96f-71272f105dbe"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.04
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7c78c8e9-429a-4217-a4e4-7a95083fb09b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the arid North African and Middle Eastern desert, shifting dunes create a dynamic landscape. Oases provide fleeting refuge, resembling mirages. The parched air tells stories of survival and struggle, while life unexpectedly thrives. This harsh yet resilient environment showcases a delicate dance of endurance against unseen threats. Photorealistic. Studio light. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.31",
+        "results": "d37f33a3-01f6-45bf-94c4-5990ffb27d45",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:53:22.909Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d37f33a3-01f6-45bf-94c4-5990ffb27d45/d37f33a3-01f6-45bf-94c4-5990ffb27d45.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/74f9359a-5b8b-48b5-8ce7-9e983cb44937/74f9359a-5b8b-48b5-8ce7-9e983cb44937.png",
+            "https://cl.imagineapi.dev/assets/621241b9-851d-41eb-8cb0-95cf2d112a42/621241b9-851d-41eb-8cb0-95cf2d112a42.png",
+            "https://cl.imagineapi.dev/assets/4d36acf1-2c34-4e00-92e0-f9175d7a1a25/4d36acf1-2c34-4e00-92e0-f9175d7a1a25.png",
+            "https://cl.imagineapi.dev/assets/d7b67bae-ea8d-47e2-8773-ec849a5f154f/d7b67bae-ea8d-47e2-8773-ec849a5f154f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "4d36acf1-2c34-4e00-92e0-f9175d7a1a25",
+            "621241b9-851d-41eb-8cb0-95cf2d112a42",
+            "74f9359a-5b8b-48b5-8ce7-9e983cb44937",
+            "d7b67bae-ea8d-47e2-8773-ec849a5f154f"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.31
+}

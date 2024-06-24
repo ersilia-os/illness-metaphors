@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "1549b261-8722-49fd-a34f-cada69c9feae",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In the Sahel region of Africa, barren landscapes under the scorching sun reveal a harsh reality. Thorny acacias line dry rivers, permeated by an air of struggle. Skin ailments reflect the suffering of afflicted inhabitants, plagued by exclusion. Fragile huts provide scant protection against these unforgiving surroundings, illustrating the challenges faced in this arid environment of despair. Bokeh. Low lighting. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.0",
+        "results": "ea8f6703-179d-4584-b714-257c49afa033",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:24:46.766Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ea8f6703-179d-4584-b714-257c49afa033/ea8f6703-179d-4584-b714-257c49afa033.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/d3c1d328-52a8-4268-98ff-1a19d900906f/d3c1d328-52a8-4268-98ff-1a19d900906f.png",
+            "https://cl.imagineapi.dev/assets/ae4a66d0-a27c-461e-8343-c440d08ad968/ae4a66d0-a27c-461e-8343-c440d08ad968.png",
+            "https://cl.imagineapi.dev/assets/8ba8b84c-84f3-4df9-ae71-c30e273f360f/8ba8b84c-84f3-4df9-ae71-c30e273f360f.png",
+            "https://cl.imagineapi.dev/assets/d9fc7e47-6e11-40d7-8c4d-156f552be3a5/d9fc7e47-6e11-40d7-8c4d-156f552be3a5.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "8ba8b84c-84f3-4df9-ae71-c30e273f360f",
+            "ae4a66d0-a27c-461e-8343-c440d08ad968",
+            "d3c1d328-52a8-4268-98ff-1a19d900906f",
+            "d9fc7e47-6e11-40d7-8c4d-156f552be3a5"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 2.0
+}

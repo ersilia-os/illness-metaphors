@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "25a33f8d-bc27-47b0-ad36-2c882c1e9e44",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In a trachoma-stricken marsh in Ethiopia, East Africa, the murky waters mirror the somber sky. Crimson reeds resembling bloody bandages punctuate the landscape, evoking narratives of affliction and resilience. The scene is haunting, resonating with untold sorrows amidst a desolate and ominous setting where nature mirrors human struggle. Bokeh. Natural. Shot from above. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.22",
+        "results": "7f1e22a4-ae6a-4e3f-aa4f-d730ed88dd12",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:45:50.277Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7f1e22a4-ae6a-4e3f-aa4f-d730ed88dd12/7f1e22a4-ae6a-4e3f-aa4f-d730ed88dd12.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f1df3630-28c5-4114-a6e4-802f92d8ea59/f1df3630-28c5-4114-a6e4-802f92d8ea59.png",
+            "https://cl.imagineapi.dev/assets/fb662aad-7e2d-40b4-a343-f2c21ed6a324/fb662aad-7e2d-40b4-a343-f2c21ed6a324.png",
+            "https://cl.imagineapi.dev/assets/3c5cc9d4-a34c-481a-852a-8b0b8c00e191/3c5cc9d4-a34c-481a-852a-8b0b8c00e191.png",
+            "https://cl.imagineapi.dev/assets/9ceb45db-f7c2-4210-b292-c762e67f2bb4/9ceb45db-f7c2-4210-b292-c762e67f2bb4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3c5cc9d4-a34c-481a-852a-8b0b8c00e191",
+            "9ceb45db-f7c2-4210-b292-c762e67f2bb4",
+            "f1df3630-28c5-4114-a6e4-802f92d8ea59",
+            "fb662aad-7e2d-40b4-a343-f2c21ed6a324"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.22
+}

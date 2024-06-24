@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a07281d3-61b0-4d60-8a54-9212325aecf8",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In Egypt, the Nile River winds through the country's desert landscape, shrouded in ancient mystique. Tales of the past linger along its reed-covered banks, concealing unseen hazards. The atmosphere is laden with a sense of foreboding, a haunting reminder of the affliction that plagues these waters. Photorealistic. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.59",
+        "results": "cdd2fd19-4ef1-4277-8c5f-2cc43ce9ef49",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:25:55.118Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/cdd2fd19-4ef1-4277-8c5f-2cc43ce9ef49/cdd2fd19-4ef1-4277-8c5f-2cc43ce9ef49.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/91d258c6-6891-4ab1-8b81-3de94cf554b6/91d258c6-6891-4ab1-8b81-3de94cf554b6.png",
+            "https://cl.imagineapi.dev/assets/dd8d0743-c005-4e2a-aa43-fd35be152c5d/dd8d0743-c005-4e2a-aa43-fd35be152c5d.png",
+            "https://cl.imagineapi.dev/assets/efee377a-5403-4096-a92f-7643f71bafea/efee377a-5403-4096-a92f-7643f71bafea.png",
+            "https://cl.imagineapi.dev/assets/25ca07d7-e472-44c7-bbab-4b1685b39ab5/25ca07d7-e472-44c7-bbab-4b1685b39ab5.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "25ca07d7-e472-44c7-bbab-4b1685b39ab5",
+            "91d258c6-6891-4ab1-8b81-3de94cf554b6",
+            "dd8d0743-c005-4e2a-aa43-fd35be152c5d",
+            "efee377a-5403-4096-a92f-7643f71bafea"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.59
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b7f15be8-4152-46b9-88f5-634a709ad70e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018d_12.jpg?raw=true In the vibrant urban hub of Tokyo, Japan, towering skyscrapers dominate the bustling cityscape. Crowded streets bustle with activity as pedestrians move through the vibrant districts. The city pulsates with an electrifying energy, creating a lively atmosphere day and night. Tokyo's metropolitan landscape exudes a contagious vibrancy that defines its captivating essence. Photorealistic. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.49",
+        "results": "5f1eb54c-3cf5-449e-97af-f54b19a68aff",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:22:31.447Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/5f1eb54c-3cf5-449e-97af-f54b19a68aff/5f1eb54c-3cf5-449e-97af-f54b19a68aff.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/607ffef5-ec4b-444a-8687-a4503659bad5/607ffef5-ec4b-444a-8687-a4503659bad5.png",
+            "https://cl.imagineapi.dev/assets/33ca3132-8570-4549-84d1-8f9be74ff0cd/33ca3132-8570-4549-84d1-8f9be74ff0cd.png",
+            "https://cl.imagineapi.dev/assets/9bc4eab2-5779-4253-8532-f9178afbf073/9bc4eab2-5779-4253-8532-f9178afbf073.png",
+            "https://cl.imagineapi.dev/assets/ddec5968-62d5-46bf-b8c3-0ef651263330/ddec5968-62d5-46bf-b8c3-0ef651263330.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "33ca3132-8570-4549-84d1-8f9be74ff0cd",
+            "607ffef5-ec4b-444a-8687-a4503659bad5",
+            "9bc4eab2-5779-4253-8532-f9178afbf073",
+            "ddec5968-62d5-46bf-b8c3-0ef651263330"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "dengue",
+    "reference_number": "12",
+    "image_weight": 1.49
+}

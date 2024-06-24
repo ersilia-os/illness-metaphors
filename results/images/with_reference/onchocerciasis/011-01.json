@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b568f1f4-9364-4904-aab9-424fe6b89085",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In the Sahel region of Africa, barren landscapes under the scorching sun reveal a harsh reality. Thorny acacias line dry rivers, permeated by an air of struggle. Skin ailments reflect the suffering of afflicted inhabitants, plagued by exclusion. Fragile huts provide scant protection against these unforgiving surroundings, illustrating the challenges faced in this arid environment of despair. Bokeh. Low lighting. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.06",
+        "results": "2c5979ce-41cb-4841-afaf-c18147cfe411",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:29:11.136Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2c5979ce-41cb-4841-afaf-c18147cfe411/2c5979ce-41cb-4841-afaf-c18147cfe411.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b1c8ec4c-7bca-4afb-845e-7736f440fd81/b1c8ec4c-7bca-4afb-845e-7736f440fd81.png",
+            "https://cl.imagineapi.dev/assets/b5e344f4-0eee-4e06-a271-06924400629a/b5e344f4-0eee-4e06-a271-06924400629a.png",
+            "https://cl.imagineapi.dev/assets/3f86e980-5a58-4ff3-a012-4473a10bd1ff/3f86e980-5a58-4ff3-a012-4473a10bd1ff.png",
+            "https://cl.imagineapi.dev/assets/543c276b-64fe-4ec1-acd1-71593d85b1e8/543c276b-64fe-4ec1-acd1-71593d85b1e8.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3f86e980-5a58-4ff3-a012-4473a10bd1ff",
+            "543c276b-64fe-4ec1-acd1-71593d85b1e8",
+            "b1c8ec4c-7bca-4afb-845e-7736f440fd81",
+            "b5e344f4-0eee-4e06-a271-06924400629a"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 1.06
+}

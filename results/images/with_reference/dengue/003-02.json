@@ -1,0 +1,24 @@
+{
+    "data": {
+        "id": "3f3d5da9-7fda-44ae-902b-6fa1fb08a7f5",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20798_02.jpg?raw=true In Southeast Asia's urban setting, bustling alleys, prickly buildings, and narrow passageways create an uneasy atmosphere. Shadows play eerie games, uncertainty thickens the air. Streets throb with restless energy, hiding lurking dangers within the maze of architecture. Each corner whispers secrets, each step unveils risks in this labyrinthine world of hidden perils and unseen threats in a specific country, region, and urban landscape. Photorealistic. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.76",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:33:37.086Z",
+        "status": "pending",
+        "progress": null,
+        "url": null,
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "4db1ecd4-cbdd-4080-af45-fa38fc6ef834",
+            "bb215d42-136a-4f80-903f-7c8e6dc39463",
+            "e5399f44-1240-4cdb-9f14-21d079eda127"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "dengue",
+    "reference_number": "02",
+    "image_weight": 1.76
+}

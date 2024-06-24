@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ef67528e-fdc2-44ac-9e86-3fc995fe98bc",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true Within the desolate desert of Namibia, Southern Africa, the scorching sun blisters the sandy terrain, casting enduring shadows akin to the harsh reality faced. Endless expanses of sand mirror the unseen affliction's relentless spread. Boulders stand silent, witnessing desolation akin to battling an invisible enemy. It's a solitary journey of survival through arid lands, echoing a shadowed battle fought in the unforgiving landscape. Photorealistic. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.27",
+        "results": "804fce74-b6a3-491b-b389-2f3cb7f7c163",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:17:59.112Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/804fce74-b6a3-491b-b389-2f3cb7f7c163/804fce74-b6a3-491b-b389-2f3cb7f7c163.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6c224595-b379-41fe-8915-b7aafe72e60d/6c224595-b379-41fe-8915-b7aafe72e60d.png",
+            "https://cl.imagineapi.dev/assets/0f4749b2-9803-4ac7-8b43-36ae5db15dc6/0f4749b2-9803-4ac7-8b43-36ae5db15dc6.png",
+            "https://cl.imagineapi.dev/assets/e669778a-d285-4677-9255-0267ca4ee3ad/e669778a-d285-4677-9255-0267ca4ee3ad.png",
+            "https://cl.imagineapi.dev/assets/2f310052-db28-4d2c-9bd1-3a7ab4b0fccf/2f310052-db28-4d2c-9bd1-3a7ab4b0fccf.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0f4749b2-9803-4ac7-8b43-36ae5db15dc6",
+            "2f310052-db28-4d2c-9bd1-3a7ab4b0fccf",
+            "6c224595-b379-41fe-8915-b7aafe72e60d",
+            "e669778a-d285-4677-9255-0267ca4ee3ad"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 1.27
+}

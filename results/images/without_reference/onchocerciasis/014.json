@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "6175977e-6c7c-4fd7-8029-866f1f95f213",
+        "prompt": "In sub-Saharan Africa, mist veils the expansive plains. The sun struggles to break through, casting sporadic rays on gnarled trees. Skeletal branches extend over murky waters, stirring shadows where creatures rustle. The eerie silence hints at lurking dangers, adding to the foreboding ambiance of this remote wilderness in Africa's Savannah region. Bokeh. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "a62cd063-5f7c-4061-817b-4a9c9aef0313",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:58:43.535Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a62cd063-5f7c-4061-817b-4a9c9aef0313/a62cd063-5f7c-4061-817b-4a9c9aef0313.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8b427d46-3561-40f1-bde3-b2b3885a2ffd/8b427d46-3561-40f1-bde3-b2b3885a2ffd.png",
+            "https://cl.imagineapi.dev/assets/04369f08-09dc-47b3-93ad-808cfe09ad4b/04369f08-09dc-47b3-93ad-808cfe09ad4b.png",
+            "https://cl.imagineapi.dev/assets/9d7d2d58-dbc2-4c5f-a058-674c1955f9ce/9d7d2d58-dbc2-4c5f-a058-674c1955f9ce.png",
+            "https://cl.imagineapi.dev/assets/3b72cdb7-db42-4fa2-8cd7-e3a64d5b0744/3b72cdb7-db42-4fa2-8cd7-e3a64d5b0744.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "04369f08-09dc-47b3-93ad-808cfe09ad4b",
+            "3b72cdb7-db42-4fa2-8cd7-e3a64d5b0744",
+            "8b427d46-3561-40f1-bde3-b2b3885a2ffd",
+            "9d7d2d58-dbc2-4c5f-a058-674c1955f9ce"
+        ]
+    },
+    "request_name": "014",
+    "disease_name": "onchocerciasis"
+}

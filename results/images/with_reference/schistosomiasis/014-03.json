@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e59d2a95-4bd8-4dad-a7a6-92a141b7e40b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In a region plagued by schistosomiasis, the haunting landscape unfolds. Colonial relics tower over mist-laden terrain as hills ripple with tropical greenery, echoing stories of stigma. The air carries a mix of poverty and blossoms, a poignant representation of beauty and decline. Meandering rivers reflect a distorted colonial past, with crumbling huts amidst lush surroundings, highlighting sharp socio-economic disparities. Far off in the distance lies the striking scenery of a troubled African village. Bokeh. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.16",
+        "results": "ca9a0c98-9251-4317-9d29-4c53cf1af3c4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:55:07.325Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ca9a0c98-9251-4317-9d29-4c53cf1af3c4/ca9a0c98-9251-4317-9d29-4c53cf1af3c4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/0fd2ac0f-72b1-4e3c-8657-4cf97e52ae38/0fd2ac0f-72b1-4e3c-8657-4cf97e52ae38.png",
+            "https://cl.imagineapi.dev/assets/e4520191-31f0-4f2f-ab01-3e8aaf9fb43b/e4520191-31f0-4f2f-ab01-3e8aaf9fb43b.png",
+            "https://cl.imagineapi.dev/assets/c8ecb66e-032a-45c5-9f36-175fbcde1815/c8ecb66e-032a-45c5-9f36-175fbcde1815.png",
+            "https://cl.imagineapi.dev/assets/078f807a-5314-48ab-a3ef-02bcd605f3a1/078f807a-5314-48ab-a3ef-02bcd605f3a1.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "078f807a-5314-48ab-a3ef-02bcd605f3a1",
+            "0fd2ac0f-72b1-4e3c-8657-4cf97e52ae38",
+            "c8ecb66e-032a-45c5-9f36-175fbcde1815",
+            "e4520191-31f0-4f2f-ab01-3e8aaf9fb43b"
+        ]
+    },
+    "request_name": "014",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 2.16
+}

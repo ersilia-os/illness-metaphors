@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e88f026f-b277-4f42-b78a-a7fc1ff7be65",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In the arid savanna region of Ethiopia, East Africa, cracked soil under the relentless sun paints a desolate landscape. Dust veils the scene, reflecting a harsh reality of suffering. Whispers of despair linger amidst the scorching heat in this land of struggle against decay. Bokeh. Low lighting. Landscape photography. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.87",
+        "results": "642ef2d8-f940-4a37-836f-e2fbfc285fa4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:58:43.668Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/642ef2d8-f940-4a37-836f-e2fbfc285fa4/642ef2d8-f940-4a37-836f-e2fbfc285fa4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ed23aab4-a8d3-4283-a817-802893aaa35f/ed23aab4-a8d3-4283-a817-802893aaa35f.png",
+            "https://cl.imagineapi.dev/assets/d554555e-1be9-4ad4-9008-d3cb5868b42b/d554555e-1be9-4ad4-9008-d3cb5868b42b.png",
+            "https://cl.imagineapi.dev/assets/26efd5fe-1e4c-4f7e-97de-ddf6b0e1a9c6/26efd5fe-1e4c-4f7e-97de-ddf6b0e1a9c6.png",
+            "https://cl.imagineapi.dev/assets/238feb5e-adf4-4327-8ce7-355e2cda2631/238feb5e-adf4-4327-8ce7-355e2cda2631.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "238feb5e-adf4-4327-8ce7-355e2cda2631",
+            "26efd5fe-1e4c-4f7e-97de-ddf6b0e1a9c6",
+            "d554555e-1be9-4ad4-9008-d3cb5868b42b",
+            "ed23aab4-a8d3-4283-a817-802893aaa35f"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.87
+}

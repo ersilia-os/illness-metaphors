@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "dea3abbf-7407-4e1f-9f89-b53746fb2a7d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010_03.jpg?raw=true In Southeast Asia's tropical region, scorching sun paints the landscape in vivid hues. Sweltering heat and swirling air oppressively embrace the area, where tall palms sway like guardians in the fierce wind. The cracked, dry ground mirrors survival challenges, while resilient wildlife cries echo. Encountering weathered architecture is a common sight in this harsh, vibrant landscape of Southeast Asia. Photorealistic. Low lighting. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.09",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T00:34:36.669Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "016",
+    "disease_name": "dengue",
+    "reference_number": "03",
+    "image_weight": 1.09
+}

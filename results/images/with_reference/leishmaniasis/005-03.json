@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "0cee602b-f502-4cd8-9b31-a796749cc37e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In the High Andes valleys of Peru, jagged peaks rise sharply, surrounded by thin, pure air whispering ancient Inca folklore. Llamas graze peacefully in terraced meadows carved into mountainsides, showcasing resilience. Skilled artisans craft vibrant tapestries depicting proud heritage, amidst the silent battle against sandfly-borne parasites. In this unique landscape, ancient wisdom intersects with contemporary obstacles, creating a compelling narrative. Photorealistic. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.42",
+        "results": "7dbbab82-126f-4bb5-a9cd-d0468beaa058",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:56:39.908Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7dbbab82-126f-4bb5-a9cd-d0468beaa058/7dbbab82-126f-4bb5-a9cd-d0468beaa058.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/71a97500-7cea-4dfd-b6be-cf32a57c729a/71a97500-7cea-4dfd-b6be-cf32a57c729a.png",
+            "https://cl.imagineapi.dev/assets/ec83bb95-9566-46f4-a73f-5583fd12db6e/ec83bb95-9566-46f4-a73f-5583fd12db6e.png",
+            "https://cl.imagineapi.dev/assets/bdfc4851-9508-460f-93cd-a64d4a8ecda7/bdfc4851-9508-460f-93cd-a64d4a8ecda7.png",
+            "https://cl.imagineapi.dev/assets/a8728f3d-dc4d-48b6-be1c-e538cc5b6a68/a8728f3d-dc4d-48b6-be1c-e538cc5b6a68.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "71a97500-7cea-4dfd-b6be-cf32a57c729a",
+            "a8728f3d-dc4d-48b6-be1c-e538cc5b6a68",
+            "bdfc4851-9508-460f-93cd-a64d4a8ecda7",
+            "ec83bb95-9566-46f4-a73f-5583fd12db6e"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 2.42
+}

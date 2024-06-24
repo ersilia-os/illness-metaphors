@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a8b3c002-6575-42ef-82a5-7c67eabc55e9",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In the Sub-Saharan African jungle, dense and humid, twisted vines and branches blend like serpents, concealing lurking dangers. The region, characterized by oppressive foreboding, holds an imminent sense of doom. Every rustle unveils hidden risks, enveloping the landscape in hazardous uncertainty. Bokeh. Harsh light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.3",
+        "results": "17b27393-8ab9-46bf-bf93-7e5607ad8721",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:59:23.592Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/17b27393-8ab9-46bf-bf93-7e5607ad8721/17b27393-8ab9-46bf-bf93-7e5607ad8721.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ce0a77c5-2b56-4533-b240-4346ba428443/ce0a77c5-2b56-4533-b240-4346ba428443.png",
+            "https://cl.imagineapi.dev/assets/50fcebb9-6b8f-4768-bf0b-8ad9edea78ee/50fcebb9-6b8f-4768-bf0b-8ad9edea78ee.png",
+            "https://cl.imagineapi.dev/assets/fcdd8231-5612-48ba-b4b8-a0906491b376/fcdd8231-5612-48ba-b4b8-a0906491b376.png",
+            "https://cl.imagineapi.dev/assets/2ea4afd1-a10d-47a8-85b0-a7d5601f4ac4/2ea4afd1-a10d-47a8-85b0-a7d5601f4ac4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2ea4afd1-a10d-47a8-85b0-a7d5601f4ac4",
+            "50fcebb9-6b8f-4768-bf0b-8ad9edea78ee",
+            "ce0a77c5-2b56-4533-b240-4346ba428443",
+            "fcdd8231-5612-48ba-b4b8-a0906491b376"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 2.3
+}

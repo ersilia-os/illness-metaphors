@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "41981aa8-f3eb-42d9-8dda-7e00c8aaf2a7",
+        "prompt": "In the remote forests of Transylvania, Romania, shadows play on the trembling foliage, creating an ominous atmosphere. The dense forest exudes an aura of mystery and unease, with whispers hinting at hidden threats. Despite the captivating beauty of the landscape, an underlying sense of danger prevails, evoking a chilling sensation as every rustle of leaves suggests imminent peril. Bokeh. Low lighting. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "d96bdf2e-43ba-4a8c-9e67-9bbfda208883",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:57:37.668Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d96bdf2e-43ba-4a8c-9e67-9bbfda208883/d96bdf2e-43ba-4a8c-9e67-9bbfda208883.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f88b2576-1765-44a0-b406-8c70c974311e/f88b2576-1765-44a0-b406-8c70c974311e.png",
+            "https://cl.imagineapi.dev/assets/f6827f0f-1e29-467e-8b5a-c1034847896d/f6827f0f-1e29-467e-8b5a-c1034847896d.png",
+            "https://cl.imagineapi.dev/assets/71cf6432-81e5-4d00-947b-be4f4cc65e61/71cf6432-81e5-4d00-947b-be4f4cc65e61.png",
+            "https://cl.imagineapi.dev/assets/52095909-0686-4d18-b881-5d776526ad21/52095909-0686-4d18-b881-5d776526ad21.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "52095909-0686-4d18-b881-5d776526ad21",
+            "71cf6432-81e5-4d00-947b-be4f4cc65e61",
+            "f6827f0f-1e29-467e-8b5a-c1034847896d",
+            "f88b2576-1765-44a0-b406-8c70c974311e"
+        ]
+    },
+    "request_name": "026",
+    "disease_name": "onchocerciasis"
+}

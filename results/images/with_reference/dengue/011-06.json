@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "bf8aa099-c794-44c3-b116-802ffb626e80",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010d_06.jpg?raw=true In Southeast Asia, intricate alleys wind through frenzied markets, captivating with vivid hues on people's faces. Anticipation hangs heavy in the air, shadowed by the unseen threat of dengue. This bustling landscape paints a vivid picture in this country's urban region, brimming with diverse culture and energy. Photorealistic. Low lighting. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.21",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T22:59:49.007Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Timeout after prompt was sent",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "011",
+    "disease_name": "dengue",
+    "reference_number": "06",
+    "image_weight": 2.21
+}

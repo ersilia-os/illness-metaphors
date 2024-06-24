@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "83d0a8d4-a07e-4fad-8faa-33553aa71c5e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In high Andes valleys of Peru, rugged peaks dominate the landscape, while llamas calmly graze in terraced fields. Skilled tapestries depict rich heritage amid challenges like sandfly-borne parasites. The region embodies resilience amidst shadows of stigma and prejudice, illuminated by cultural pride. Photorealistic. Dramatic light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.84",
+        "results": "525e83a2-2874-4bc3-89ab-421d4a611f57",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:42:46.125Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/525e83a2-2874-4bc3-89ab-421d4a611f57/525e83a2-2874-4bc3-89ab-421d4a611f57.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/546722b5-fda4-4c85-ad6a-dfdbf7a7c381/546722b5-fda4-4c85-ad6a-dfdbf7a7c381.png",
+            "https://cl.imagineapi.dev/assets/19c3fda3-bb63-4596-b92d-a645584fec93/19c3fda3-bb63-4596-b92d-a645584fec93.png",
+            "https://cl.imagineapi.dev/assets/99c69226-2c27-4c6b-99cf-2897cb1c768d/99c69226-2c27-4c6b-99cf-2897cb1c768d.png",
+            "https://cl.imagineapi.dev/assets/9b57225d-a079-4234-bcd9-6f83a2161617/9b57225d-a079-4234-bcd9-6f83a2161617.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "19c3fda3-bb63-4596-b92d-a645584fec93",
+            "546722b5-fda4-4c85-ad6a-dfdbf7a7c381",
+            "99c69226-2c27-4c6b-99cf-2897cb1c768d",
+            "9b57225d-a079-4234-bcd9-6f83a2161617"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.84
+}

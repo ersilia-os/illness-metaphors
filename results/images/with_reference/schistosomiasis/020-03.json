@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2a25a48f-4fd1-4f68-b9df-299d31881ca6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the arid desert of sub-Saharan Africa, shadows play on red and golden dunes. Time flows like shifting sand, rich with ancient tales of conquest. Jagged cliffs and deep ravines hint at past battles. Resilient flora defy nature, their twisted shapes symbolizing defiance. This landscape, found in Namibia, Southern Africa, is a testament to enduring history and nature's strength. Photorealistic. Studio light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.21",
+        "results": "d528aef1-3d83-4931-9904-c44136891bf4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:55:03.773Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d528aef1-3d83-4931-9904-c44136891bf4/d528aef1-3d83-4931-9904-c44136891bf4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8f4a2d0d-3578-48ee-aa43-74a8d730428c/8f4a2d0d-3578-48ee-aa43-74a8d730428c.png",
+            "https://cl.imagineapi.dev/assets/f3d61b00-990a-4ddb-bf1e-4eead0a71401/f3d61b00-990a-4ddb-bf1e-4eead0a71401.png",
+            "https://cl.imagineapi.dev/assets/1e176b98-778a-4da1-88d2-b57b90e7a105/1e176b98-778a-4da1-88d2-b57b90e7a105.png",
+            "https://cl.imagineapi.dev/assets/30eb8e7e-9ee4-46d7-ae00-f2fa635f0375/30eb8e7e-9ee4-46d7-ae00-f2fa635f0375.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1e176b98-778a-4da1-88d2-b57b90e7a105",
+            "30eb8e7e-9ee4-46d7-ae00-f2fa635f0375",
+            "8f4a2d0d-3578-48ee-aa43-74a8d730428c",
+            "f3d61b00-990a-4ddb-bf1e-4eead0a71401"
+        ]
+    },
+    "request_name": "020",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.21
+}

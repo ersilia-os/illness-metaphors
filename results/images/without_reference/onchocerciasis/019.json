@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "9f88fb16-dedf-4d4e-bc1d-ce99cbb187c5",
+        "prompt": "In sub-Saharan Africa, a dense fog covers the vast plains, with twisted trees in the distance barely touched by sporadic sun rays. Skeletal branches reach out like clawing fingers, disrupting the stillness. Creatures rustle in the shadows, hinting at hidden dangers. This eerie landscape warns any daring traveler in the region of the dangers lurking in the misty wilderness of sub-Saharan Africa. Bokeh. Studio light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "e5d6f480-c81b-4655-b183-26a0e897bd55",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:12:26.222Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e5d6f480-c81b-4655-b183-26a0e897bd55/e5d6f480-c81b-4655-b183-26a0e897bd55.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/63bb7d62-62a0-4a3f-84d3-92fa5b9ebc7c/63bb7d62-62a0-4a3f-84d3-92fa5b9ebc7c.png",
+            "https://cl.imagineapi.dev/assets/6e83dd4b-52d7-465a-a4ad-b18124b6dec5/6e83dd4b-52d7-465a-a4ad-b18124b6dec5.png",
+            "https://cl.imagineapi.dev/assets/39a4eca1-14c3-4c53-b7e7-01bde5c80465/39a4eca1-14c3-4c53-b7e7-01bde5c80465.png",
+            "https://cl.imagineapi.dev/assets/06304a49-b808-443d-b1ff-083bad0367d4/06304a49-b808-443d-b1ff-083bad0367d4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "06304a49-b808-443d-b1ff-083bad0367d4",
+            "39a4eca1-14c3-4c53-b7e7-01bde5c80465",
+            "63bb7d62-62a0-4a3f-84d3-92fa5b9ebc7c",
+            "6e83dd4b-52d7-465a-a4ad-b18124b6dec5"
+        ]
+    },
+    "request_name": "019",
+    "disease_name": "onchocerciasis"
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "732abbcc-b05a-44a1-8829-c0add2753cb2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_bonn2_03.jpg?raw=true In sub-Saharan Africa, a thick mist envelops the vast savanna, creating an aura of mystery. The sun struggles to pierce through, illuminating twisted trees. Skeletal branches reach out over murky waters, concealing unknown dangers. Amidst the hushed surroundings, the sounds of hidden creatures disrupt the tranquility, hinting at hidden threats for any daring explorers. This scene unfolds in the Central African region, within a dense tropical landscape. Photorealistic. Low lighting. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.06",
+        "results": "7e1ccd9e-7a74-4cf1-a739-1a35f021b333",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:40:45.783Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7e1ccd9e-7a74-4cf1-a739-1a35f021b333/7e1ccd9e-7a74-4cf1-a739-1a35f021b333.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e7769ded-ec50-4bf4-b5dd-629705606b29/e7769ded-ec50-4bf4-b5dd-629705606b29.png",
+            "https://cl.imagineapi.dev/assets/717664f3-39bd-43e9-bd30-fc4840520d56/717664f3-39bd-43e9-bd30-fc4840520d56.png",
+            "https://cl.imagineapi.dev/assets/53808089-0236-4615-8151-0e6381ebcc1b/53808089-0236-4615-8151-0e6381ebcc1b.png",
+            "https://cl.imagineapi.dev/assets/780554e8-20e5-4cc3-baab-2d732f12e3f7/780554e8-20e5-4cc3-baab-2d732f12e3f7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "53808089-0236-4615-8151-0e6381ebcc1b",
+            "717664f3-39bd-43e9-bd30-fc4840520d56",
+            "780554e8-20e5-4cc3-baab-2d732f12e3f7",
+            "e7769ded-ec50-4bf4-b5dd-629705606b29"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "onchocerciasis",
+    "reference_number": "03",
+    "image_weight": 1.06
+}

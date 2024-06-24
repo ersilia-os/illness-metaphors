@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ad457be9-f75b-4842-8332-255f106799d5",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In Sub-Saharan Africa's misty marshlands, a mysterious world emerges with hidden vitality and intricate cycles. Nature's whispers resonate through the reeds, where life pulses. Shadows dance on the marsh's surface, embodying unseen forces. Amidst ancient mysteries, in this enigmatic realm, lies a landscape waiting to reveal its secrets. Photorealistic. Low lighting. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.52",
+        "results": "96fc94fd-6c22-48ad-babd-49f7e8589781",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:28:09.067Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/96fc94fd-6c22-48ad-babd-49f7e8589781/96fc94fd-6c22-48ad-babd-49f7e8589781.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/29f1a6e1-122f-426f-99e5-ef0448ebc658/29f1a6e1-122f-426f-99e5-ef0448ebc658.png",
+            "https://cl.imagineapi.dev/assets/744bcb81-a8d1-4125-b9c6-292252874407/744bcb81-a8d1-4125-b9c6-292252874407.png",
+            "https://cl.imagineapi.dev/assets/e3e8375f-454a-4b9f-9489-a7a5171342b6/e3e8375f-454a-4b9f-9489-a7a5171342b6.png",
+            "https://cl.imagineapi.dev/assets/c74c1791-54cd-4308-8b96-82bdff94f699/c74c1791-54cd-4308-8b96-82bdff94f699.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "29f1a6e1-122f-426f-99e5-ef0448ebc658",
+            "744bcb81-a8d1-4125-b9c6-292252874407",
+            "c74c1791-54cd-4308-8b96-82bdff94f699",
+            "e3e8375f-454a-4b9f-9489-a7a5171342b6"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.52
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "b766f143-978e-4da0-9c23-5196a1e703fe",
+        "prompt": "In a country in Africa, amid savannah lands, resilient ancient baobab trees dominate the rugged terrain, intertwined with shadows that narrate untold tales of strife and endurance. The landscape mirrors the unyielding passage of time, echoing nature's strength and the silent struggles engrained in its community. Bokeh. Studio light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "799f1132-d6d3-4a56-a864-a3c041116b6e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:02:06.089Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/799f1132-d6d3-4a56-a864-a3c041116b6e/799f1132-d6d3-4a56-a864-a3c041116b6e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/873d15ab-96f6-44fc-b121-38e70f9c2137/873d15ab-96f6-44fc-b121-38e70f9c2137.png",
+            "https://cl.imagineapi.dev/assets/6fb015bc-c42f-41a8-959f-720d314540e3/6fb015bc-c42f-41a8-959f-720d314540e3.png",
+            "https://cl.imagineapi.dev/assets/2febb56a-60a8-40c7-ba7a-3d1e0a071613/2febb56a-60a8-40c7-ba7a-3d1e0a071613.png",
+            "https://cl.imagineapi.dev/assets/70a893bb-6bf7-4b43-b8aa-979569656cd6/70a893bb-6bf7-4b43-b8aa-979569656cd6.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2febb56a-60a8-40c7-ba7a-3d1e0a071613",
+            "6fb015bc-c42f-41a8-959f-720d314540e3",
+            "70a893bb-6bf7-4b43-b8aa-979569656cd6",
+            "873d15ab-96f6-44fc-b121-38e70f9c2137"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "onchocerciasis"
+}

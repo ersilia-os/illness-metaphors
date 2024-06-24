@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "aacf1443-87a6-456c-9c8b-62d82847ab4b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_12493_00.jpg?raw=true In a tropical delta in Malaysia's Sarawak region, the swampy landscape merges land and water, with mud, tangled roots, and shallow waters forming eerie terrains. Dense canopy casting a greenish hue over stagnant pools mirrors the overgrown foliage. Concealed within shadows, dangers hide amidst buzzing insects' symphony. This delicate ecosystem balances decay and rebirth, yet unseen threats loom in the afflicted areas. Photorealistic. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.99",
+        "results": "11ea7347-7c07-4c83-b155-d4c171a2d8e7",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:50:06.852Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/11ea7347-7c07-4c83-b155-d4c171a2d8e7/11ea7347-7c07-4c83-b155-d4c171a2d8e7.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/03f17a44-bff5-4aeb-a129-8d6f26ae20f8/03f17a44-bff5-4aeb-a129-8d6f26ae20f8.png",
+            "https://cl.imagineapi.dev/assets/820affbd-d548-4b69-bf56-251250308699/820affbd-d548-4b69-bf56-251250308699.png",
+            "https://cl.imagineapi.dev/assets/a75853e3-f9d1-4693-ae47-d268b5602114/a75853e3-f9d1-4693-ae47-d268b5602114.png",
+            "https://cl.imagineapi.dev/assets/c073bf38-1814-44a8-9e06-e3816ffc2f7f/c073bf38-1814-44a8-9e06-e3816ffc2f7f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "03f17a44-bff5-4aeb-a129-8d6f26ae20f8",
+            "820affbd-d548-4b69-bf56-251250308699",
+            "a75853e3-f9d1-4693-ae47-d268b5602114",
+            "c073bf38-1814-44a8-9e06-e3816ffc2f7f"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "dengue",
+    "reference_number": "00",
+    "image_weight": 1.99
+}

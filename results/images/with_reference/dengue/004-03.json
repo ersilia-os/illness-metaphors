@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "bae392be-9696-4ad2-8b05-604afe53f098",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010_03.jpg?raw=true In the tropical region of Madagascar, a scorched and arid landscape unfolds under the intense sun. Tall palms sway in the hot wind, standing guard over the rugged, cracked terrain. Nature's resilience is evident in the echoing wildlife sounds and the weathered architecture. Here, amidst the unforgiving surroundings, the delicate dance between life and death lingers as a haunting reminder. Bokeh. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.49",
+        "results": "281c00b7-7f46-4597-9fa7-6eaee8e3323e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:06:33.901Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/281c00b7-7f46-4597-9fa7-6eaee8e3323e/281c00b7-7f46-4597-9fa7-6eaee8e3323e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3d4f781a-4540-4754-b0e7-f8005553be54/3d4f781a-4540-4754-b0e7-f8005553be54.png",
+            "https://cl.imagineapi.dev/assets/34e5ba71-91ae-4248-97ea-f69204b12c9f/34e5ba71-91ae-4248-97ea-f69204b12c9f.png",
+            "https://cl.imagineapi.dev/assets/3d1144df-4e5b-4c62-8469-a26a4000ca77/3d1144df-4e5b-4c62-8469-a26a4000ca77.png",
+            "https://cl.imagineapi.dev/assets/5df69c0e-f9de-431d-a86d-ec5ede391bc3/5df69c0e-f9de-431d-a86d-ec5ede391bc3.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "34e5ba71-91ae-4248-97ea-f69204b12c9f",
+            "3d1144df-4e5b-4c62-8469-a26a4000ca77",
+            "3d4f781a-4540-4754-b0e7-f8005553be54",
+            "5df69c0e-f9de-431d-a86d-ec5ede391bc3"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "dengue",
+    "reference_number": "03",
+    "image_weight": 2.49
+}

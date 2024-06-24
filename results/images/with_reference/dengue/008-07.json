@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f5c8a886-c8c4-40b9-8cb3-a981290c4bac",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010e_07.jpg?raw=true In Southeast Asia's misty valleys, bamboo groves and rice paddies blend with ancient traditions. Mountains guard healers making herbal remedies. Fragrant air from papaya leaves mingles with spiritual rituals in bustling marketplaces. Andrographis paniculata leaves symbolize the community's fight against threats. As the sun sets, harmonious hums of insects resonate with distant drums, creating a mystical ambiance. This scenery unfolds in the heart of Laos, featuring a diverse and captivating landscape. Bokeh. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.49",
+        "results": "7115a00b-4304-4fa4-a56f-d2853812e83f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:44:48.134Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7115a00b-4304-4fa4-a56f-d2853812e83f/7115a00b-4304-4fa4-a56f-d2853812e83f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/dea31a41-721d-437a-b8e9-7531a24c3754/dea31a41-721d-437a-b8e9-7531a24c3754.png",
+            "https://cl.imagineapi.dev/assets/172f89bf-13e6-4f3f-9e1d-513c81b9c7f6/172f89bf-13e6-4f3f-9e1d-513c81b9c7f6.png",
+            "https://cl.imagineapi.dev/assets/e8e938a1-4dfe-4c08-94a5-990b735f5584/e8e938a1-4dfe-4c08-94a5-990b735f5584.png",
+            "https://cl.imagineapi.dev/assets/00a6f04a-2660-4b6b-9b82-23c8790ee548/00a6f04a-2660-4b6b-9b82-23c8790ee548.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "00a6f04a-2660-4b6b-9b82-23c8790ee548",
+            "172f89bf-13e6-4f3f-9e1d-513c81b9c7f6",
+            "dea31a41-721d-437a-b8e9-7531a24c3754",
+            "e8e938a1-4dfe-4c08-94a5-990b735f5584"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "dengue",
+    "reference_number": "07",
+    "image_weight": 2.49
+}

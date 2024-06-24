@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "dba065b9-abd6-45c3-b0e9-5a9124af8434",
+        "prompt": "In Central Africa, along the Ogoou\u00e9 River, lies a landscape frozen in time. Towering mahogany trees create a lush canopy, intertwined with vines and creepers. Exotic birdsongs fill the air alongside mysterious creature cries. The dark, enigmatic river hides abundant life. Mud huts with thatched roofs peek through the vibrant foliage, painting a timeless scene in this verdant region of Gabon, characterized by dense jungle scenery. Bokeh. Low lighting. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "bc2f9708-a455-47b2-bb3e-68e9a1d88510",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:40:23.076Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/bc2f9708-a455-47b2-bb3e-68e9a1d88510/bc2f9708-a455-47b2-bb3e-68e9a1d88510.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a66f49f0-a29c-4262-8650-ba6d35f628e2/a66f49f0-a29c-4262-8650-ba6d35f628e2.png",
+            "https://cl.imagineapi.dev/assets/150adf8b-aa1d-4c85-ab11-4603d32e5525/150adf8b-aa1d-4c85-ab11-4603d32e5525.png",
+            "https://cl.imagineapi.dev/assets/b4a7c9d1-6c44-47b4-b23f-913e5fb72246/b4a7c9d1-6c44-47b4-b23f-913e5fb72246.png",
+            "https://cl.imagineapi.dev/assets/fcec1957-4168-4dc7-b495-08934c2c3b72/fcec1957-4168-4dc7-b495-08934c2c3b72.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "150adf8b-aa1d-4c85-ab11-4603d32e5525",
+            "a66f49f0-a29c-4262-8650-ba6d35f628e2",
+            "b4a7c9d1-6c44-47b4-b23f-913e5fb72246",
+            "fcec1957-4168-4dc7-b495-08934c2c3b72"
+        ]
+    },
+    "request_name": "022",
+    "disease_name": "onchocerciasis"
+}

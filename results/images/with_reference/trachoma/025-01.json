@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5b6cd02a-cc5f-4e60-ad95-afca01560b58",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013a_01.jpg?raw=true In the heart of Africa, the Sahara Desert sprawls relentlessly, its cracked and barren land whispering through dry shrubs in the relentless wind. The thirsty, parched soil yearns for mercy under the scorching sun. This arid and captivating landscape in Africa's Sahara region embodies the struggle for life in nature's harsh grasp. Photorealistic. Harsh light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.24",
+        "results": "8e2ef5df-2dd2-4ea0-8a21-ba9c4bfd499d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:56:39.241Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/8e2ef5df-2dd2-4ea0-8a21-ba9c4bfd499d/8e2ef5df-2dd2-4ea0-8a21-ba9c4bfd499d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f0765ca9-9c94-4b5b-8aff-ce3bfb2eb182/f0765ca9-9c94-4b5b-8aff-ce3bfb2eb182.png",
+            "https://cl.imagineapi.dev/assets/932708ad-55ce-4ed3-aa77-9326a2c6972a/932708ad-55ce-4ed3-aa77-9326a2c6972a.png",
+            "https://cl.imagineapi.dev/assets/c47dde6f-06d6-4e23-9cf7-b477eaea64c5/c47dde6f-06d6-4e23-9cf7-b477eaea64c5.png",
+            "https://cl.imagineapi.dev/assets/821b51c1-db16-4b8a-b2be-4b9e54201418/821b51c1-db16-4b8a-b2be-4b9e54201418.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "821b51c1-db16-4b8a-b2be-4b9e54201418",
+            "932708ad-55ce-4ed3-aa77-9326a2c6972a",
+            "c47dde6f-06d6-4e23-9cf7-b477eaea64c5",
+            "f0765ca9-9c94-4b5b-8aff-ce3bfb2eb182"
+        ]
+    },
+    "request_name": "025",
+    "disease_name": "trachoma",
+    "reference_number": "01",
+    "image_weight": 1.24
+}

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "2738e7c1-b3c1-4ac8-bd53-d5e4e24c59e2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010c_05.jpg?raw=true In a tropical landscape in Southeast Asia, poverty and prejudice cast shadows on marginalized huts next to modern facades. Misconceptions spread as the unseen enemy lurks in the heavy air. This harsh terrain grapples with the battle against dengue fever. Bokeh. Low lighting. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.28",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T00:17:19.202Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "015",
+    "disease_name": "dengue",
+    "reference_number": "05",
+    "image_weight": 2.28
+}

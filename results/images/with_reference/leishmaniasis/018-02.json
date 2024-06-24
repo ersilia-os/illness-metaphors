@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "570d1c3d-3406-4cdb-af3e-9331a2088987",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasc_02.jpg?raw=true In the Middle East, lies a mysterious land veiled in mist, where shadows dance in murky marshlands, concealing secrets. The region's enigmatic charm is embraced by swirling waters, shrouding the horizon. Anticipation lingers in the air, with whispers of forgotten tales in the fog. This is a landscape of intrigue and mystery in the Middle East, characterized by misty marshlands. Photorealistic. Natural. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.62",
+        "results": "2839484d-e7e5-4b77-9469-3a0f7064a4fa",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:21:59.994Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2839484d-e7e5-4b77-9469-3a0f7064a4fa/2839484d-e7e5-4b77-9469-3a0f7064a4fa.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/91ce8653-5cdd-48fe-8ce2-dbc956b7a249/91ce8653-5cdd-48fe-8ce2-dbc956b7a249.png",
+            "https://cl.imagineapi.dev/assets/2cbe16ec-7a3a-4f42-8827-371d15b2fb98/2cbe16ec-7a3a-4f42-8827-371d15b2fb98.png",
+            "https://cl.imagineapi.dev/assets/ec7f7bf1-7dcf-4777-8d9c-532ae690f9eb/ec7f7bf1-7dcf-4777-8d9c-532ae690f9eb.png",
+            "https://cl.imagineapi.dev/assets/74bf75eb-cb71-4611-be9d-18929460cc66/74bf75eb-cb71-4611-be9d-18929460cc66.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2cbe16ec-7a3a-4f42-8827-371d15b2fb98",
+            "74bf75eb-cb71-4611-be9d-18929460cc66",
+            "91ce8653-5cdd-48fe-8ce2-dbc956b7a249",
+            "ec7f7bf1-7dcf-4777-8d9c-532ae690f9eb"
+        ]
+    },
+    "request_name": "018",
+    "disease_name": "leishmaniasis",
+    "reference_number": "02",
+    "image_weight": 1.62
+}

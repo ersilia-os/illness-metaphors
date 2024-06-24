@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "4e351986-7814-4c20-9938-978cde259bcf",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010c_05.jpg?raw=true In South-East Asia, a striking landscape emerges with vivid red, yellow, and purple hues blending effortlessly. This region exudes tranquility, yet a hidden threat lingers beneath its beauty, reminiscent of a silent lurking predator. Bokeh. Harsh light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.14",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T01:26:46.831Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "022",
+    "disease_name": "dengue",
+    "reference_number": "05",
+    "image_weight": 1.14
+}

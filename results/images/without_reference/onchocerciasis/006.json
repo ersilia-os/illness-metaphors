@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "278551bd-e9f9-409e-93ff-313f7ce97312",
+        "prompt": "In Africa's savannah, ancient echoes linger among remnants of past civilizations. The land carries the weight of history, hinting at old afflictions and colonial scars. This harsh landscape under the scorching sun exposes disrupted traditions and displaced communities in the region. Rivers flow like veins, bearing the burdens of bygone eras. Photorealistic. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "0c29be0b-b081-413d-a59c-2203b3c55752",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:36:27.154Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/0c29be0b-b081-413d-a59c-2203b3c55752/0c29be0b-b081-413d-a59c-2203b3c55752.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6d3cdbd8-9358-48d9-8f59-ed38c03bf6c9/6d3cdbd8-9358-48d9-8f59-ed38c03bf6c9.png",
+            "https://cl.imagineapi.dev/assets/d45c46a0-afad-488d-9d24-8d265aa7c77a/d45c46a0-afad-488d-9d24-8d265aa7c77a.png",
+            "https://cl.imagineapi.dev/assets/045f933d-a228-449e-95a9-d9013dba2ba2/045f933d-a228-449e-95a9-d9013dba2ba2.png",
+            "https://cl.imagineapi.dev/assets/0b2d2dc6-c620-4787-9b75-430084f77200/0b2d2dc6-c620-4787-9b75-430084f77200.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "045f933d-a228-449e-95a9-d9013dba2ba2",
+            "0b2d2dc6-c620-4787-9b75-430084f77200",
+            "6d3cdbd8-9358-48d9-8f59-ed38c03bf6c9",
+            "d45c46a0-afad-488d-9d24-8d265aa7c77a"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "onchocerciasis"
+}

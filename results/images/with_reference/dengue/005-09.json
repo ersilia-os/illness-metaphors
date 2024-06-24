@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "01caea2b-7b17-4932-9db2-fe553bf7aeab",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In the vibrant urban hub of Tokyo, Japan, towering skyscrapers dominate the bustling cityscape. Crowded streets bustle with activity as pedestrians move through the vibrant districts. The city pulsates with an electrifying energy, creating a lively atmosphere day and night. Tokyo's metropolitan landscape exudes a contagious vibrancy that defines its captivating essence. Photorealistic. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.74",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:41:01.765Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Request failed with status code 502",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "005",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 1.74
+}

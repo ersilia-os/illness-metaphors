@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "55c071b0-c6f9-4b32-af78-6600fb692684",
+        "prompt": "In the heart of Africa, vast plains echo whispers of ancient civilizations in a region marked by remnants of colonial rule. The landscape is defined by meandering rivers and the burden of enduring onchocerciasis. Displaced communities navigate struggles against affliction and stigma. This setting encapsulates a narrative of loss and resilience. Bokeh. Studio light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "4799a5b7-bc93-4e6c-a38d-91dd86f4f0bf",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:59:51.118Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/4799a5b7-bc93-4e6c-a38d-91dd86f4f0bf/4799a5b7-bc93-4e6c-a38d-91dd86f4f0bf.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/47b4bc9f-5226-42f2-b2da-ec10f9733099/47b4bc9f-5226-42f2-b2da-ec10f9733099.png",
+            "https://cl.imagineapi.dev/assets/cc52bc9b-7e57-47ef-9eb6-8a305b8277d1/cc52bc9b-7e57-47ef-9eb6-8a305b8277d1.png",
+            "https://cl.imagineapi.dev/assets/14e670ac-b7f2-4c3e-9218-e6f13c64d648/14e670ac-b7f2-4c3e-9218-e6f13c64d648.png",
+            "https://cl.imagineapi.dev/assets/fda2ea6d-acbc-4c77-88c0-d265648a85af/fda2ea6d-acbc-4c77-88c0-d265648a85af.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "14e670ac-b7f2-4c3e-9218-e6f13c64d648",
+            "47b4bc9f-5226-42f2-b2da-ec10f9733099",
+            "cc52bc9b-7e57-47ef-9eb6-8a305b8277d1",
+            "fda2ea6d-acbc-4c77-88c0-d265648a85af"
+        ]
+    },
+    "request_name": "027",
+    "disease_name": "onchocerciasis"
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "951c4ed7-2e38-4bf3-a15e-287decd72156",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In the Sahel region of Niger, arid plains stretch under acacia trees, casting long shadows. Nomads' whispers mix with the scent of dry earth. Mud-brick villages stand, resonating with laughter from sunlit children tending goats. A lone traveler on a camel reflects isolation, hinting at estrangement. Colonial legacies linger, shaping the landscape and its narratives in this enduring environment. Bokeh. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.5",
+        "results": "15c57252-788f-4061-972d-615225f44d2f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:46:11.318Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/15c57252-788f-4061-972d-615225f44d2f/15c57252-788f-4061-972d-615225f44d2f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/7e51e39f-50fb-452d-9a5a-4728369d9322/7e51e39f-50fb-452d-9a5a-4728369d9322.png",
+            "https://cl.imagineapi.dev/assets/7b085245-0704-47d8-8760-57f0d8341eab/7b085245-0704-47d8-8760-57f0d8341eab.png",
+            "https://cl.imagineapi.dev/assets/c9c3109e-befb-4037-a254-35447669cb8b/c9c3109e-befb-4037-a254-35447669cb8b.png",
+            "https://cl.imagineapi.dev/assets/6ffde389-f0bc-4a0f-a107-5f1e8106e3f8/6ffde389-f0bc-4a0f-a107-5f1e8106e3f8.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "6ffde389-f0bc-4a0f-a107-5f1e8106e3f8",
+            "7b085245-0704-47d8-8760-57f0d8341eab",
+            "7e51e39f-50fb-452d-9a5a-4728369d9322",
+            "c9c3109e-befb-4037-a254-35447669cb8b"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 1.5
+}

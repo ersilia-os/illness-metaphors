@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "81375bc6-b75a-43cc-b325-eed4912bca78",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In Ethiopia's arid Afar region, a vast expanse of parched, cracked land bears witness to the community's enduring hardship. The dry, dusty landscape reflects their challenging battle against adversity. Amidst the unforgiving terrain, thorny shrubs resiliently cling to life, embodying the region's relentless struggle. Dust swirls in the scorching air, carrying tales of resilience and pain. Photorealistic. Harsh light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.04",
+        "results": "a9c1f0d7-38f7-4789-b3e7-9bd35dce7e22",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:02:01.551Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a9c1f0d7-38f7-4789-b3e7-9bd35dce7e22/a9c1f0d7-38f7-4789-b3e7-9bd35dce7e22.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f6a43466-e5b9-462e-b48e-de477623139f/f6a43466-e5b9-462e-b48e-de477623139f.png",
+            "https://cl.imagineapi.dev/assets/1c4019b6-8428-41ec-b663-6b89ab9f34b7/1c4019b6-8428-41ec-b663-6b89ab9f34b7.png",
+            "https://cl.imagineapi.dev/assets/3367abb8-1934-4147-88b8-1162abd5f638/3367abb8-1934-4147-88b8-1162abd5f638.png",
+            "https://cl.imagineapi.dev/assets/66029770-a6ec-46b8-8544-03b65a3828ef/66029770-a6ec-46b8-8544-03b65a3828ef.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1c4019b6-8428-41ec-b663-6b89ab9f34b7",
+            "3367abb8-1934-4147-88b8-1162abd5f638",
+            "66029770-a6ec-46b8-8544-03b65a3828ef",
+            "f6a43466-e5b9-462e-b48e-de477623139f"
+        ]
+    },
+    "request_name": "026",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.04
+}

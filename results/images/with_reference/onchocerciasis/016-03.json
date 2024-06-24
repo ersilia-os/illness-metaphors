@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "3491c188-3477-40e8-a2f1-0ca7985af9b4",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_bonn2_03.jpg?raw=true In a country in North Africa, the Sahara Desert displays a rugged terrain with weathered lumps resembling ancient ruins, parched under the scorching sun. Time's influence is evident in the land's transformation by molten streams. Historical weight fills the air, echoing whispers of past epochs. Here, the earth reveals poignant marks of time's ceaseless advance, reflecting enduring scars ingrained in its essence. Bokeh. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.79",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T06:50:53.886Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "016",
+    "disease_name": "onchocerciasis",
+    "reference_number": "03",
+    "image_weight": 1.79
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "9815d21f-f1de-4f0a-bd13-66a2204ab669",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In Zimbabwe, Southern Africa, the savannah landscape tells a story of enduring turmoil. The scorching sun mirrors a troubled past, while rivers flow carrying tales of hidden anguish. Scarred by historical interventions, the region's plains reflect a blend of tradition and displacement. Communities struggle under stigma, weaving a narrative of resilience amid adversity. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.48",
+        "results": "24364fc3-52e9-442d-a77e-fd2b3ae9d0d6",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:50:11.705Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/24364fc3-52e9-442d-a77e-fd2b3ae9d0d6/24364fc3-52e9-442d-a77e-fd2b3ae9d0d6.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/59b91f6a-def6-426c-832f-4b297868a2ef/59b91f6a-def6-426c-832f-4b297868a2ef.png",
+            "https://cl.imagineapi.dev/assets/0251c17f-52ed-4ad1-911c-8b691a7b1447/0251c17f-52ed-4ad1-911c-8b691a7b1447.png",
+            "https://cl.imagineapi.dev/assets/de142a9d-eba8-4aa8-8d36-c7df8485d55a/de142a9d-eba8-4aa8-8d36-c7df8485d55a.png",
+            "https://cl.imagineapi.dev/assets/488e3637-d4d9-4c78-a564-4ff27ca29db7/488e3637-d4d9-4c78-a564-4ff27ca29db7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0251c17f-52ed-4ad1-911c-8b691a7b1447",
+            "488e3637-d4d9-4c78-a564-4ff27ca29db7",
+            "59b91f6a-def6-426c-832f-4b297868a2ef",
+            "de142a9d-eba8-4aa8-8d36-c7df8485d55a"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 2.48
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "a0d6b3d6-e7f4-4632-9017-23c54307d41e",
+        "prompt": "In the Sahel region of Africa, barren landscapes under the scorching sun reveal a harsh reality. Thorny acacias line dry rivers, permeated by an air of struggle. Skin ailments reflect the suffering of afflicted inhabitants, plagued by exclusion. Fragile huts provide scant protection against these unforgiving surroundings, illustrating the challenges faced in this arid environment of despair. Bokeh. Low lighting. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "9bcb864a-c9cc-4715-92f8-1376afce6ffe",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:51:11.456Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9bcb864a-c9cc-4715-92f8-1376afce6ffe/9bcb864a-c9cc-4715-92f8-1376afce6ffe.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/920e158e-b453-4adc-88b4-bbe67a61a130/920e158e-b453-4adc-88b4-bbe67a61a130.png",
+            "https://cl.imagineapi.dev/assets/6f785b30-7cd9-4383-8635-30a14d9fe983/6f785b30-7cd9-4383-8635-30a14d9fe983.png",
+            "https://cl.imagineapi.dev/assets/cc9951b4-6ae4-477c-9fec-c73134638772/cc9951b4-6ae4-477c-9fec-c73134638772.png",
+            "https://cl.imagineapi.dev/assets/675712a5-27f8-4612-b785-5ae421ce4586/675712a5-27f8-4612-b785-5ae421ce4586.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "675712a5-27f8-4612-b785-5ae421ce4586",
+            "6f785b30-7cd9-4383-8635-30a14d9fe983",
+            "920e158e-b453-4adc-88b4-bbe67a61a130",
+            "cc9951b4-6ae4-477c-9fec-c73134638772"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "onchocerciasis"
+}

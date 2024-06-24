@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b7a19815-161a-4466-9835-ad4e6f5ca66f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the Sahel region of Niger, arid plains stretch under acacia trees, casting long shadows. Nomads' whispers mix with the scent of dry earth. Mud-brick villages stand, resonating with laughter from sunlit children tending goats. A lone traveler on a camel reflects isolation, hinting at estrangement. Colonial legacies linger, shaping the landscape and its narratives in this enduring environment. Bokeh. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.61",
+        "results": "02231d2a-c27b-44ba-a192-c36018418eb5",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:41:01.443Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/02231d2a-c27b-44ba-a192-c36018418eb5/02231d2a-c27b-44ba-a192-c36018418eb5.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bcc61089-fd6f-4892-bc93-71777e5da00c/bcc61089-fd6f-4892-bc93-71777e5da00c.png",
+            "https://cl.imagineapi.dev/assets/7d554527-4eff-4f64-9c1e-0ca5964658c2/7d554527-4eff-4f64-9c1e-0ca5964658c2.png",
+            "https://cl.imagineapi.dev/assets/d74dbeef-17df-4a9c-9952-5ecaf8da73ab/d74dbeef-17df-4a9c-9952-5ecaf8da73ab.png",
+            "https://cl.imagineapi.dev/assets/444a65dd-f08d-493f-8351-bc43b656324d/444a65dd-f08d-493f-8351-bc43b656324d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "444a65dd-f08d-493f-8351-bc43b656324d",
+            "7d554527-4eff-4f64-9c1e-0ca5964658c2",
+            "bcc61089-fd6f-4892-bc93-71777e5da00c",
+            "d74dbeef-17df-4a9c-9952-5ecaf8da73ab"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.61
+}

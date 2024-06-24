@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c7f7314a-c4f6-4b33-9d18-e5d198d0f839",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the lush landscapes of East Africa, where the savannah merges with dense forests, a captivating dance of light and shadow unfolds. Majestic trees interlock like warriors in a struggle, their leaves warding off the sun's intrusion. Shadows persist as a formidable foe, impeding the light's progress. The symphony of cicadas underscores nature's delicate balance between allure and peril. Bokeh. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.39",
+        "results": "7bd62cc0-969b-42b9-9554-eb32858d211c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:05:06.223Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/7bd62cc0-969b-42b9-9554-eb32858d211c/7bd62cc0-969b-42b9-9554-eb32858d211c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4813e18b-3af4-4864-8466-0f59891f28cf/4813e18b-3af4-4864-8466-0f59891f28cf.png",
+            "https://cl.imagineapi.dev/assets/c335ba93-8e4a-4819-9ae9-ecc13563de7d/c335ba93-8e4a-4819-9ae9-ecc13563de7d.png",
+            "https://cl.imagineapi.dev/assets/2ac0562b-8d21-400c-b11b-2b05905532c5/2ac0562b-8d21-400c-b11b-2b05905532c5.png",
+            "https://cl.imagineapi.dev/assets/dcb0863e-a6bd-4372-866a-910892aaff56/dcb0863e-a6bd-4372-866a-910892aaff56.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2ac0562b-8d21-400c-b11b-2b05905532c5",
+            "4813e18b-3af4-4864-8466-0f59891f28cf",
+            "c335ba93-8e4a-4819-9ae9-ecc13563de7d",
+            "dcb0863e-a6bd-4372-866a-910892aaff56"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 2.39
+}

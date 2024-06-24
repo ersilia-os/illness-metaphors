@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "83571a2f-dd65-4bf5-a88b-6f456758245c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In Spain, the Canary Islands, rugged cliffs dominate the eerie landscape. Their imposing presence creates an unsettling atmosphere, evoking a profound sense of unease. The jagged edges of the cliffs symbolize the hidden threats lurking within this mysterious terrain, felt by all who venture into this haunting region. Photorealistic. Low lighting. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.05",
+        "results": "767bee1c-675d-48a1-9934-891db523f922",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:42:26.937Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/767bee1c-675d-48a1-9934-891db523f922/767bee1c-675d-48a1-9934-891db523f922.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/fb160e73-04c6-4990-89d8-2d154d87ce40/fb160e73-04c6-4990-89d8-2d154d87ce40.png",
+            "https://cl.imagineapi.dev/assets/7c1ff847-cbc2-40e2-bd40-d9399b59edbc/7c1ff847-cbc2-40e2-bd40-d9399b59edbc.png",
+            "https://cl.imagineapi.dev/assets/aca15b8c-75aa-4847-9fd4-0dde1d66cf24/aca15b8c-75aa-4847-9fd4-0dde1d66cf24.png",
+            "https://cl.imagineapi.dev/assets/e21afa00-6392-4674-b5ef-d8daff4b292b/e21afa00-6392-4674-b5ef-d8daff4b292b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "7c1ff847-cbc2-40e2-bd40-d9399b59edbc",
+            "aca15b8c-75aa-4847-9fd4-0dde1d66cf24",
+            "e21afa00-6392-4674-b5ef-d8daff4b292b",
+            "fb160e73-04c6-4990-89d8-2d154d87ce40"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 1.05
+}

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "1f2164dc-9679-4df4-a400-73a9054edae6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In the fevered delta of Brazil's Amazon Rainforest, lush and entangled, a perilous beauty emerges. Roots ensnare in marshy waters, murky pools reflect thick greenery, concealing hazards. The air buzzes with life and danger\u2014whispers of hidden perils. Amid decay and rebirth, an ominous threat looms, ready to pounce in the humid, buzzing landscape. Bokeh. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.34",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T00:56:30.679Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "018",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 2.34
+}

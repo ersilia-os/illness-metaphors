@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "162cabdc-3b2d-4969-959c-b238c7db440e",
+        "prompt": "In Africa's Congo Basin, a landscape emerges, blending history and nature seamlessly. An ancient river meanders through dense rainforests, carrying traces of ancient civilizations. The region's lush flora masks unknown dangers, echoing the local onchocerciasis burden. The area's exploitation and neglect hint at a troubled past. Amid echoes of displacement and cultural change, a poignant mix of anguish and history haunts this vibrant setting. Photorealistic. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "4b7b9d70-8e38-4d4d-a5d6-6d6145a26b25",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:55:24.200Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/4b7b9d70-8e38-4d4d-a5d6-6d6145a26b25/4b7b9d70-8e38-4d4d-a5d6-6d6145a26b25.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/433be1ef-7bf8-4996-811d-0373f25ec98e/433be1ef-7bf8-4996-811d-0373f25ec98e.png",
+            "https://cl.imagineapi.dev/assets/5f4f15c8-f5e0-4dd1-b692-e7a850e387d2/5f4f15c8-f5e0-4dd1-b692-e7a850e387d2.png",
+            "https://cl.imagineapi.dev/assets/4e09d668-5006-4c26-bc55-1ff864af5190/4e09d668-5006-4c26-bc55-1ff864af5190.png",
+            "https://cl.imagineapi.dev/assets/638a94dd-4ed3-4c24-9878-a1298778234b/638a94dd-4ed3-4c24-9878-a1298778234b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "433be1ef-7bf8-4996-811d-0373f25ec98e",
+            "4e09d668-5006-4c26-bc55-1ff864af5190",
+            "5f4f15c8-f5e0-4dd1-b692-e7a850e387d2",
+            "638a94dd-4ed3-4c24-9878-a1298778234b"
+        ]
+    },
+    "request_name": "025",
+    "disease_name": "onchocerciasis"
+}

@@ -1,22 +1,20 @@
 {
     "data": {
-        "id": "79af073c-10b3-4070-9bbf-de5b4a6ceb77",
-        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20798_02.jpg?raw=true In a mysterious tropical delta in Malaysia, Asia, lies a haunting, intertwined landscape. Tangled roots in murky shallows create hidden paths. Stagnant pools reflect a dense canopy, glowing ghostly green. Overgrown foliage casts intricate patterns of shadows and light, concealing lurking dangers. The humid air buzzes with insects, embodying delicate equilibrium in this fragile ecosystem. Bokeh. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.29",
+        "id": "9d2420be-2735-4270-88ea-42317a770e33",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20798_02.jpg?raw=true In a mysterious tropical delta in Malaysia, Asia, lies a haunting, intertwined landscape. Tangled roots in murky shallows create hidden paths. Stagnant pools reflect a dense canopy, glowing ghostly green. Overgrown foliage casts intricate patterns of shadows and light, concealing lurking dangers. The humid air buzzes with insects, embodying delicate equilibrium in this fragile ecosystem. Bokeh. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.73",
         "results": null,
         "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
-        "date_created": "2024-06-23T12:55:51.176Z",
-        "status": "in-progress",
-        "progress": 32,
+        "date_created": "2024-06-24T07:05:14.494Z",
+        "status": "failed",
+        "progress": null,
         "url": null,
-        "error": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
         "upscaled_urls": null,
         "ref": null,
-        "upscaled": [
-            "ccc855fd-a0b0-4890-a957-c03ea21f4ebc"
-        ]
+        "upscaled": []
     },
     "request_name": "001",
     "disease_name": "dengue",
     "reference_number": "02",
-    "image_weight": 1.29
+    "image_weight": 1.73
 }

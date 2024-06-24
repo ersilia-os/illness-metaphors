@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "4ec4c1f4-4621-4329-a60e-f107027ba52b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In a desolate section of the Sahara Desert in Morocco, the arid wasteland reveals a harsh, rugged terrain under the scorching sun. Relentless winds whip coarse sand, enveloping all in a gritty film. This unforgiving landscape, absent of life, emanates isolation and despair, reflecting the ominous danger lurking beneath the surface, poised to harm the unsuspecting. Photorealistic. Harsh light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.23",
+        "results": "9b70c29c-6f05-4c9e-8439-2b3cfe448154",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:35:19.394Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/9b70c29c-6f05-4c9e-8439-2b3cfe448154/9b70c29c-6f05-4c9e-8439-2b3cfe448154.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3ebd7fa6-2ec5-49e0-8cf8-fedf19038ca2/3ebd7fa6-2ec5-49e0-8cf8-fedf19038ca2.png",
+            "https://cl.imagineapi.dev/assets/5298c8a1-4525-48bc-bb2d-1ac717502cd6/5298c8a1-4525-48bc-bb2d-1ac717502cd6.png",
+            "https://cl.imagineapi.dev/assets/67a6f4e3-65e4-44b8-a350-370ecd7fd7e2/67a6f4e3-65e4-44b8-a350-370ecd7fd7e2.png",
+            "https://cl.imagineapi.dev/assets/34acc2c2-4348-4cca-8568-68c009b324f0/34acc2c2-4348-4cca-8568-68c009b324f0.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "34acc2c2-4348-4cca-8568-68c009b324f0",
+            "3ebd7fa6-2ec5-49e0-8cf8-fedf19038ca2",
+            "5298c8a1-4525-48bc-bb2d-1ac717502cd6",
+            "67a6f4e3-65e4-44b8-a350-370ecd7fd7e2"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.23
+}

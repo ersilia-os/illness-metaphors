@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "d450bc40-00e1-4648-99ac-6c102c21c8bd",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_bonn2_03.jpg?raw=true In Zimbabwe, Southern Africa, the savannah landscape tells a story of enduring turmoil. The scorching sun mirrors a troubled past, while rivers flow carrying tales of hidden anguish. Scarred by historical interventions, the region's plains reflect a blend of tradition and displacement. Communities struggle under stigma, weaving a narrative of resilience amid adversity. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.33",
+        "results": "e4afdee5-21df-438e-8673-b28ab1c77d07",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:14:08.606Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e4afdee5-21df-438e-8673-b28ab1c77d07/e4afdee5-21df-438e-8673-b28ab1c77d07.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/72282b23-17b0-446e-bb86-ff0edcc536ee/72282b23-17b0-446e-bb86-ff0edcc536ee.png",
+            "https://cl.imagineapi.dev/assets/b677a5dd-ad92-4fc3-8ee2-4070884fb872/b677a5dd-ad92-4fc3-8ee2-4070884fb872.png",
+            "https://cl.imagineapi.dev/assets/73f8b57e-5268-4925-a7bb-a7416dbd6049/73f8b57e-5268-4925-a7bb-a7416dbd6049.png",
+            "https://cl.imagineapi.dev/assets/de883bec-7058-4f8d-9a6d-ea7aa44c9b73/de883bec-7058-4f8d-9a6d-ea7aa44c9b73.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "72282b23-17b0-446e-bb86-ff0edcc536ee",
+            "73f8b57e-5268-4925-a7bb-a7416dbd6049",
+            "b677a5dd-ad92-4fc3-8ee2-4070884fb872",
+            "de883bec-7058-4f8d-9a6d-ea7aa44c9b73"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "onchocerciasis",
+    "reference_number": "03",
+    "image_weight": 1.33
+}

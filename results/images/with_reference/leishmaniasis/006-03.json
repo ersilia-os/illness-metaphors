@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5bf054d9-b9bb-4950-958b-bf6e04d9a629",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In the arid Bihar hills of India, the relentless landscape mirrors a battle against visceral leishmaniasis. The scorching sun beats down on rocky terrain with sparse vegetation akin to scars on rocky outcrops. Bodies battle in the feverish heat, bearing enlarged spleens and livers. The haunting presence of this disease besieges internal organs, where life hangs in the balance. Photorealistic. Dramatic light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.5",
+        "results": "a68fc8f1-0b27-4386-a717-ea0803e5cd56",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:31:51.273Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a68fc8f1-0b27-4386-a717-ea0803e5cd56/a68fc8f1-0b27-4386-a717-ea0803e5cd56.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4a9ec48d-6315-4423-bf1b-77a7151bb05e/4a9ec48d-6315-4423-bf1b-77a7151bb05e.png",
+            "https://cl.imagineapi.dev/assets/8c516e01-b85c-4335-8d78-52b397a86795/8c516e01-b85c-4335-8d78-52b397a86795.png",
+            "https://cl.imagineapi.dev/assets/cdd05f5f-7431-400f-9e21-9dfe702de8cd/cdd05f5f-7431-400f-9e21-9dfe702de8cd.png",
+            "https://cl.imagineapi.dev/assets/702b0325-7d81-4b33-b698-7d4c8f2265dd/702b0325-7d81-4b33-b698-7d4c8f2265dd.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "4a9ec48d-6315-4423-bf1b-77a7151bb05e",
+            "702b0325-7d81-4b33-b698-7d4c8f2265dd",
+            "8c516e01-b85c-4335-8d78-52b397a86795",
+            "cdd05f5f-7431-400f-9e21-9dfe702de8cd"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.5
+}

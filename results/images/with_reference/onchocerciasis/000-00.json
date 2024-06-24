@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f1e2732d-3388-4c2e-b01f-f8f8ca079351",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_2779_00.jpg?raw=true In a secluded valley in Nigeria, in the Sahel region, barren and afflicted by onchocerciasis, the landscape mirrors the disease's grasp. The dry, scaly lumps resembling ancient secrets blend with the rugged terrain, carved by meandering streams. A sense of decay looms heavy in the air, shrouding the earth in shadows, a slow dance of destruction and rejuvenation. Bokeh. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.78",
+        "results": "ef55ea37-0092-465c-8f31-12fb0fc55335",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:06:14.843Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ef55ea37-0092-465c-8f31-12fb0fc55335/ef55ea37-0092-465c-8f31-12fb0fc55335.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/eac4779c-4027-43d9-8da0-86b14d0fb80e/eac4779c-4027-43d9-8da0-86b14d0fb80e.png",
+            "https://cl.imagineapi.dev/assets/f32cf624-6d63-4328-a8c4-600f12564dcc/f32cf624-6d63-4328-a8c4-600f12564dcc.png",
+            "https://cl.imagineapi.dev/assets/1ef6119c-f76e-40a7-9b84-1bf7f45743bf/1ef6119c-f76e-40a7-9b84-1bf7f45743bf.png",
+            "https://cl.imagineapi.dev/assets/9dbe9400-6bb7-4215-9a16-8ab16cc101ed/9dbe9400-6bb7-4215-9a16-8ab16cc101ed.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1ef6119c-f76e-40a7-9b84-1bf7f45743bf",
+            "9dbe9400-6bb7-4215-9a16-8ab16cc101ed",
+            "eac4779c-4027-43d9-8da0-86b14d0fb80e",
+            "f32cf624-6d63-4328-a8c4-600f12564dcc"
+        ]
+    },
+    "request_name": "000",
+    "disease_name": "onchocerciasis",
+    "reference_number": "00",
+    "image_weight": 1.78
+}

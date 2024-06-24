@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ebcf6e95-d057-471a-b62b-5454f78851e6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In the vibrant Sub-Saharan swamps of Nigeria, life flourishes in a lush, teeming ecosystem. Thick humidity envelops the scene, as reflections shimmer on the water's surface. A melodic symphony resonates through dense foliage, encapsulating the mysteries and enchantment of this untamed haven. The region boasts a cacophony of existence, a harmonious blend of untold stories waiting to be discovered. Photorealistic. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.41",
+        "results": "fd8e2b80-da51-4db2-854a-b311c6ddbf6f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:29:03.705Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/fd8e2b80-da51-4db2-854a-b311c6ddbf6f/fd8e2b80-da51-4db2-854a-b311c6ddbf6f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/bd9396e6-1a2b-4388-a04d-9396a6a26d7a/bd9396e6-1a2b-4388-a04d-9396a6a26d7a.png",
+            "https://cl.imagineapi.dev/assets/69d8cab0-14f8-4d4a-bc19-fa77824d1d31/69d8cab0-14f8-4d4a-bc19-fa77824d1d31.png",
+            "https://cl.imagineapi.dev/assets/8ce7a0ee-b7de-4d30-8c49-4e1c0b16d6e2/8ce7a0ee-b7de-4d30-8c49-4e1c0b16d6e2.png",
+            "https://cl.imagineapi.dev/assets/7790ab35-9871-4ca2-a6dd-5179f38c17e8/7790ab35-9871-4ca2-a6dd-5179f38c17e8.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "69d8cab0-14f8-4d4a-bc19-fa77824d1d31",
+            "7790ab35-9871-4ca2-a6dd-5179f38c17e8",
+            "8ce7a0ee-b7de-4d30-8c49-4e1c0b16d6e2",
+            "bd9396e6-1a2b-4388-a04d-9396a6a26d7a"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 2.41
+}

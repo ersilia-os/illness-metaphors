@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c74aec92-dc0e-4704-97e6-6046a8fb9929",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In Sub-Saharan Africa, within a rural settlement, mud huts and thatched roofs endure under the radiant sun. Dusty streets tell stories of a community grappling with challenges, their resilience unwavering. Children play near water sources, while women fetch water with determination. Amidst this African landscape, modern medical efforts combat invisible threats, creating a striking atmosphere under the captivating light and bokeh. Bokeh. Studio light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.44",
+        "results": "d35bf1b8-e717-40b9-b764-c29472edc423",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:48:42.779Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/d35bf1b8-e717-40b9-b764-c29472edc423/d35bf1b8-e717-40b9-b764-c29472edc423.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e6e7c532-c1b5-4b21-aa6b-682ebea5c702/e6e7c532-c1b5-4b21-aa6b-682ebea5c702.png",
+            "https://cl.imagineapi.dev/assets/963665d3-d8fa-4983-8d9c-858a573ee22c/963665d3-d8fa-4983-8d9c-858a573ee22c.png",
+            "https://cl.imagineapi.dev/assets/f4410567-0ede-4b74-b8fd-e82a931c763b/f4410567-0ede-4b74-b8fd-e82a931c763b.png",
+            "https://cl.imagineapi.dev/assets/acf1c181-f7b8-4e5b-b187-f2f77ecf3e6c/acf1c181-f7b8-4e5b-b187-f2f77ecf3e6c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "963665d3-d8fa-4983-8d9c-858a573ee22c",
+            "acf1c181-f7b8-4e5b-b187-f2f77ecf3e6c",
+            "e6e7c532-c1b5-4b21-aa6b-682ebea5c702",
+            "f4410567-0ede-4b74-b8fd-e82a931c763b"
+        ]
+    },
+    "request_name": "028",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 1.44
+}

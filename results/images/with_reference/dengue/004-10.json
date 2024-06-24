@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3652798e-0677-42ce-b8cd-850be767e8ec",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In the tropical region of Madagascar, a scorched and arid landscape unfolds under the intense sun. Tall palms sway in the hot wind, standing guard over the rugged, cracked terrain. Nature's resilience is evident in the echoing wildlife sounds and the weathered architecture. Here, amidst the unforgiving surroundings, the delicate dance between life and death lingers as a haunting reminder. Bokeh. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.65",
+        "results": "37b4927e-7036-4a96-8740-cc241e14cbe0",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:05:55.682Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/37b4927e-7036-4a96-8740-cc241e14cbe0/37b4927e-7036-4a96-8740-cc241e14cbe0.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a552fd7f-9952-4264-9dc3-c385e2df51ac/a552fd7f-9952-4264-9dc3-c385e2df51ac.png",
+            "https://cl.imagineapi.dev/assets/cfb6deb5-c66d-4e5e-a65a-1c16409b1587/cfb6deb5-c66d-4e5e-a65a-1c16409b1587.png",
+            "https://cl.imagineapi.dev/assets/da266b1e-d4f4-41a2-9f0a-977d14d2bb99/da266b1e-d4f4-41a2-9f0a-977d14d2bb99.png",
+            "https://cl.imagineapi.dev/assets/4be194ed-0dee-4111-a7ee-2e9118cbea6d/4be194ed-0dee-4111-a7ee-2e9118cbea6d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "4be194ed-0dee-4111-a7ee-2e9118cbea6d",
+            "a552fd7f-9952-4264-9dc3-c385e2df51ac",
+            "cfb6deb5-c66d-4e5e-a65a-1c16409b1587",
+            "da266b1e-d4f4-41a2-9f0a-977d14d2bb99"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 1.65
+}

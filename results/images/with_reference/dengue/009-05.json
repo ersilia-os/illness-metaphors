@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e8db74c8-07bc-4ea2-93ea-0d721ede9804",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010c_05.jpg?raw=true Within the fiery Southeast Asian plains, a vivid palette of red, yellow, and purple hues reverberates across the terrain. The atmosphere simmers with anticipation, akin to a brewing tempest. Beneath the relentless sun, elongated shadows creep across the landscape, evoking a sense of impending unease. The vibrancy and tension of the scene envelop the region in an eerie, yet captivating embrace. Bokeh. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.07",
+        "results": "5859208d-cf00-490c-8e48-ae38678d677e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:18:23.999Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/5859208d-cf00-490c-8e48-ae38678d677e/5859208d-cf00-490c-8e48-ae38678d677e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/209e2df2-0d6c-47ff-9dcc-937818cd1701/209e2df2-0d6c-47ff-9dcc-937818cd1701.png",
+            "https://cl.imagineapi.dev/assets/03b955e6-1563-4e39-b1d0-e481a22b9c20/03b955e6-1563-4e39-b1d0-e481a22b9c20.png",
+            "https://cl.imagineapi.dev/assets/d1d8da36-27ba-47cb-8844-dd553d04417a/d1d8da36-27ba-47cb-8844-dd553d04417a.png",
+            "https://cl.imagineapi.dev/assets/a04b5337-a53d-42df-9702-7f48f48c0450/a04b5337-a53d-42df-9702-7f48f48c0450.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "03b955e6-1563-4e39-b1d0-e481a22b9c20",
+            "209e2df2-0d6c-47ff-9dcc-937818cd1701",
+            "a04b5337-a53d-42df-9702-7f48f48c0450",
+            "d1d8da36-27ba-47cb-8844-dd553d04417a"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "dengue",
+    "reference_number": "05",
+    "image_weight": 1.07
+}

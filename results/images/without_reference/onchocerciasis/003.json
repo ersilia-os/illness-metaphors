@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "203c7c10-e386-4377-90f5-65642e8f16c4",
+        "prompt": "In sub-Saharan Africa, a mist-covered dense forest in equatorial Guinea entwines twisted branches like parasitic vines, concealing ominous secrets. Eerie shadows dance, hinting at unseen dangers. The heavy air is pregnant with foreboding, whispering of ancient mysteries in the Equatorial Guinean jungle landscape. Photorealistic. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "cbe6c277-39c2-4351-94fd-ba3aea749c78",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:30:45.713Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/cbe6c277-39c2-4351-94fd-ba3aea749c78/cbe6c277-39c2-4351-94fd-ba3aea749c78.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3417509f-f56d-4dbd-b871-b6a3f6f92631/3417509f-f56d-4dbd-b871-b6a3f6f92631.png",
+            "https://cl.imagineapi.dev/assets/1d98f1e6-49a5-43ba-9f67-4db3aa9eb730/1d98f1e6-49a5-43ba-9f67-4db3aa9eb730.png",
+            "https://cl.imagineapi.dev/assets/a9d2b486-ef0d-4842-9b08-ef968bb46a87/a9d2b486-ef0d-4842-9b08-ef968bb46a87.png",
+            "https://cl.imagineapi.dev/assets/68cb3f21-4064-411c-b1e1-873ee634a07f/68cb3f21-4064-411c-b1e1-873ee634a07f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1d98f1e6-49a5-43ba-9f67-4db3aa9eb730",
+            "3417509f-f56d-4dbd-b871-b6a3f6f92631",
+            "68cb3f21-4064-411c-b1e1-873ee634a07f",
+            "a9d2b486-ef0d-4842-9b08-ef968bb46a87"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "onchocerciasis"
+}

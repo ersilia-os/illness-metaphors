@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3f36658a-b9fa-450c-a255-bd339459ccee",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true Amid a desolate marsh in Romania's Danube Delta, a chilling mist envelops the murky waters, creating an ominous scene. The region's mysteries lure daring adventurers into its secretive embrace. An atmosphere ripe with suspense shrouds the area, akin to a stealthy predator on the prowl. Unveiling hidden dangers and enigmatic stories, this landscape is a realm where risks intertwine with destiny's whims. Photorealistic. Studio light. Shot from above. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.97",
+        "results": "313d783a-8e0a-4e65-ab65-0003323ad290",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:07:17.416Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/313d783a-8e0a-4e65-ab65-0003323ad290/313d783a-8e0a-4e65-ab65-0003323ad290.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/26ef0bb5-65d1-4c56-9758-9ab59961f95a/26ef0bb5-65d1-4c56-9758-9ab59961f95a.png",
+            "https://cl.imagineapi.dev/assets/7bdec255-9e9c-4bb3-8290-48e9b416f041/7bdec255-9e9c-4bb3-8290-48e9b416f041.png",
+            "https://cl.imagineapi.dev/assets/c073e6d1-f50e-4fef-a953-1553d35410a3/c073e6d1-f50e-4fef-a953-1553d35410a3.png",
+            "https://cl.imagineapi.dev/assets/1130a840-006f-4262-8ef0-509fe0137e6c/1130a840-006f-4262-8ef0-509fe0137e6c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1130a840-006f-4262-8ef0-509fe0137e6c",
+            "26ef0bb5-65d1-4c56-9758-9ab59961f95a",
+            "7bdec255-9e9c-4bb3-8290-48e9b416f041",
+            "c073e6d1-f50e-4fef-a953-1553d35410a3"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.97
+}

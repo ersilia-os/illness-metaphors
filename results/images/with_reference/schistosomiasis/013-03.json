@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3d3856fd-7366-426a-a485-a82d17431646",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In a desolate section of the Sahara Desert in Morocco, the arid wasteland reveals a harsh, rugged terrain under the scorching sun. Relentless winds whip coarse sand, enveloping all in a gritty film. This unforgiving landscape, absent of life, emanates isolation and despair, reflecting the ominous danger lurking beneath the surface, poised to harm the unsuspecting. Photorealistic. Harsh light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.27",
+        "results": "b6eccedd-4266-426c-bb9c-a5d65af5874d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:37:48.056Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b6eccedd-4266-426c-bb9c-a5d65af5874d/b6eccedd-4266-426c-bb9c-a5d65af5874d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/0d6b3e94-2cc1-44f6-8900-51e0532394ca/0d6b3e94-2cc1-44f6-8900-51e0532394ca.png",
+            "https://cl.imagineapi.dev/assets/fb758187-f608-42b6-a7a5-d47404780bc9/fb758187-f608-42b6-a7a5-d47404780bc9.png",
+            "https://cl.imagineapi.dev/assets/06f2f164-4eef-46cc-bab7-7afb9f902224/06f2f164-4eef-46cc-bab7-7afb9f902224.png",
+            "https://cl.imagineapi.dev/assets/521cdc16-5abd-466b-8eec-bd025d2ac8e8/521cdc16-5abd-466b-8eec-bd025d2ac8e8.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "06f2f164-4eef-46cc-bab7-7afb9f902224",
+            "0d6b3e94-2cc1-44f6-8900-51e0532394ca",
+            "521cdc16-5abd-466b-8eec-bd025d2ac8e8",
+            "fb758187-f608-42b6-a7a5-d47404780bc9"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.27
+}

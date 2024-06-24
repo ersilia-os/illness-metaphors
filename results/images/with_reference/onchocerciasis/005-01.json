@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "00b1deca-8166-4a77-960a-5ef89952b412",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In Zimbabwe, Southern Africa, the savannah landscape tells a story of enduring turmoil. The scorching sun mirrors a troubled past, while rivers flow carrying tales of hidden anguish. Scarred by historical interventions, the region's plains reflect a blend of tradition and displacement. Communities struggle under stigma, weaving a narrative of resilience amid adversity. Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.86",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T06:22:55.915Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "005",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 1.86
+}

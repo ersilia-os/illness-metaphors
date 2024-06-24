@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "51b0a896-bc8f-4975-9c76-12733703df07",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In the heart of the Congolese rainforest in Africa, a dense and mysterious landscape emerges. The canopy creates intricate patterns of light and shadow amidst twisted vines. Towering trees with coiling roots anchor deeply into the ground. Colorful birds flutter among the branches, singing through the humid air. Below, hidden creatures create a symphony of hums and chirps, blending life with decomposition. Lush vegetation in vibrant colors obstructs any straightforward movement. Bokeh. Natural. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.44",
+        "results": "e4138ef8-9211-4d55-9056-0e80460faa42",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:44:12.467Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e4138ef8-9211-4d55-9056-0e80460faa42/e4138ef8-9211-4d55-9056-0e80460faa42.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3a0f6663-e57a-4118-be86-0d658cb0b126/3a0f6663-e57a-4118-be86-0d658cb0b126.png",
+            "https://cl.imagineapi.dev/assets/0fcc48e8-e79a-4e5a-a1ef-a4c5e1055d1f/0fcc48e8-e79a-4e5a-a1ef-a4c5e1055d1f.png",
+            "https://cl.imagineapi.dev/assets/3fa984df-b094-45e6-806e-37f8cd5547ea/3fa984df-b094-45e6-806e-37f8cd5547ea.png",
+            "https://cl.imagineapi.dev/assets/e604527d-aa1d-4f2a-a18b-f6fd17c2f72b/e604527d-aa1d-4f2a-a18b-f6fd17c2f72b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0fcc48e8-e79a-4e5a-a1ef-a4c5e1055d1f",
+            "3a0f6663-e57a-4118-be86-0d658cb0b126",
+            "3fa984df-b094-45e6-806e-37f8cd5547ea",
+            "e604527d-aa1d-4f2a-a18b-f6fd17c2f72b"
+        ]
+    },
+    "request_name": "013",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 2.44
+}

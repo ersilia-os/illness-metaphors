@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b915f8af-691a-4db5-931a-943dddd67ff2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In a sun-scorched desert landscape in the Middle East, resilient oases bloom like mirages, defying the arid surroundings. Among endless shimmering sands and eternal dunes, the region showcases an enchanting blend of harshness and beauty. Amidst ancient whispers of the wind, life thrives against all odds, creating a timeless symphony in this unforgiving yet mesmerizing terrain of Saudi Arabia's Rub' al Khali desert. Photorealistic. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.67",
+        "results": "3fb5f67a-dce0-4f44-bc72-a7e837688f5b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:30:38.442Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3fb5f67a-dce0-4f44-bc72-a7e837688f5b/3fb5f67a-dce0-4f44-bc72-a7e837688f5b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b28dfd10-9db0-47d2-8444-528646e28e02/b28dfd10-9db0-47d2-8444-528646e28e02.png",
+            "https://cl.imagineapi.dev/assets/1220c3b4-d465-4638-9f4d-9ca96f4f6a3c/1220c3b4-d465-4638-9f4d-9ca96f4f6a3c.png",
+            "https://cl.imagineapi.dev/assets/d8828d41-4029-43f2-bd92-5b347a0594a4/d8828d41-4029-43f2-bd92-5b347a0594a4.png",
+            "https://cl.imagineapi.dev/assets/14705c08-ad76-44e3-a260-3e94ed5c54b7/14705c08-ad76-44e3-a260-3e94ed5c54b7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1220c3b4-d465-4638-9f4d-9ca96f4f6a3c",
+            "14705c08-ad76-44e3-a260-3e94ed5c54b7",
+            "b28dfd10-9db0-47d2-8444-528646e28e02",
+            "d8828d41-4029-43f2-bd92-5b347a0594a4"
+        ]
+    },
+    "request_name": "002",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 1.67
+}

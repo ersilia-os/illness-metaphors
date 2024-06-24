@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5f02ee39-31db-42e2-836a-0583cabc7514",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_bonn2_03.jpg?raw=true In the African rainforest of the Congo Basin, a mysterious landscape emerges. Enveloped in lush greenery, the dense canopy harbors ancient secrets. Sunlight pierces through the intricately woven vines, creating a play of light and shadow on the forest floor. Unseen creatures fill the air with distant calls, enhancing the enigmatic ambiance of this captivating region. Bokeh. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.14",
+        "results": "74442449-1055-4a2e-a4c6-a04a9e839656",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:50:57.823Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/74442449-1055-4a2e-a4c6-a04a9e839656/74442449-1055-4a2e-a4c6-a04a9e839656.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/af6624fe-f8f7-4472-8f74-04298610f3b5/af6624fe-f8f7-4472-8f74-04298610f3b5.png",
+            "https://cl.imagineapi.dev/assets/0d7a3f26-34b7-415c-b797-79c29dbdce59/0d7a3f26-34b7-415c-b797-79c29dbdce59.png",
+            "https://cl.imagineapi.dev/assets/dc0b080a-751c-49b9-bb87-a3aa5c9ea929/dc0b080a-751c-49b9-bb87-a3aa5c9ea929.png",
+            "https://cl.imagineapi.dev/assets/b2c82187-bf28-4dec-93f4-c9518dd8773e/b2c82187-bf28-4dec-93f4-c9518dd8773e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0d7a3f26-34b7-415c-b797-79c29dbdce59",
+            "af6624fe-f8f7-4472-8f74-04298610f3b5",
+            "b2c82187-bf28-4dec-93f4-c9518dd8773e",
+            "dc0b080a-751c-49b9-bb87-a3aa5c9ea929"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "onchocerciasis",
+    "reference_number": "03",
+    "image_weight": 1.14
+}

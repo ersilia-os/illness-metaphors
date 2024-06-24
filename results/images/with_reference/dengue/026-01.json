@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "d0137152-bc33-4e24-a0f9-c85faded0b78",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20206_01.jpg?raw=true In a scorching desert landscape in Australia, vivid crimson reds, sunlit yellows, and deep purples paint the realm. The air thick with warmth carries scents of scorched earth and withered flora. Towering weary trees endure the relentless sun, while birds of prey wheel overhead with piercing screeches. A tumultuous ballet of colors and a fragile equilibrium between existence and survival unfold. Bokeh. Natural. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.56",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T01:50:18.732Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "026",
+    "disease_name": "dengue",
+    "reference_number": "01",
+    "image_weight": 1.56
+}

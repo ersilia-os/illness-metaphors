@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "a9fad6da-c3e9-4bf5-a821-d29312b68c8d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In India's Bihar hills, under the scorching sun and relentless winds, a haunting landscape emerges. Barren flora fights the weathered rocks, mirroring the internal battle within bodies. The region embodies a relentless siege on internal organs, where each individual struggles with enlarged spleens and livers, isolated in pain. This unforgiving terrain in Bihar, India, bears witness to the visceral affliction haunting its residents. Photorealistic. Natural. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.28",
+        "results": "b7387562-dc02-4b52-96fe-8a3a93c4f8c1",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:01:36.965Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b7387562-dc02-4b52-96fe-8a3a93c4f8c1/b7387562-dc02-4b52-96fe-8a3a93c4f8c1.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6c63bb53-77f0-4216-a0be-0666174ba793/6c63bb53-77f0-4216-a0be-0666174ba793.png",
+            "https://cl.imagineapi.dev/assets/72c842a2-c2ad-4cfe-81a6-9e9bc7cf05ed/72c842a2-c2ad-4cfe-81a6-9e9bc7cf05ed.png",
+            "https://cl.imagineapi.dev/assets/6faf3af0-c498-4358-bb1c-dd82c3b81b7a/6faf3af0-c498-4358-bb1c-dd82c3b81b7a.png",
+            "https://cl.imagineapi.dev/assets/773b8059-b343-4949-b6ef-ff70a91fe6de/773b8059-b343-4949-b6ef-ff70a91fe6de.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "6c63bb53-77f0-4216-a0be-0666174ba793",
+            "6faf3af0-c498-4358-bb1c-dd82c3b81b7a",
+            "72c842a2-c2ad-4cfe-81a6-9e9bc7cf05ed",
+            "773b8059-b343-4949-b6ef-ff70a91fe6de"
+        ]
+    },
+    "request_name": "016",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.28
+}

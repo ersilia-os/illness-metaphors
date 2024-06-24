@@ -1,0 +1,27 @@
+{
+    "data": {
+        "id": "098ce328-2eab-4bf2-b1d2-1982d53d8d5c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the tropical rainforest of Costa Rica, Central America, a captivating scene emerges. Enveloped in mist, the lush canopy teems with life. Vibrant greenery embellishes aged boulders by sparkling streams, reflecting the dance of aquatic creatures. Nature's mysteries saturate the air, echoing a melodic exchange between intertwined organisms. These whispers convey stories of renewal amid the misty shroud. Photorealistic. Natural. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.06",
+        "results": "11c765f0-d07a-423e-be55-52b9feaa34f4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:20:30.353Z",
+        "status": "in-progress",
+        "progress": 75,
+        "url": "https://cl.imagineapi.dev/assets/11c765f0-d07a-423e-be55-52b9feaa34f4/11c765f0-d07a-423e-be55-52b9feaa34f4.webp",
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "0a5503d1-c94f-4375-8aa1-462bb4199f08",
+            "11c765f0-d07a-423e-be55-52b9feaa34f4",
+            "456ce6ff-6119-4a29-8508-e7ef13da0d01",
+            "8ca87c45-2072-453f-82fb-5f28e62def59",
+            "9aeb0a11-b95a-437c-bc14-75720dc7d128",
+            "e2d6d998-eadc-4ff2-b9ae-4fe92541d78f"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.06
+}

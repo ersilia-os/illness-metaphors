@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b49084be-b8d1-4d21-81f4-e91a30f21cfa",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In the Sahara Desert, located in Algeria, North Africa, an oasis stands out amid the barren landscape. Sand dunes stretch like waves of desolation, contrasting with resilient palm trees swaying in the scorching wind. The oasis symbolizes hope and freedom, encapsulating a powerful paradox of confinement and escape - a poignant reflection of hidden struggles beneath the serene facade. Photorealistic. Harsh light. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.21",
+        "results": "4b347b3f-daba-4b49-903d-a2afdf453eb5",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:48:18.545Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/4b347b3f-daba-4b49-903d-a2afdf453eb5/4b347b3f-daba-4b49-903d-a2afdf453eb5.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/52ba45d1-a208-432b-8e0a-957018a31deb/52ba45d1-a208-432b-8e0a-957018a31deb.png",
+            "https://cl.imagineapi.dev/assets/41c4da98-0764-4c75-ab61-befbe80f1f34/41c4da98-0764-4c75-ab61-befbe80f1f34.png",
+            "https://cl.imagineapi.dev/assets/6dc94300-873a-4036-b151-6d29e5c16159/6dc94300-873a-4036-b151-6d29e5c16159.png",
+            "https://cl.imagineapi.dev/assets/2809cac9-bd27-4fa0-9123-be3e94edad55/2809cac9-bd27-4fa0-9123-be3e94edad55.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2809cac9-bd27-4fa0-9123-be3e94edad55",
+            "41c4da98-0764-4c75-ab61-befbe80f1f34",
+            "52ba45d1-a208-432b-8e0a-957018a31deb",
+            "6dc94300-873a-4036-b151-6d29e5c16159"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 1.21
+}

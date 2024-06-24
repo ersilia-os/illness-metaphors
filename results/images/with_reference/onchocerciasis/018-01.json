@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "b1fcbe6c-7202-4107-a68e-24cc8e918be5",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_15901_01.jpg?raw=true In the African Sahel region, the arid desert landscape tells tales of ancient civilizations amid colonial legacies. The relentless sun beats down on windswept plains, where rivers flow with hidden histories. Scarred by past interventions, the land reflects enduring community struggles. Amid mistrust and resistance, a narrative of resilience unfolds in this unforgiving terrain in Niger, West Africa. Bokeh. Natural. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.44",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T06:55:21.458Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "018",
+    "disease_name": "onchocerciasis",
+    "reference_number": "01",
+    "image_weight": 2.44
+}

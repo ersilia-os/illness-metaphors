@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "e4b5c5ad-a88c-40cc-9a7b-46f11dde2729",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In the tropical rainforests of Brazil, South America, dense canopies filter sunlight over lush greenery, ancient rocks, and sunlit streams. Life flourishes in this verdant habitat, showcasing a vibrant ecosystem in the heart of the Amazon region. Photorealistic. Studio light. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.11",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T07:05:54.481Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "021",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 2.11
+}

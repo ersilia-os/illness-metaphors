@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "29f9a1d0-571c-4a9c-abbe-7b3245d1a9d0",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010e_07.jpg?raw=true In the tropical region of Madagascar, a scorched and arid landscape unfolds under the intense sun. Tall palms sway in the hot wind, standing guard over the rugged, cracked terrain. Nature's resilience is evident in the echoing wildlife sounds and the weathered architecture. Here, amidst the unforgiving surroundings, the delicate dance between life and death lingers as a haunting reminder. Bokeh. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.02",
+        "results": "1e33c866-b7db-48da-b641-8e7709367542",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:04:40.350Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/1e33c866-b7db-48da-b641-8e7709367542/1e33c866-b7db-48da-b641-8e7709367542.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/46f41ebb-692e-4666-aaa4-7a2f895317e3/46f41ebb-692e-4666-aaa4-7a2f895317e3.png",
+            "https://cl.imagineapi.dev/assets/1484eb5e-6f5c-45ea-86f8-08e64a2be6ab/1484eb5e-6f5c-45ea-86f8-08e64a2be6ab.png",
+            "https://cl.imagineapi.dev/assets/82f180fa-472c-4ca2-ab8b-181987534a61/82f180fa-472c-4ca2-ab8b-181987534a61.png",
+            "https://cl.imagineapi.dev/assets/2f70d2d7-c6ae-4236-a9cf-f829db1e33c3/2f70d2d7-c6ae-4236-a9cf-f829db1e33c3.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1484eb5e-6f5c-45ea-86f8-08e64a2be6ab",
+            "2f70d2d7-c6ae-4236-a9cf-f829db1e33c3",
+            "46f41ebb-692e-4666-aaa4-7a2f895317e3",
+            "82f180fa-472c-4ca2-ab8b-181987534a61"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "dengue",
+    "reference_number": "07",
+    "image_weight": 1.02
+}

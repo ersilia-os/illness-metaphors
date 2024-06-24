@@ -1,0 +1,22 @@
+illness_as_metahpor_themes = [
+    "Metaphor and Stigma",
+    "Illness as a Punishment",
+    "Military Metaphors",
+    "Illness as a Metaphor for Social and Cultural Issues",
+    "Objectivity and Reality of Illness",
+    "Psychosomatic Explanations",
+    "Victim-Blaming",
+    "Fear and Anxiety Surrounding Illness",
+    "Dehumanization of Patients",
+    "The Role of Language in Shaping Perceptions of Illness",
+    "Historical Context of Disease Metaphors",
+    "Illness and Identity",
+    "The Romanticization of Illness",
+    "Control and Power in Medical Discourse",
+    "The Influence of Literature and Art on Perceptions of Illness",
+    "Illness and the Body",
+    "Cultural Variations in Disease Metaphors",
+    "Illness as a Journey or Battle",
+    "The Impact of Illness Metaphors on Public Health Policy",
+    "Psychological Impact of Disease Metaphors on Patients"
+]

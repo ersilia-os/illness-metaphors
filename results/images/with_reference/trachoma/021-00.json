@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2d0ee41a-79f9-47e9-8b3e-a2cc11405ed4",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In Africa's arid deserts, dust envelops ancient villages and sprawling cities under the unforgiving sun. Sharp shadows dance across rooftops resembling spiny sea urchins. An air of desolation and harshness fills the urban landscape, reflecting an unseen affliction silently haunting the populace. Photorealistic. Natural. Shot from below. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.92",
+        "results": "6d26bb58-5b2c-4402-be5d-b2ddd63f80e0",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:19:44.714Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6d26bb58-5b2c-4402-be5d-b2ddd63f80e0/6d26bb58-5b2c-4402-be5d-b2ddd63f80e0.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2d2dd021-7805-4e1f-9fbb-11fce5c25a8f/2d2dd021-7805-4e1f-9fbb-11fce5c25a8f.png",
+            "https://cl.imagineapi.dev/assets/fe362145-70ec-4557-aee1-4650c5e99a31/fe362145-70ec-4557-aee1-4650c5e99a31.png",
+            "https://cl.imagineapi.dev/assets/44194074-c19b-4fb6-b486-fc38209390df/44194074-c19b-4fb6-b486-fc38209390df.png",
+            "https://cl.imagineapi.dev/assets/4aa53809-5f48-45ef-8037-e4e30bd6b968/4aa53809-5f48-45ef-8037-e4e30bd6b968.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2d2dd021-7805-4e1f-9fbb-11fce5c25a8f",
+            "44194074-c19b-4fb6-b486-fc38209390df",
+            "4aa53809-5f48-45ef-8037-e4e30bd6b968",
+            "fe362145-70ec-4557-aee1-4650c5e99a31"
+        ]
+    },
+    "request_name": "021",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.92
+}

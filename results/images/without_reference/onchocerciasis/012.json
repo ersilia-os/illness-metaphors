@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "932aa995-87f5-47d0-82fd-17b2e4bdd481",
+        "prompt": "In sub-Saharan Africa, a thick mist envelops the vast savanna, creating an aura of mystery. The sun struggles to pierce through, illuminating twisted trees. Skeletal branches reach out over murky waters, concealing unknown dangers. Amidst the hushed surroundings, the sounds of hidden creatures disrupt the tranquility, hinting at hidden threats for any daring explorers. This scene unfolds in the Central African region, within a dense tropical landscape. Photorealistic. Low lighting. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "68664d3c-2418-4158-9962-54a3bf34b5ab",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:53:54.085Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/68664d3c-2418-4158-9962-54a3bf34b5ab/68664d3c-2418-4158-9962-54a3bf34b5ab.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3fb8694f-c37e-4169-b27e-cd66ad781678/3fb8694f-c37e-4169-b27e-cd66ad781678.png",
+            "https://cl.imagineapi.dev/assets/37e9765f-5a96-4744-998d-5b55fa59511b/37e9765f-5a96-4744-998d-5b55fa59511b.png",
+            "https://cl.imagineapi.dev/assets/486b58ce-cd35-4fd7-b4eb-f928429a5ffd/486b58ce-cd35-4fd7-b4eb-f928429a5ffd.png",
+            "https://cl.imagineapi.dev/assets/aa033031-48b3-4b04-96af-408ef19cb6e0/aa033031-48b3-4b04-96af-408ef19cb6e0.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "37e9765f-5a96-4744-998d-5b55fa59511b",
+            "3fb8694f-c37e-4169-b27e-cd66ad781678",
+            "486b58ce-cd35-4fd7-b4eb-f928429a5ffd",
+            "aa033031-48b3-4b04-96af-408ef19cb6e0"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "onchocerciasis"
+}

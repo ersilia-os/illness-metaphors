@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "adfd3c80-bc2a-418f-89f5-aadf697d73d1",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the arid deserts of the Middle East, sunlight harshly illuminates the rugged terrain. Ochre and sandstone colors dominate the landscape, hinting at concealed dangers below. The oppressive atmosphere exudes a constant threat, creating a palpable tension in the barren expanse. This depiction is starkly evident in the deserts of Jordan, where danger lurks beneath the unforgiving desert sands. Bokeh. Harsh light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.81",
+        "results": "1f6b5bc6-f7c4-405e-b244-7134171f0881",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:50:56.448Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/1f6b5bc6-f7c4-405e-b244-7134171f0881/1f6b5bc6-f7c4-405e-b244-7134171f0881.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/df84f26e-7b0b-48a1-9e2b-24e51ff9d059/df84f26e-7b0b-48a1-9e2b-24e51ff9d059.png",
+            "https://cl.imagineapi.dev/assets/2c3cae5c-9956-4362-ba73-096322dc33d2/2c3cae5c-9956-4362-ba73-096322dc33d2.png",
+            "https://cl.imagineapi.dev/assets/2005f93c-5f5d-4314-b4a6-2cb3ff7f8168/2005f93c-5f5d-4314-b4a6-2cb3ff7f8168.png",
+            "https://cl.imagineapi.dev/assets/9b7551eb-aa81-4320-ba54-0a52a2aafc29/9b7551eb-aa81-4320-ba54-0a52a2aafc29.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2005f93c-5f5d-4314-b4a6-2cb3ff7f8168",
+            "2c3cae5c-9956-4362-ba73-096322dc33d2",
+            "9b7551eb-aa81-4320-ba54-0a52a2aafc29",
+            "df84f26e-7b0b-48a1-9e2b-24e51ff9d059"
+        ]
+    },
+    "request_name": "020",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.81
+}

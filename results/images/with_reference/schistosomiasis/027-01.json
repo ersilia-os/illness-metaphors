@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "ee916df1-8c63-4eff-92cb-91f9f93b0c5d",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In Sub-Saharan Africa's savanna plains, ancient acacia trees stand tall, embodying resilience with their thorny branches. The red earth exudes a pungent scent under the high sun. Amidst this landscape, wildebeests migrate, rivers meander, and shimmering reflections dance in the sweltering heat. This region, rich in natural beauty, showcases the essence of African wilderness. Photorealistic. Natural. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.05",
+        "results": "28f126b0-03ee-4a71-bbca-efd636c90c72",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:36:16.830Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/28f126b0-03ee-4a71-bbca-efd636c90c72/28f126b0-03ee-4a71-bbca-efd636c90c72.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ff1b9a36-b36c-47b4-aaaf-2bbb40348374/ff1b9a36-b36c-47b4-aaaf-2bbb40348374.png",
+            "https://cl.imagineapi.dev/assets/2188d560-271c-4a97-89a4-474aae4350e6/2188d560-271c-4a97-89a4-474aae4350e6.png",
+            "https://cl.imagineapi.dev/assets/6d9c000d-a597-4c1a-b86b-c860f2a3c5b0/6d9c000d-a597-4c1a-b86b-c860f2a3c5b0.png",
+            "https://cl.imagineapi.dev/assets/3ad3e1f1-243e-4005-b7e8-95415427b09d/3ad3e1f1-243e-4005-b7e8-95415427b09d.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2188d560-271c-4a97-89a4-474aae4350e6",
+            "3ad3e1f1-243e-4005-b7e8-95415427b09d",
+            "6d9c000d-a597-4c1a-b86b-c860f2a3c5b0",
+            "ff1b9a36-b36c-47b4-aaaf-2bbb40348374"
+        ]
+    },
+    "request_name": "027",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.05
+}

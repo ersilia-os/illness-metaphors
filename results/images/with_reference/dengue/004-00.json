@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "348c979e-7525-4b22-ba0e-b92e56fe60b7",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_12493_00.jpg?raw=true In the tropical region of Madagascar, a scorched and arid landscape unfolds under the intense sun. Tall palms sway in the hot wind, standing guard over the rugged, cracked terrain. Nature's resilience is evident in the echoing wildlife sounds and the weathered architecture. Here, amidst the unforgiving surroundings, the delicate dance between life and death lingers as a haunting reminder. Bokeh. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.07",
+        "results": "e92923ab-37b9-4690-901a-d7dfcafff833",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:08:32.719Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e92923ab-37b9-4690-901a-d7dfcafff833/e92923ab-37b9-4690-901a-d7dfcafff833.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c80b0e48-5d78-46d2-964e-1ec7fc489a6e/c80b0e48-5d78-46d2-964e-1ec7fc489a6e.png",
+            "https://cl.imagineapi.dev/assets/1774e057-1400-43eb-971c-abc61773eae7/1774e057-1400-43eb-971c-abc61773eae7.png",
+            "https://cl.imagineapi.dev/assets/d516c676-3aa3-4ff8-b1d0-38871fe76791/d516c676-3aa3-4ff8-b1d0-38871fe76791.png",
+            "https://cl.imagineapi.dev/assets/f34a919c-835c-43d7-9bdb-cddc0e79a571/f34a919c-835c-43d7-9bdb-cddc0e79a571.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1774e057-1400-43eb-971c-abc61773eae7",
+            "c80b0e48-5d78-46d2-964e-1ec7fc489a6e",
+            "d516c676-3aa3-4ff8-b1d0-38871fe76791",
+            "f34a919c-835c-43d7-9bdb-cddc0e79a571"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "dengue",
+    "reference_number": "00",
+    "image_weight": 1.07
+}

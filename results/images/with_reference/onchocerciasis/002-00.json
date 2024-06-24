@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "65cce3aa-9ccf-478f-96ad-09c6c0c8f4ce",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_2779_00.jpg?raw=true In sub-Saharan Africa, vast savannas hold echoes of the past amid a persistent struggle. The sun beats down on the region, still haunted by its colonial history. Rivers meander through the landscape, carrying the weight of ongoing challenges. Displaced communities and resilient individuals leave enduring marks on this afflicted and stigmatized terrain. Amidst this complex tapestry, a story of endurance and resilience unfolds in this distinctive African landscape. Bokeh. Harsh light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.12",
+        "results": "f12e3e56-55d4-4fc1-9c7e-2cda620fc3fc",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:30:32.624Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f12e3e56-55d4-4fc1-9c7e-2cda620fc3fc/f12e3e56-55d4-4fc1-9c7e-2cda620fc3fc.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/22bc92bc-1b38-46b6-8503-268d61314c2f/22bc92bc-1b38-46b6-8503-268d61314c2f.png",
+            "https://cl.imagineapi.dev/assets/11417867-2c5b-4f5b-8796-2f84953fef48/11417867-2c5b-4f5b-8796-2f84953fef48.png",
+            "https://cl.imagineapi.dev/assets/ac7c74af-8132-4d96-b7a7-ea78b36d9491/ac7c74af-8132-4d96-b7a7-ea78b36d9491.png",
+            "https://cl.imagineapi.dev/assets/53b1a181-4079-4120-8568-10dd4f29ab6e/53b1a181-4079-4120-8568-10dd4f29ab6e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "11417867-2c5b-4f5b-8796-2f84953fef48",
+            "22bc92bc-1b38-46b6-8503-268d61314c2f",
+            "53b1a181-4079-4120-8568-10dd4f29ab6e",
+            "ac7c74af-8132-4d96-b7a7-ea78b36d9491"
+        ]
+    },
+    "request_name": "002",
+    "disease_name": "onchocerciasis",
+    "reference_number": "00",
+    "image_weight": 1.12
+}

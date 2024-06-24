@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "3fab220e-67a9-42a8-a877-f376b7c1e2f9",
+        "prompt": "In the African Sahel region, the arid desert landscape tells tales of ancient civilizations amid colonial legacies. The relentless sun beats down on windswept plains, where rivers flow with hidden histories. Scarred by past interventions, the land reflects enduring community struggles. Amid mistrust and resistance, a narrative of resilience unfolds in this unforgiving terrain in Niger, West Africa. Bokeh. Natural. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "2fafcaaa-3fbe-4957-b1cb-5dcc147ddc2c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:09:19.672Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2fafcaaa-3fbe-4957-b1cb-5dcc147ddc2c/2fafcaaa-3fbe-4957-b1cb-5dcc147ddc2c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/58f2b35f-c7d4-4b2b-a6aa-e1eab04bd42c/58f2b35f-c7d4-4b2b-a6aa-e1eab04bd42c.png",
+            "https://cl.imagineapi.dev/assets/544ffaf6-399a-48d9-aaeb-25918295b379/544ffaf6-399a-48d9-aaeb-25918295b379.png",
+            "https://cl.imagineapi.dev/assets/374176ca-da72-4c7d-a2d5-c9e509dea6f7/374176ca-da72-4c7d-a2d5-c9e509dea6f7.png",
+            "https://cl.imagineapi.dev/assets/c81ccd36-6b71-4f84-b161-7c8f1510eb73/c81ccd36-6b71-4f84-b161-7c8f1510eb73.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "374176ca-da72-4c7d-a2d5-c9e509dea6f7",
+            "544ffaf6-399a-48d9-aaeb-25918295b379",
+            "58f2b35f-c7d4-4b2b-a6aa-e1eab04bd42c",
+            "c81ccd36-6b71-4f84-b161-7c8f1510eb73"
+        ]
+    },
+    "request_name": "018",
+    "disease_name": "onchocerciasis"
+}

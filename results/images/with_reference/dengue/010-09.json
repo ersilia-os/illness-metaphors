@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "22f01d97-7c8c-4cb9-ab16-a66fa0a865f3",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In the heart of Brazil's Amazon Rainforest, a dangerous yet stunning landscape thrives. Lush foliage hides lurking danger amidst vibrant petals and subtle whispers. The atmosphere oscillates between gentle caresses and abrupt outbursts, embodying a capricious lover's spirit.Rio, Amazon Rainforest, tropical forest. Photorealistic. Low lighting. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.46",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T07:07:31.763Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have been temporarily blocked from accessing Midjourney.\nThis automatic temporary time out happens on repeated or serious ToS violations.\nYour block ends <t:1719660406:R>",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "010",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 1.46
+}

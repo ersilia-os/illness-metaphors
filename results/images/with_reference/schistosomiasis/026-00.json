@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "4820ca60-efc2-45df-933f-b7b4635ac3ab",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In the Sahel region of Mali, the desert landscape unfolds with red and gold dunes, reflecting a turbulent history of conquest and scars of battles in jagged cliffs and deep ravines. Resilient flora and twisted forms defiantly cling to life, embodying the ancient echoes that whisper tales of loss and endurance in the heavy air. Bokeh. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.09",
+        "results": "ef1baab3-c44e-42fb-b074-591a3082722b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:12:44.829Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ef1baab3-c44e-42fb-b074-591a3082722b/ef1baab3-c44e-42fb-b074-591a3082722b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/3fb91006-0a64-408b-bf8b-4ba860515701/3fb91006-0a64-408b-bf8b-4ba860515701.png",
+            "https://cl.imagineapi.dev/assets/4fc625f5-badb-4626-8742-bc5b61104afb/4fc625f5-badb-4626-8742-bc5b61104afb.png",
+            "https://cl.imagineapi.dev/assets/a29c0683-ac56-4c3d-8536-c66ded2f665a/a29c0683-ac56-4c3d-8536-c66ded2f665a.png",
+            "https://cl.imagineapi.dev/assets/0fb11567-5276-495a-98e0-fd1777331e56/0fb11567-5276-495a-98e0-fd1777331e56.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "0fb11567-5276-495a-98e0-fd1777331e56",
+            "3fb91006-0a64-408b-bf8b-4ba860515701",
+            "4fc625f5-badb-4626-8742-bc5b61104afb",
+            "a29c0683-ac56-4c3d-8536-c66ded2f665a"
+        ]
+    },
+    "request_name": "026",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 2.09
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c0c648c1-1100-4a86-8788-2a5ae222d5b7",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasc_02.jpg?raw=true In Libya, the Sahara Desert unfolds, with sun-scorched dunes intermingling with lush oases, mirroring transient mirages. A delicate equilibrium between life and desolation is depicted under the relentless desert sun, creating a captivating yet haunting beauty that enchants observers even after they have looked away. Photorealistic. Dramatic light. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.4",
+        "results": "02825394-58f3-42d0-b545-63d81dd716d1",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:46:38.413Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/02825394-58f3-42d0-b545-63d81dd716d1/02825394-58f3-42d0-b545-63d81dd716d1.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/01476d1f-a139-43ba-836f-ab78a216cdb0/01476d1f-a139-43ba-836f-ab78a216cdb0.png",
+            "https://cl.imagineapi.dev/assets/633b2f70-0e5e-4b7f-b30d-30f364c8c163/633b2f70-0e5e-4b7f-b30d-30f364c8c163.png",
+            "https://cl.imagineapi.dev/assets/a1a69127-4dad-4dec-a70a-8e28e1d7944a/a1a69127-4dad-4dec-a70a-8e28e1d7944a.png",
+            "https://cl.imagineapi.dev/assets/477ee339-f53e-4128-bed2-ff5f21706273/477ee339-f53e-4128-bed2-ff5f21706273.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "01476d1f-a139-43ba-836f-ab78a216cdb0",
+            "477ee339-f53e-4128-bed2-ff5f21706273",
+            "633b2f70-0e5e-4b7f-b30d-30f364c8c163",
+            "a1a69127-4dad-4dec-a70a-8e28e1d7944a"
+        ]
+    },
+    "request_name": "014",
+    "disease_name": "leishmaniasis",
+    "reference_number": "02",
+    "image_weight": 1.4
+}

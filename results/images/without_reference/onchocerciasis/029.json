@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "07f6e2f7-bb8f-48ca-b04c-7292c5e4d663",
+        "prompt": "In Sub-Saharan Africa's savanna region lies a captivating landscape of contrasts. The air carries hints of hidden perils, while the ground displays a rugged texture, resembling dry, scaly formations. Shaped by the unyielding passage of time, this terrain in Kenya's Great Rift Valley narrates a compelling story of resilience and change, where destruction and creation intertwine in a timeless ballet. Photorealistic. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "e653939c-3eb7-4190-896d-46edcc5e6388",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:02:27.072Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e653939c-3eb7-4190-896d-46edcc5e6388/e653939c-3eb7-4190-896d-46edcc5e6388.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/21ba5b25-120c-4b58-aa02-f3123fff3dac/21ba5b25-120c-4b58-aa02-f3123fff3dac.png",
+            "https://cl.imagineapi.dev/assets/e302b657-e4a9-4415-aeb9-6b8910bb33ef/e302b657-e4a9-4415-aeb9-6b8910bb33ef.png",
+            "https://cl.imagineapi.dev/assets/b9179d35-e26a-4694-acc8-54b977a17f39/b9179d35-e26a-4694-acc8-54b977a17f39.png",
+            "https://cl.imagineapi.dev/assets/97b83042-aa71-450a-9eda-5c251377ea94/97b83042-aa71-450a-9eda-5c251377ea94.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "21ba5b25-120c-4b58-aa02-f3123fff3dac",
+            "97b83042-aa71-450a-9eda-5c251377ea94",
+            "b9179d35-e26a-4694-acc8-54b977a17f39",
+            "e302b657-e4a9-4415-aeb9-6b8910bb33ef"
+        ]
+    },
+    "request_name": "029",
+    "disease_name": "onchocerciasis"
+}

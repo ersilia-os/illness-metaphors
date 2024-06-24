@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "0c9f402f-2e42-4391-9501-df7a54c45611",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010b_04.jpg?raw=true In the vibrant urban hub of Tokyo, Japan, towering skyscrapers dominate the bustling cityscape. Crowded streets bustle with activity as pedestrians move through the vibrant districts. The city pulsates with an electrifying energy, creating a lively atmosphere day and night. Tokyo's metropolitan landscape exudes a contagious vibrancy that defines its captivating essence. Photorealistic. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.28",
+        "results": "b837f78e-71bd-46e2-a2cc-e0283cd78109",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:11:32.998Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b837f78e-71bd-46e2-a2cc-e0283cd78109/b837f78e-71bd-46e2-a2cc-e0283cd78109.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/98012770-f383-4ac5-8000-a68cc792d8ea/98012770-f383-4ac5-8000-a68cc792d8ea.png",
+            "https://cl.imagineapi.dev/assets/22802363-6ac6-41ef-a53a-18e334de3d96/22802363-6ac6-41ef-a53a-18e334de3d96.png",
+            "https://cl.imagineapi.dev/assets/b46ff629-e2b6-4aec-99b9-c0fd30214343/b46ff629-e2b6-4aec-99b9-c0fd30214343.png",
+            "https://cl.imagineapi.dev/assets/ce64a068-c79e-4e30-91e4-7bc93e88d0e9/ce64a068-c79e-4e30-91e4-7bc93e88d0e9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "22802363-6ac6-41ef-a53a-18e334de3d96",
+            "98012770-f383-4ac5-8000-a68cc792d8ea",
+            "b46ff629-e2b6-4aec-99b9-c0fd30214343",
+            "ce64a068-c79e-4e30-91e4-7bc93e88d0e9"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "dengue",
+    "reference_number": "04",
+    "image_weight": 1.28
+}

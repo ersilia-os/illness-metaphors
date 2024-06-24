@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "71f34375-3abd-493f-9427-29df6ae2104c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In sub-Saharan Africa, mist veils the expansive plains. The sun struggles to break through, casting sporadic rays on gnarled trees. Skeletal branches extend over murky waters, stirring shadows where creatures rustle. The eerie silence hints at lurking dangers, adding to the foreboding ambiance of this remote wilderness in Africa's Savannah region. Bokeh. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.58",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T06:34:18.957Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "014",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 1.58
+}

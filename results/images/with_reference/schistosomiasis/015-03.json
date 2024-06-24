@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "4afa115e-492a-4625-870a-5e3383598e15",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the dry expanses of the Nile Delta in Egypt, relentless sunlight beats down on the rugged, sandy terrain, emphasizing its desolate nature. Fine sand grains cling to every surface, while the wind carries whispers of hidden dangers lurking beneath the unforgiving landscape. Photorealistic. Low lighting. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.67",
+        "results": "885647dc-ffc9-4d65-ac94-05bcdb9dcad9",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:03:10.354Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/885647dc-ffc9-4d65-ac94-05bcdb9dcad9/885647dc-ffc9-4d65-ac94-05bcdb9dcad9.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/55f4af6c-2a31-420b-9fbc-0f142fc2a6d6/55f4af6c-2a31-420b-9fbc-0f142fc2a6d6.png",
+            "https://cl.imagineapi.dev/assets/de099472-06db-475d-81ab-9cbbeb565e16/de099472-06db-475d-81ab-9cbbeb565e16.png",
+            "https://cl.imagineapi.dev/assets/8dc080cf-2291-4e9f-bb16-ff8fdfdb24bc/8dc080cf-2291-4e9f-bb16-ff8fdfdb24bc.png",
+            "https://cl.imagineapi.dev/assets/9d799f27-e340-4269-9672-5ce8324c81c6/9d799f27-e340-4269-9672-5ce8324c81c6.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "55f4af6c-2a31-420b-9fbc-0f142fc2a6d6",
+            "8dc080cf-2291-4e9f-bb16-ff8fdfdb24bc",
+            "9d799f27-e340-4269-9672-5ce8324c81c6",
+            "de099472-06db-475d-81ab-9cbbeb565e16"
+        ]
+    },
+    "request_name": "015",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.67
+}

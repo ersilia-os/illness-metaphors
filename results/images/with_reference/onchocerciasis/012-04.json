@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5555b2ed-d8bc-4ac5-a8a5-c4a0e9065a35",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In sub-Saharan Africa, a thick mist envelops the vast savanna, creating an aura of mystery. The sun struggles to pierce through, illuminating twisted trees. Skeletal branches reach out over murky waters, concealing unknown dangers. Amidst the hushed surroundings, the sounds of hidden creatures disrupt the tranquility, hinting at hidden threats for any daring explorers. This scene unfolds in the Central African region, within a dense tropical landscape. Photorealistic. Low lighting. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.25",
+        "results": "03668e53-9422-4d31-a2f2-bb377e87b54e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:34:47.844Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/03668e53-9422-4d31-a2f2-bb377e87b54e/03668e53-9422-4d31-a2f2-bb377e87b54e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b85dee7e-0c4a-4ae1-8d6e-1f977f42b4e5/b85dee7e-0c4a-4ae1-8d6e-1f977f42b4e5.png",
+            "https://cl.imagineapi.dev/assets/efe32a1e-138a-4788-8bff-50e7c26ede09/efe32a1e-138a-4788-8bff-50e7c26ede09.png",
+            "https://cl.imagineapi.dev/assets/77a1aa9e-6cd0-4c32-adab-aec4c4c4a418/77a1aa9e-6cd0-4c32-adab-aec4c4c4a418.png",
+            "https://cl.imagineapi.dev/assets/3425c40a-604a-47bc-af51-ff115f31dd7b/3425c40a-604a-47bc-af51-ff115f31dd7b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "3425c40a-604a-47bc-af51-ff115f31dd7b",
+            "77a1aa9e-6cd0-4c32-adab-aec4c4c4a418",
+            "b85dee7e-0c4a-4ae1-8d6e-1f977f42b4e5",
+            "efe32a1e-138a-4788-8bff-50e7c26ede09"
+        ]
+    },
+    "request_name": "012",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 2.25
+}

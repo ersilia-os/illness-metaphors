@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "0ac0ddcd-652d-48c8-a53f-de65ade9bb7e",
+        "prompt": "In a country in North Africa, the Sahara Desert displays a rugged terrain with weathered lumps resembling ancient ruins, parched under the scorching sun. Time's influence is evident in the land's transformation by molten streams. Historical weight fills the air, echoing whispers of past epochs. Here, the earth reveals poignant marks of time's ceaseless advance, reflecting enduring scars ingrained in its essence. Bokeh. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "8dedcc09-328b-4361-8607-57b0e67bd6c4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:04:36.303Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/8dedcc09-328b-4361-8607-57b0e67bd6c4/8dedcc09-328b-4361-8607-57b0e67bd6c4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/16ccbfd1-01e5-4f76-af2c-56d581aa07d2/16ccbfd1-01e5-4f76-af2c-56d581aa07d2.png",
+            "https://cl.imagineapi.dev/assets/2ead6e5f-84ac-4213-8a4d-988fc2e01118/2ead6e5f-84ac-4213-8a4d-988fc2e01118.png",
+            "https://cl.imagineapi.dev/assets/c76877f0-9442-4142-b97f-694e47309719/c76877f0-9442-4142-b97f-694e47309719.png",
+            "https://cl.imagineapi.dev/assets/c5ca587c-a67e-4e0b-9290-f2ba901edaee/c5ca587c-a67e-4e0b-9290-f2ba901edaee.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "16ccbfd1-01e5-4f76-af2c-56d581aa07d2",
+            "2ead6e5f-84ac-4213-8a4d-988fc2e01118",
+            "c5ca587c-a67e-4e0b-9290-f2ba901edaee",
+            "c76877f0-9442-4142-b97f-694e47309719"
+        ]
+    },
+    "request_name": "016",
+    "disease_name": "onchocerciasis"
+}

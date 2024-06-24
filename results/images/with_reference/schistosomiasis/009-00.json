@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3567913a-1910-470f-925e-8f4eace9c85b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In the vibrant Sub-Saharan swamps of Nigeria, life flourishes in a lush, teeming ecosystem. Thick humidity envelops the scene, as reflections shimmer on the water's surface. A melodic symphony resonates through dense foliage, encapsulating the mysteries and enchantment of this untamed haven. The region boasts a cacophony of existence, a harmonious blend of untold stories waiting to be discovered. Photorealistic. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.75",
+        "results": "3d0ca477-2677-4092-ab7c-c40eb3775b71",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:25:56.054Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3d0ca477-2677-4092-ab7c-c40eb3775b71/3d0ca477-2677-4092-ab7c-c40eb3775b71.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/375034e6-c6c4-4e41-ad8b-a8e91cb2a78f/375034e6-c6c4-4e41-ad8b-a8e91cb2a78f.png",
+            "https://cl.imagineapi.dev/assets/2a12949c-ed82-4a35-bf0b-546b5f031fad/2a12949c-ed82-4a35-bf0b-546b5f031fad.png",
+            "https://cl.imagineapi.dev/assets/891f8050-9117-4409-a5e4-ca2bfef073f4/891f8050-9117-4409-a5e4-ca2bfef073f4.png",
+            "https://cl.imagineapi.dev/assets/b3fd1a7d-ec6f-4055-a714-99e8ce084070/b3fd1a7d-ec6f-4055-a714-99e8ce084070.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2a12949c-ed82-4a35-bf0b-546b5f031fad",
+            "375034e6-c6c4-4e41-ad8b-a8e91cb2a78f",
+            "891f8050-9117-4409-a5e4-ca2bfef073f4",
+            "b3fd1a7d-ec6f-4055-a714-99e8ce084070"
+        ]
+    },
+    "request_name": "009",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 1.75
+}

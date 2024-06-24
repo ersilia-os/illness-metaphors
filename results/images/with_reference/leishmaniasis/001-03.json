@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "19b761c8-aae3-4838-8fcd-75584770c76c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In the lush landscapes of East Africa, where the savannah merges with dense forests, a captivating dance of light and shadow unfolds. Majestic trees interlock like warriors in a struggle, their leaves warding off the sun's intrusion. Shadows persist as a formidable foe, impeding the light's progress. The symphony of cicadas underscores nature's delicate balance between allure and peril. Bokeh. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.06",
+        "results": "b1b613f0-16d8-4d6d-a31a-56b2a419ce9b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:11:30.953Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/b1b613f0-16d8-4d6d-a31a-56b2a419ce9b/b1b613f0-16d8-4d6d-a31a-56b2a419ce9b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f87238c2-c383-4da4-9c75-3fa724778b0a/f87238c2-c383-4da4-9c75-3fa724778b0a.png",
+            "https://cl.imagineapi.dev/assets/24f792c9-dbd4-4b7e-bd71-df8606c29af8/24f792c9-dbd4-4b7e-bd71-df8606c29af8.png",
+            "https://cl.imagineapi.dev/assets/bf16ad14-da2a-4c2c-83ab-5a2854caaefc/bf16ad14-da2a-4c2c-83ab-5a2854caaefc.png",
+            "https://cl.imagineapi.dev/assets/bf6bade5-2f87-47bc-92a7-6c1943420955/bf6bade5-2f87-47bc-92a7-6c1943420955.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "24f792c9-dbd4-4b7e-bd71-df8606c29af8",
+            "bf16ad14-da2a-4c2c-83ab-5a2854caaefc",
+            "bf6bade5-2f87-47bc-92a7-6c1943420955",
+            "f87238c2-c383-4da4-9c75-3fa724778b0a"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.06
+}

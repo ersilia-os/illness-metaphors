@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "65a22033-91d1-4f63-b697-4f8506e76e47",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013_00.jpg?raw=true In the Sahel region of West Africa, a barren landscape stretches far and wide under the relentless sun. Dusty villages are enveloped in arid winds, where women cloaked in vibrant garments congregate amidst swirling dust. Children's somber faces reflect the harsh realities of life, their tears staining dusty cheeks. Despite the hardships, a sense of resilience lingers in the air, echoing the ongoing struggle for survival. Photorealistic. Natural. Shot from below. Canon EOS. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 1.59",
+        "results": "42613cb4-79ff-4356-af4c-0feb178f2503",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:08:38.763Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/42613cb4-79ff-4356-af4c-0feb178f2503/42613cb4-79ff-4356-af4c-0feb178f2503.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/1bd45223-e588-4a31-be91-74b000c906c7/1bd45223-e588-4a31-be91-74b000c906c7.png",
+            "https://cl.imagineapi.dev/assets/38baded0-42b3-4d0a-9dfa-4cb8df3cc47c/38baded0-42b3-4d0a-9dfa-4cb8df3cc47c.png",
+            "https://cl.imagineapi.dev/assets/9ca430df-6c3a-486e-95c7-adfe09bd970e/9ca430df-6c3a-486e-95c7-adfe09bd970e.png",
+            "https://cl.imagineapi.dev/assets/b3e0e3fe-d010-41ac-8d32-5d1e2e431bb2/b3e0e3fe-d010-41ac-8d32-5d1e2e431bb2.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1bd45223-e588-4a31-be91-74b000c906c7",
+            "38baded0-42b3-4d0a-9dfa-4cb8df3cc47c",
+            "9ca430df-6c3a-486e-95c7-adfe09bd970e",
+            "b3e0e3fe-d010-41ac-8d32-5d1e2e431bb2"
+        ]
+    },
+    "request_name": "020",
+    "disease_name": "trachoma",
+    "reference_number": "00",
+    "image_weight": 1.59
+}

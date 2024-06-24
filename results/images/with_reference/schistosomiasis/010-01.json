@@ -1,0 +1,23 @@
+{
+    "data": {
+        "id": "6ee40e86-6001-4e87-9358-12b9a14a8c0c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In tropical Africa, under the scorching sun, a historic landscape emerges. Towering baobab trees and dense foliage line the humid air over still waters. Colonial remnants mingle with neglected villages in a region marked by shadows of the past. Stagnant waters hold lurking dangers, whilst the wind whispers tales of resistance against colonial rule. This is a view of modern-day Africa, in Southern Nigeria, featuring a dense tropical landscape rich in history and cultural significance. Bokeh. Low lighting. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.15",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:38:16.388Z",
+        "status": "in-progress",
+        "progress": 35,
+        "url": null,
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "031ef3f2-0849-4dcb-b0c1-180a1e640415",
+            "ecdc038e-ee70-412d-be9c-a03724850c3b"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 2.15
+}

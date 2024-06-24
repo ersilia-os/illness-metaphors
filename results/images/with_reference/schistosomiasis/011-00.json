@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c59a17db-0077-48be-abd6-9d2d561d507e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In Egypt's Nile Valley, beauty merges with peril akin to ancient hieroglyphs. Once a cradle for pharaohs, now harboring latent threats within. Obscure currents bear hidden dangers like parasitic flatworms, a delicate balance of life and suffering. Riverbanks enveloped by reeds witness an eternal battle against schistosomiasis. The country showcases a captivating landscape tainted by a persistent health menace. Bokeh. Dramatic light. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.06",
+        "results": "dcfaf9b1-d67e-4da7-9756-4f6cf2e79cd4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:12:51.502Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/dcfaf9b1-d67e-4da7-9756-4f6cf2e79cd4/dcfaf9b1-d67e-4da7-9756-4f6cf2e79cd4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/68f1597f-4662-49f8-b06d-39cf6a380997/68f1597f-4662-49f8-b06d-39cf6a380997.png",
+            "https://cl.imagineapi.dev/assets/339c3a0c-016e-438a-b066-58cc21191a4f/339c3a0c-016e-438a-b066-58cc21191a4f.png",
+            "https://cl.imagineapi.dev/assets/7529cd18-c565-4074-9290-224c5722cd70/7529cd18-c565-4074-9290-224c5722cd70.png",
+            "https://cl.imagineapi.dev/assets/07fd7fa2-23d5-4aab-97de-d44ff98fe03b/07fd7fa2-23d5-4aab-97de-d44ff98fe03b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "07fd7fa2-23d5-4aab-97de-d44ff98fe03b",
+            "339c3a0c-016e-438a-b066-58cc21191a4f",
+            "68f1597f-4662-49f8-b06d-39cf6a380997",
+            "7529cd18-c565-4074-9290-224c5722cd70"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 2.06
+}

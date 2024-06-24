@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f9661a3b-6fef-4644-b46b-c26352326984",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010b_04.jpg?raw=true In the tropical region of Madagascar, a scorched and arid landscape unfolds under the intense sun. Tall palms sway in the hot wind, standing guard over the rugged, cracked terrain. Nature's resilience is evident in the echoing wildlife sounds and the weathered architecture. Here, amidst the unforgiving surroundings, the delicate dance between life and death lingers as a haunting reminder. Bokeh. Dramatic light. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.9",
+        "results": "e914dbdc-27f3-49da-941c-5fee1b5f119d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T17:00:17.965Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e914dbdc-27f3-49da-941c-5fee1b5f119d/e914dbdc-27f3-49da-941c-5fee1b5f119d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/cf639208-02c4-43d3-b254-d9599e611761/cf639208-02c4-43d3-b254-d9599e611761.png",
+            "https://cl.imagineapi.dev/assets/b328dde0-0ffd-4920-9e87-b6c9dec04d5c/b328dde0-0ffd-4920-9e87-b6c9dec04d5c.png",
+            "https://cl.imagineapi.dev/assets/16b1c21b-89c8-4c10-b923-595dafbdb0c2/16b1c21b-89c8-4c10-b923-595dafbdb0c2.png",
+            "https://cl.imagineapi.dev/assets/d9cd4b48-a175-4d38-a27d-0d90a735b90b/d9cd4b48-a175-4d38-a27d-0d90a735b90b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "16b1c21b-89c8-4c10-b923-595dafbdb0c2",
+            "b328dde0-0ffd-4920-9e87-b6c9dec04d5c",
+            "cf639208-02c4-43d3-b254-d9599e611761",
+            "d9cd4b48-a175-4d38-a27d-0d90a735b90b"
+        ]
+    },
+    "request_name": "004",
+    "disease_name": "dengue",
+    "reference_number": "04",
+    "image_weight": 1.9
+}

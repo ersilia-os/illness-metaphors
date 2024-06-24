@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5cb7c743-53c2-4503-aa35-ae78e92977a6",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_hisette1930_04.jpg?raw=true In Africa, the Sahel region showcases a landscape of the Niger River Basin. Lush greenery surrounds the winding river, alluding to past civilizations amid environmental challenges. The verdant flora conceals underlying dangers reminiscent of a prevalent issue. Signs of historical governance linger, reflecting exploitation that contributed to present-day struggles. The community resiliently adapts to displacement and cultural changes post-exploitation. Bokeh. Natural. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.25",
+        "results": "6dee314a-2b9c-4eb6-85d2-8c5c1628a437",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:15:05.233Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/6dee314a-2b9c-4eb6-85d2-8c5c1628a437/6dee314a-2b9c-4eb6-85d2-8c5c1628a437.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/56cc2738-ac78-4036-aaab-068ea8a187f0/56cc2738-ac78-4036-aaab-068ea8a187f0.png",
+            "https://cl.imagineapi.dev/assets/8b282e37-0165-4477-b2b6-6fa9fd123ef0/8b282e37-0165-4477-b2b6-6fa9fd123ef0.png",
+            "https://cl.imagineapi.dev/assets/095bb58e-b58c-4ca9-8186-8a347d1f7947/095bb58e-b58c-4ca9-8186-8a347d1f7947.png",
+            "https://cl.imagineapi.dev/assets/73b4a77f-82f2-4427-8745-6d3884061de7/73b4a77f-82f2-4427-8745-6d3884061de7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "095bb58e-b58c-4ca9-8186-8a347d1f7947",
+            "56cc2738-ac78-4036-aaab-068ea8a187f0",
+            "73b4a77f-82f2-4427-8745-6d3884061de7",
+            "8b282e37-0165-4477-b2b6-6fa9fd123ef0"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "onchocerciasis",
+    "reference_number": "04",
+    "image_weight": 1.25
+}

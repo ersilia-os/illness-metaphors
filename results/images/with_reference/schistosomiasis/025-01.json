@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "56d65374-81b1-4e7d-b947-5443e2f87359",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11205_01.jpg?raw=true In the depths of an emerald forest in Brazil's Amazon Rainforest, sinuous rivers meander amidst lush greenery, shrouded in an eerie allure. Shadows play on the dark waters, concealing lurking perils. The dense vegetation traps unsuspecting wanderers, mirroring a sinister presence. The landscape, with its winding rivers, reflects an ominous air of concealed danger, showcasing a menacing charm unique to this region. Photorealistic. Natural. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.67",
+        "results": "2d9b5d57-1fcd-4f1c-bb55-73c976ebef07",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:07:40.428Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2d9b5d57-1fcd-4f1c-bb55-73c976ebef07/2d9b5d57-1fcd-4f1c-bb55-73c976ebef07.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/16486f40-7ea3-46d6-b115-55384516e686/16486f40-7ea3-46d6-b115-55384516e686.png",
+            "https://cl.imagineapi.dev/assets/881c8cb9-5b17-4349-8dda-9e44bbbc8878/881c8cb9-5b17-4349-8dda-9e44bbbc8878.png",
+            "https://cl.imagineapi.dev/assets/a43fb348-bf95-42c0-a025-9f1a77daabe5/a43fb348-bf95-42c0-a025-9f1a77daabe5.png",
+            "https://cl.imagineapi.dev/assets/3d06725d-5123-4a26-b66a-f72702f90ea4/3d06725d-5123-4a26-b66a-f72702f90ea4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "16486f40-7ea3-46d6-b115-55384516e686",
+            "3d06725d-5123-4a26-b66a-f72702f90ea4",
+            "881c8cb9-5b17-4349-8dda-9e44bbbc8878",
+            "a43fb348-bf95-42c0-a025-9f1a77daabe5"
+        ]
+    },
+    "request_name": "025",
+    "disease_name": "schistosomiasis",
+    "reference_number": "01",
+    "image_weight": 1.67
+}

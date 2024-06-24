@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b9593c6b-0ab1-4cb3-8478-5a047f9a0b52",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the tropical rainforest of Costa Rica, Central America, a captivating scene emerges. Enveloped in mist, the lush canopy teems with life. Vibrant greenery embellishes aged boulders by sparkling streams, reflecting the dance of aquatic creatures. Nature's mysteries saturate the air, echoing a melodic exchange between intertwined organisms. These whispers convey stories of renewal amid the misty shroud. Photorealistic. Natural. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.27",
+        "results": "f6ecfa03-abb0-4427-ba42-a30ad60bcbf4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:43:55.062Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f6ecfa03-abb0-4427-ba42-a30ad60bcbf4/f6ecfa03-abb0-4427-ba42-a30ad60bcbf4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/02493122-367b-4d7f-b28d-1b4c21c311cb/02493122-367b-4d7f-b28d-1b4c21c311cb.png",
+            "https://cl.imagineapi.dev/assets/daae0cc6-11cb-46b9-9f0e-ef2f156e0873/daae0cc6-11cb-46b9-9f0e-ef2f156e0873.png",
+            "https://cl.imagineapi.dev/assets/42627f63-f81f-4487-8ecb-e5b9be596fd2/42627f63-f81f-4487-8ecb-e5b9be596fd2.png",
+            "https://cl.imagineapi.dev/assets/28329efc-0c05-4b4d-92ce-806d10843cce/28329efc-0c05-4b4d-92ce-806d10843cce.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "02493122-367b-4d7f-b28d-1b4c21c311cb",
+            "28329efc-0c05-4b4d-92ce-806d10843cce",
+            "42627f63-f81f-4487-8ecb-e5b9be596fd2",
+            "daae0cc6-11cb-46b9-9f0e-ef2f156e0873"
+        ]
+    },
+    "request_name": "017",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.27
+}

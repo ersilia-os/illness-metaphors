@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "f6e91010-23fa-47f7-82dc-a3602e0b43da",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In the fevered delta of Brazil's Amazon Rainforest, lush and entangled, a perilous beauty emerges. Roots ensnare in marshy waters, murky pools reflect thick greenery, concealing hazards. The air buzzes with life and danger\u2014whispers of hidden perils. Amid decay and rebirth, an ominous threat looms, ready to pounce in the humid, buzzing landscape. Bokeh. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.4",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T00:41:51.605Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Timeout after prompt was sent",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "018",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 2.4
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "b6bc6a32-8c79-4d21-a75e-c126d6f8a887",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_11194_00.jpg?raw=true In Sub-Saharan Africa's desert, the barren and rugged land features coarse sand radiating under the scorching sun. The landscape mirrors desolation, unforgiving and harsh. The atmosphere is laden with solitude, reflecting the presence of a lurking threat beneath the surface. This region presents a relentless and inhospitable environment. Bokeh. Harsh light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.15",
+        "results": "1eefc38d-14e3-46bc-8b18-6b85a2008e2c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:13:17.869Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/1eefc38d-14e3-46bc-8b18-6b85a2008e2c/1eefc38d-14e3-46bc-8b18-6b85a2008e2c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/858eea76-ddac-4f5e-ad8e-d5209a35484c/858eea76-ddac-4f5e-ad8e-d5209a35484c.png",
+            "https://cl.imagineapi.dev/assets/eefde13f-690a-40d1-b21a-8739a7b8a683/eefde13f-690a-40d1-b21a-8739a7b8a683.png",
+            "https://cl.imagineapi.dev/assets/1714c6f0-b14f-4081-880e-0809b03ee54f/1714c6f0-b14f-4081-880e-0809b03ee54f.png",
+            "https://cl.imagineapi.dev/assets/1ea4f8d9-e725-459b-9084-09a3610597c7/1ea4f8d9-e725-459b-9084-09a3610597c7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "1714c6f0-b14f-4081-880e-0809b03ee54f",
+            "1ea4f8d9-e725-459b-9084-09a3610597c7",
+            "858eea76-ddac-4f5e-ad8e-d5209a35484c",
+            "eefde13f-690a-40d1-b21a-8739a7b8a683"
+        ]
+    },
+    "request_name": "008",
+    "disease_name": "schistosomiasis",
+    "reference_number": "00",
+    "image_weight": 2.15
+}

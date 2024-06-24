@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "25434468-d3b1-4f7b-a2b1-50b45d68cf92",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010c_05.jpg?raw=true In Southeast Asia's misty valleys, bamboo groves and rice paddies blend with ancient traditions. The landscape features mountains, herbal healers, papaya leaves scenting the air, spiritual marketplaces, and chanting healers. Andrographis paniculata leaves rustle. This region, in a specific country, showcases a unique spiritual and natural harmony. Bokeh. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.6",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T01:21:01.990Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "021",
+    "disease_name": "dengue",
+    "reference_number": "05",
+    "image_weight": 1.6
+}

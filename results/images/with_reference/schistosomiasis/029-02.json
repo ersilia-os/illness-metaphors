@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "ebc7f296-ea2e-4862-9872-64195f9e5967",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the Sahara Desert, located in Algeria, North Africa, an oasis stands out amid the barren landscape. Sand dunes stretch like waves of desolation, contrasting with resilient palm trees swaying in the scorching wind. The oasis symbolizes hope and freedom, encapsulating a powerful paradox of confinement and escape - a poignant reflection of hidden struggles beneath the serene facade. Photorealistic. Harsh light. Landscape photography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.2",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T22:02:32.541Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Timeout after prompt was sent",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "029",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.2
+}

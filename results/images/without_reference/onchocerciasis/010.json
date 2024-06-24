@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "00d33ee6-01a8-4a97-9dea-8bf73a6b427c",
+        "prompt": "In Africa, the Sahel region showcases a landscape of the Niger River Basin. Lush greenery surrounds the winding river, alluding to past civilizations amid environmental challenges. The verdant flora conceals underlying dangers reminiscent of a prevalent issue. Signs of historical governance linger, reflecting exploitation that contributed to present-day struggles. The community resiliently adapts to displacement and cultural changes post-exploitation. Bokeh. Natural. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "69dba837-72f6-4f91-83b4-19d12eb71bb8",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:48:22.132Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/69dba837-72f6-4f91-83b4-19d12eb71bb8/69dba837-72f6-4f91-83b4-19d12eb71bb8.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/7855e9fe-c974-4aaf-a681-36f4d0e385c3/7855e9fe-c974-4aaf-a681-36f4d0e385c3.png",
+            "https://cl.imagineapi.dev/assets/450024ac-d7cb-4863-a0c9-c31e40bff76f/450024ac-d7cb-4863-a0c9-c31e40bff76f.png",
+            "https://cl.imagineapi.dev/assets/63c42542-949b-43a3-80cc-c871e4827ef0/63c42542-949b-43a3-80cc-c871e4827ef0.png",
+            "https://cl.imagineapi.dev/assets/8a369843-2688-4c47-9b7a-b634bf89a89a/8a369843-2688-4c47-9b7a-b634bf89a89a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "450024ac-d7cb-4863-a0c9-c31e40bff76f",
+            "63c42542-949b-43a3-80cc-c871e4827ef0",
+            "7855e9fe-c974-4aaf-a681-36f4d0e385c3",
+            "8a369843-2688-4c47-9b7a-b634bf89a89a"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "onchocerciasis"
+}

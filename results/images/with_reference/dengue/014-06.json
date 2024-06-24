@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "2730e0a4-3bfb-4d61-b85d-dd0da22e515a",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010d_06.jpg?raw=true In the lush tropics of the Amazon Rainforest in Brazil, a dense canopy of tall trees creates a play of light and shadow on the forest floor. The humid and hot air envelops all, hosting a diverse wildlife symphony - exotic birds, mysterious creatures, and distant primal roars. Delving deeper, a nighttime chills sense creeps in, adding to the mystique of the region. Photorealistic. Natural. Macrophotography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.21",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T00:09:04.395Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "014",
+    "disease_name": "dengue",
+    "reference_number": "06",
+    "image_weight": 1.21
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "0ec55325-5763-44c6-82df-78b941e86a47",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the mystical expanse of the Nile Delta in Egypt, murky waters flow among twisted reeds, shrouding mysteries akin to a serpent in shadows. The landscape exudes an enigmatic charm, with an aura teeming with curiosity. A lively yet cryptic ecosystem thrives, masking perils beneath the surface. Here lies a realm of untold truths ready to reveal their mysterious essence to intrepid explorers. . Photorealistic. Studio light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.8",
+        "results": "ea63517b-35b4-443e-966d-b8e17297117c",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T20:53:55.983Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/ea63517b-35b4-443e-966d-b8e17297117c/ea63517b-35b4-443e-966d-b8e17297117c.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/ecd2796d-2f1b-4f7b-b4a1-6b45ab013ba7/ecd2796d-2f1b-4f7b-b4a1-6b45ab013ba7.png",
+            "https://cl.imagineapi.dev/assets/be363a92-793b-4da2-a6d1-8a79b0d102ec/be363a92-793b-4da2-a6d1-8a79b0d102ec.png",
+            "https://cl.imagineapi.dev/assets/152177d9-a2f0-4303-95e0-5feba414db90/152177d9-a2f0-4303-95e0-5feba414db90.png",
+            "https://cl.imagineapi.dev/assets/c92c8499-6419-45f2-a1dc-c499206eb682/c92c8499-6419-45f2-a1dc-c499206eb682.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "152177d9-a2f0-4303-95e0-5feba414db90",
+            "be363a92-793b-4da2-a6d1-8a79b0d102ec",
+            "c92c8499-6419-45f2-a1dc-c499206eb682",
+            "ecd2796d-2f1b-4f7b-b4a1-6b45ab013ba7"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.8
+}

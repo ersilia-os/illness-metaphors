@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7548e1bc-3439-4e37-ad09-ab9e3eeb3deb",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz_09.jpg?raw=true In Southeast Asia's urban setting, bustling alleys, prickly buildings, and narrow passageways create an uneasy atmosphere. Shadows play eerie games, uncertainty thickens the air. Streets throb with restless energy, hiding lurking dangers within the maze of architecture. Each corner whispers secrets, each step unveils risks in this labyrinthine world of hidden perils and unseen threats in a specific country, region, and urban landscape. Photorealistic. Harsh light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.6",
+        "results": "668ee25a-39df-4306-a500-efce29737991",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:57:30.080Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/668ee25a-39df-4306-a500-efce29737991/668ee25a-39df-4306-a500-efce29737991.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/7d39d039-221b-4ec3-b840-7c96bcec7f7e/7d39d039-221b-4ec3-b840-7c96bcec7f7e.png",
+            "https://cl.imagineapi.dev/assets/9296861b-ed2e-47af-955a-87ea8d8dec28/9296861b-ed2e-47af-955a-87ea8d8dec28.png",
+            "https://cl.imagineapi.dev/assets/a3119326-d0b4-4f85-bcb7-370ffa74d927/a3119326-d0b4-4f85-bcb7-370ffa74d927.png",
+            "https://cl.imagineapi.dev/assets/7ef69840-5ead-4d8f-8455-eed04dc527a9/7ef69840-5ead-4d8f-8455-eed04dc527a9.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "7d39d039-221b-4ec3-b840-7c96bcec7f7e",
+            "7ef69840-5ead-4d8f-8455-eed04dc527a9",
+            "9296861b-ed2e-47af-955a-87ea8d8dec28",
+            "a3119326-d0b4-4f85-bcb7-370ffa74d927"
+        ]
+    },
+    "request_name": "003",
+    "disease_name": "dengue",
+    "reference_number": "09",
+    "image_weight": 1.6
+}

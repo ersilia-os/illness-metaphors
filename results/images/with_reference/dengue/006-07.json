@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "051eea4f-a0d3-49b2-9b62-2e6306be9f27",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010e_07.jpg?raw=true In a tropical delta in Malaysia's Sarawak region, the swampy landscape merges land and water, with mud, tangled roots, and shallow waters forming eerie terrains. Dense canopy casting a greenish hue over stagnant pools mirrors the overgrown foliage. Concealed within shadows, dangers hide amidst buzzing insects' symphony. This delicate ecosystem balances decay and rebirth, yet unseen threats loom in the afflicted areas. Photorealistic. Dramatic light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.85",
+        "results": "f67f65b6-6ec7-4c16-8980-e09240b1a531",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:08:45.907Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f67f65b6-6ec7-4c16-8980-e09240b1a531/f67f65b6-6ec7-4c16-8980-e09240b1a531.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/4e2a5b54-b411-4ca5-befe-d9de24694645/4e2a5b54-b411-4ca5-befe-d9de24694645.png",
+            "https://cl.imagineapi.dev/assets/728ae504-dc67-4b08-9acf-7f2d3a901bc2/728ae504-dc67-4b08-9acf-7f2d3a901bc2.png",
+            "https://cl.imagineapi.dev/assets/df4c01de-dc61-4b11-a083-6938fda729d7/df4c01de-dc61-4b11-a083-6938fda729d7.png",
+            "https://cl.imagineapi.dev/assets/851b9c82-616d-4a69-a4ed-016d70cc709e/851b9c82-616d-4a69-a4ed-016d70cc709e.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "4e2a5b54-b411-4ca5-befe-d9de24694645",
+            "728ae504-dc67-4b08-9acf-7f2d3a901bc2",
+            "851b9c82-616d-4a69-a4ed-016d70cc709e",
+            "df4c01de-dc61-4b11-a083-6938fda729d7"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "dengue",
+    "reference_number": "07",
+    "image_weight": 1.85
+}

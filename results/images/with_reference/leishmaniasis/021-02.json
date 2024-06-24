@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "6841619e-5206-42f5-99bf-0698e1cc78fa",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasc_02.jpg?raw=true In the Sahel region of Africa's arid landscape, golden sands shimmer beneath the relentless sun. Thorny acacia trees stand defiantly, while nomadic tribes traverse the harsh territory. Mud-brick villages blend harmoniously with the environment. As night falls, sparse stars twinkle overhead, casting a haunting glow over the troubled land. Bokeh. Dramatic light. Shot from below. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.88",
+        "results": "cc090a03-aaae-4774-89fc-9eb341e17cea",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:14:13.343Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/cc090a03-aaae-4774-89fc-9eb341e17cea/cc090a03-aaae-4774-89fc-9eb341e17cea.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/b86e2e13-d670-44ae-be05-722cf55a3845/b86e2e13-d670-44ae-be05-722cf55a3845.png",
+            "https://cl.imagineapi.dev/assets/ab2c1d49-e798-40a6-9929-b9b6993c1ff0/ab2c1d49-e798-40a6-9929-b9b6993c1ff0.png",
+            "https://cl.imagineapi.dev/assets/faadefab-39c5-4f86-84b1-1a0539bc3523/faadefab-39c5-4f86-84b1-1a0539bc3523.png",
+            "https://cl.imagineapi.dev/assets/fc7b0109-e12b-4fd8-9dda-120aa43724f7/fc7b0109-e12b-4fd8-9dda-120aa43724f7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "ab2c1d49-e798-40a6-9929-b9b6993c1ff0",
+            "b86e2e13-d670-44ae-be05-722cf55a3845",
+            "faadefab-39c5-4f86-84b1-1a0539bc3523",
+            "fc7b0109-e12b-4fd8-9dda-120aa43724f7"
+        ]
+    },
+    "request_name": "021",
+    "disease_name": "leishmaniasis",
+    "reference_number": "02",
+    "image_weight": 1.88
+}

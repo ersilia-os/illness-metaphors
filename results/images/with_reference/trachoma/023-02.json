@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "feb76e8b-076c-4d10-8f28-8277301c160c",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/trachoma_Hu2013b_02.jpg?raw=true In the Sahel region of Africa, vast windswept plains reveal a story of resilience. The sun-baked earth bears witness to life's battle for survival. Serene acacias and mud-brick dwellings stand amidst the stark landscape, under the golden sunset. This delicate balance between destruction and hidden life is a testament to the enduring spirit of the people in this arid environment. Bokeh. Natural. Shallow depth of field. Fujifilm XT. --v 6 --ar 3:2 --no people --relax --weird 0 --iw 2.02",
+        "results": "984fa8da-e302-4b8a-8dc0-466af15c5f36",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:35:18.031Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/984fa8da-e302-4b8a-8dc0-466af15c5f36/984fa8da-e302-4b8a-8dc0-466af15c5f36.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/a80b9e71-8617-4406-a589-da95c07f509f/a80b9e71-8617-4406-a589-da95c07f509f.png",
+            "https://cl.imagineapi.dev/assets/11e9dfb9-e013-4522-b20e-d3c3c914d073/11e9dfb9-e013-4522-b20e-d3c3c914d073.png",
+            "https://cl.imagineapi.dev/assets/7b43699b-5d9e-4e33-8548-124329abaff2/7b43699b-5d9e-4e33-8548-124329abaff2.png",
+            "https://cl.imagineapi.dev/assets/fabf1bef-68b8-467e-80f8-1e3dacba1fc3/fabf1bef-68b8-467e-80f8-1e3dacba1fc3.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "11e9dfb9-e013-4522-b20e-d3c3c914d073",
+            "7b43699b-5d9e-4e33-8548-124329abaff2",
+            "a80b9e71-8617-4406-a589-da95c07f509f",
+            "fabf1bef-68b8-467e-80f8-1e3dacba1fc3"
+        ]
+    },
+    "request_name": "023",
+    "disease_name": "trachoma",
+    "reference_number": "02",
+    "image_weight": 2.02
+}

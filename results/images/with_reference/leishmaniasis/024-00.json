@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c5e8763f-2c21-4773-98b6-51cb6d07fe9e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the arid deserts of North Africa and the Middle East, with their shifting dunes and elusive oases, life teeters on a fragile balance. The scorching heat creates a feverish haze, concealing hidden dangers beneath the sandy expanse. Survival is a relentless battle against the unforgiving elements, echoing the delicate existence shaped by the unseen menace in these lands. Photorealistic. Natural. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.61",
+        "results": "af812f42-4491-4ccc-81d5-41a688316867",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:48:05.241Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/af812f42-4491-4ccc-81d5-41a688316867/af812f42-4491-4ccc-81d5-41a688316867.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2bd7dcd5-44ee-49e7-8636-2c0fd0cf9f19/2bd7dcd5-44ee-49e7-8636-2c0fd0cf9f19.png",
+            "https://cl.imagineapi.dev/assets/b422ece9-d0be-4473-b2a6-7b2d22d3b97f/b422ece9-d0be-4473-b2a6-7b2d22d3b97f.png",
+            "https://cl.imagineapi.dev/assets/a70a5136-2940-40ae-950c-9664e7d5874f/a70a5136-2940-40ae-950c-9664e7d5874f.png",
+            "https://cl.imagineapi.dev/assets/a0a7571f-49c6-47c0-a771-ca25c2d22bf4/a0a7571f-49c6-47c0-a771-ca25c2d22bf4.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2bd7dcd5-44ee-49e7-8636-2c0fd0cf9f19",
+            "a0a7571f-49c6-47c0-a771-ca25c2d22bf4",
+            "a70a5136-2940-40ae-950c-9664e7d5874f",
+            "b422ece9-d0be-4473-b2a6-7b2d22d3b97f"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 1.61
+}

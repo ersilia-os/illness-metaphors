@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "b40c393e-7020-4b68-9df5-85b8dd76ad34",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20798_02.jpg?raw=true In the tropical savanna of Kenya, East Africa, the sun casts vibrant colors across the sky. Heat waves distort the air as tall acacia trees stand resilient. The cracked earth reflects the harsh landscape while wildlife adapts to the echoing rhythms of the savanna. Bokeh. Natural. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.23",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T02:03:46.745Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "029",
+    "disease_name": "dengue",
+    "reference_number": "02",
+    "image_weight": 1.23
+}

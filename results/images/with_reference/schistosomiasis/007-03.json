@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "f8e263a5-2d84-4f3c-9c49-bb93348bad9a",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true In the rural savannah of Kenya, East Africa, rivers wind through ancient communities who coexist with nature's mysteries. The landscape blends harmoniously with pre-colonial traditions, embracing the dual nature of the flowing waters as both a source of sustenance and potential illness. Amidst the whispering palm leaves, traditional healers harness ancient wisdom to navigate these unseen forces of fragility and healing. Bokeh. Harsh light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.21",
+        "results": "84703e08-1670-4fdf-b698-da04ca827057",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:37:29.844Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/84703e08-1670-4fdf-b698-da04ca827057/84703e08-1670-4fdf-b698-da04ca827057.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/87c72c90-7202-459c-893e-7f063eb6c2b4/87c72c90-7202-459c-893e-7f063eb6c2b4.png",
+            "https://cl.imagineapi.dev/assets/fb09fcf4-f61f-42a8-9e2f-8247c0198683/fb09fcf4-f61f-42a8-9e2f-8247c0198683.png",
+            "https://cl.imagineapi.dev/assets/ac04a2c3-966e-4dfb-b06c-266830224919/ac04a2c3-966e-4dfb-b06c-266830224919.png",
+            "https://cl.imagineapi.dev/assets/eecdd859-96c3-467a-aa09-bda6497e17dd/eecdd859-96c3-467a-aa09-bda6497e17dd.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "87c72c90-7202-459c-893e-7f063eb6c2b4",
+            "ac04a2c3-966e-4dfb-b06c-266830224919",
+            "eecdd859-96c3-467a-aa09-bda6497e17dd",
+            "fb09fcf4-f61f-42a8-9e2f-8247c0198683"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 1.21
+}

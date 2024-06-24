@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "2502e34d-bfce-4129-91ec-595d8c615c54",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In Sub-Saharan Africa's savanna plains, ancient acacia trees stand tall, embodying resilience with their thorny branches. The red earth exudes a pungent scent under the high sun. Amidst this landscape, wildebeests migrate, rivers meander, and shimmering reflections dance in the sweltering heat. This region, rich in natural beauty, showcases the essence of African wilderness. Photorealistic. Natural. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.36",
+        "results": "5e9bea9e-68d8-4986-8c9f-8a9ed8dee53b",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:39:50.674Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/5e9bea9e-68d8-4986-8c9f-8a9ed8dee53b/5e9bea9e-68d8-4986-8c9f-8a9ed8dee53b.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/31cae73d-c262-467a-987c-72aa8577f4fc/31cae73d-c262-467a-987c-72aa8577f4fc.png",
+            "https://cl.imagineapi.dev/assets/36fb8bfb-b9ad-46d7-ac85-8fe68d29fe7c/36fb8bfb-b9ad-46d7-ac85-8fe68d29fe7c.png",
+            "https://cl.imagineapi.dev/assets/8719213e-78d2-45ed-ac5b-0bd9c5c1a930/8719213e-78d2-45ed-ac5b-0bd9c5c1a930.png",
+            "https://cl.imagineapi.dev/assets/38eb074f-8668-4c56-8899-c54396ac3f5f/38eb074f-8668-4c56-8899-c54396ac3f5f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "31cae73d-c262-467a-987c-72aa8577f4fc",
+            "36fb8bfb-b9ad-46d7-ac85-8fe68d29fe7c",
+            "38eb074f-8668-4c56-8899-c54396ac3f5f",
+            "8719213e-78d2-45ed-ac5b-0bd9c5c1a930"
+        ]
+    },
+    "request_name": "027",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.36
+}

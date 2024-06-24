@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "899c3c47-bb93-4320-9e63-4ef542c9b581",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010d_06.jpg?raw=true In the vibrant urban hub of Tokyo, Japan, towering skyscrapers dominate the bustling cityscape. Crowded streets bustle with activity as pedestrians move through the vibrant districts. The city pulsates with an electrifying energy, creating a lively atmosphere day and night. Tokyo's metropolitan landscape exudes a contagious vibrancy that defines its captivating essence. Photorealistic. Studio light. Shallow depth of field. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.1",
+        "results": "76a53fae-ddeb-435a-a6a6-bdb362facd78",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:20:38.203Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/76a53fae-ddeb-435a-a6a6-bdb362facd78/76a53fae-ddeb-435a-a6a6-bdb362facd78.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/c6ad2b55-1456-419b-8640-bc066f769f55/c6ad2b55-1456-419b-8640-bc066f769f55.png",
+            "https://cl.imagineapi.dev/assets/98534074-62eb-4d23-876e-d71ec83b9d2e/98534074-62eb-4d23-876e-d71ec83b9d2e.png",
+            "https://cl.imagineapi.dev/assets/02d3a5b6-0724-4e20-9aa8-88a3a5fa8a4f/02d3a5b6-0724-4e20-9aa8-88a3a5fa8a4f.png",
+            "https://cl.imagineapi.dev/assets/fbaf875b-80d4-47b4-ad93-ec494ad9c0da/fbaf875b-80d4-47b4-ad93-ec494ad9c0da.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "02d3a5b6-0724-4e20-9aa8-88a3a5fa8a4f",
+            "98534074-62eb-4d23-876e-d71ec83b9d2e",
+            "c6ad2b55-1456-419b-8640-bc066f769f55",
+            "fbaf875b-80d4-47b4-ad93-ec494ad9c0da"
+        ]
+    },
+    "request_name": "005",
+    "disease_name": "dengue",
+    "reference_number": "06",
+    "image_weight": 2.1
+}

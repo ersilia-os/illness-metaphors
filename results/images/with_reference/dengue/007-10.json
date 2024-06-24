@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "7c2d448f-4c76-4695-8d04-d58c758d432e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In a scorching savanna in Kenya, Africa, a vibrant landscape unfolds with crimson reds, radiant yellows, and opulent purples. The air thickens with warmth and the aroma of scorched earth, as towering trees and weary foliage endure the relentless sun. Raptors pierce the skies with piercing shrieks, blending hues in a fierce ballet of existence, resilience, and submission. Bokeh. Dramatic light. Shot from above. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.28",
+        "results": "e25613fc-d4bd-40ae-a3a1-ce52900a9b8e",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T19:22:58.697Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/e25613fc-d4bd-40ae-a3a1-ce52900a9b8e/e25613fc-d4bd-40ae-a3a1-ce52900a9b8e.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/2c390d34-2082-4778-962d-feb3af5802f0/2c390d34-2082-4778-962d-feb3af5802f0.png",
+            "https://cl.imagineapi.dev/assets/a71e2a33-13d6-48c0-ba56-82114b57f8de/a71e2a33-13d6-48c0-ba56-82114b57f8de.png",
+            "https://cl.imagineapi.dev/assets/5e8a8354-9e2a-4a53-847d-867619c03be3/5e8a8354-9e2a-4a53-847d-867619c03be3.png",
+            "https://cl.imagineapi.dev/assets/de6821d5-8f6c-4cea-b839-e62b7b03fc77/de6821d5-8f6c-4cea-b839-e62b7b03fc77.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2c390d34-2082-4778-962d-feb3af5802f0",
+            "5e8a8354-9e2a-4a53-847d-867619c03be3",
+            "a71e2a33-13d6-48c0-ba56-82114b57f8de",
+            "de6821d5-8f6c-4cea-b839-e62b7b03fc77"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 2.28
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c33c7438-50c0-4d08-b7de-77a80e2212b2",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Colley2007_03.jpg?raw=true Deep in the mysterious marshlands of the Sundarbans, Bangladesh, tangled secrets whisper amid sultry mist. Sinister figures float atop murky waters, while camouflaged creatures prowl with tenacity. Nature's eerie performance is a ballet of shadows and silence, concealing hidden dangers in its humid embrace, mirroring the relentless pursuit of an unknown adversary. Bokeh. Studio light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.18",
+        "results": "3e7d11b5-08a5-45e6-8bf1-737d72f9e1fd",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:01:38.425Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/3e7d11b5-08a5-45e6-8bf1-737d72f9e1fd/3e7d11b5-08a5-45e6-8bf1-737d72f9e1fd.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/8d46d530-5435-49a8-923b-c9feb7cbe6e2/8d46d530-5435-49a8-923b-c9feb7cbe6e2.png",
+            "https://cl.imagineapi.dev/assets/31980d13-dafc-4f3d-8b9f-d8847c7c828c/31980d13-dafc-4f3d-8b9f-d8847c7c828c.png",
+            "https://cl.imagineapi.dev/assets/b6042339-b19d-49e9-ae39-1d98612f5e55/b6042339-b19d-49e9-ae39-1d98612f5e55.png",
+            "https://cl.imagineapi.dev/assets/3b450d61-7202-4310-83a3-1a0684e938e7/3b450d61-7202-4310-83a3-1a0684e938e7.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "31980d13-dafc-4f3d-8b9f-d8847c7c828c",
+            "3b450d61-7202-4310-83a3-1a0684e938e7",
+            "8d46d530-5435-49a8-923b-c9feb7cbe6e2",
+            "b6042339-b19d-49e9-ae39-1d98612f5e55"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "schistosomiasis",
+    "reference_number": "03",
+    "image_weight": 2.18
+}

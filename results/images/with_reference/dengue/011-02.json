@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "f879e7f6-e522-4a9a-9911-0cf826edcc8b",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_20798_02.jpg?raw=true In Southeast Asia, intricate alleys wind through frenzied markets, captivating with vivid hues on people's faces. Anticipation hangs heavy in the air, shadowed by the unseen threat of dengue. This bustling landscape paints a vivid picture in this country's urban region, brimming with diverse culture and energy. Photorealistic. Low lighting. Shot from below. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.56",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T07:07:56.418Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have been temporarily blocked from accessing Midjourney.\nThis automatic temporary time out happens on repeated or serious ToS violations.\nYour block ends <t:1719660406:R>",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "011",
+    "disease_name": "dengue",
+    "reference_number": "02",
+    "image_weight": 1.56
+}

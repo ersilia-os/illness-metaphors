@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": "704f22d7-1952-4b27-bfe9-56cef5fadc91",
+        "prompt": "In Central Africa, along the Ogoou\u00e9 River, ancient villages are frozen in time. Majestic mahogany trees tower high, creating a dense canopy with intertwined vines. Mysterious sounds fill the air while the deep river teems with hidden life. Mud huts blend into the lush landscape, where residents live in harmony with the captivating surroundings. Photorealistic. Studio light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people",
+        "results": "a708c982-a9ba-448b-9087-d642e47b4fc4",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:00:34.227Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/a708c982-a9ba-448b-9087-d642e47b4fc4/a708c982-a9ba-448b-9087-d642e47b4fc4.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/9cdca74e-6b8c-4f7f-926a-58a3e5abd1c0/9cdca74e-6b8c-4f7f-926a-58a3e5abd1c0.png",
+            "https://cl.imagineapi.dev/assets/833db920-8d51-41a4-9cdd-81cf9c688839/833db920-8d51-41a4-9cdd-81cf9c688839.png",
+            "https://cl.imagineapi.dev/assets/cca81ed3-59f9-4cfd-b2ac-92f37db06a00/cca81ed3-59f9-4cfd-b2ac-92f37db06a00.png",
+            "https://cl.imagineapi.dev/assets/d211db9a-a2e8-4c07-bcbb-9cb102945f7f/d211db9a-a2e8-4c07-bcbb-9cb102945f7f.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "833db920-8d51-41a4-9cdd-81cf9c688839",
+            "9cdca74e-6b8c-4f7f-926a-58a3e5abd1c0",
+            "cca81ed3-59f9-4cfd-b2ac-92f37db06a00",
+            "d211db9a-a2e8-4c07-bcbb-9cb102945f7f"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "onchocerciasis"
+}

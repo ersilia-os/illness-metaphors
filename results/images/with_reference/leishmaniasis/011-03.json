@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "c58f2802-06ef-4f9d-85af-543721e9ed22",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasd_03.jpg?raw=true In a primal landscape in Brazil's Amazon Rainforest, shadows flicker through lush green canopies. The earth throbs with life, vibrant fronds enclosing rich soil. Creatures move with ancient grace through this wild labyrinth. The atmosphere hums with a primal energy of survival that underlies every leaf and inhabitant in this untamed jungle paradise. Bokeh. Low lighting. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.28",
+        "results": "f816a97f-2904-42a0-a6cd-49e9b85a737f",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T18:57:29.591Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/f816a97f-2904-42a0-a6cd-49e9b85a737f/f816a97f-2904-42a0-a6cd-49e9b85a737f.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/554f95b5-d594-4766-a144-9a820235bab8/554f95b5-d594-4766-a144-9a820235bab8.png",
+            "https://cl.imagineapi.dev/assets/ee3f38ee-c6ad-4a61-96e1-f6ecdb20330f/ee3f38ee-c6ad-4a61-96e1-f6ecdb20330f.png",
+            "https://cl.imagineapi.dev/assets/8a3fd1b3-3bc4-4da0-b303-c880752c14e4/8a3fd1b3-3bc4-4da0-b303-c880752c14e4.png",
+            "https://cl.imagineapi.dev/assets/15d48888-7410-4796-ab52-8318e3b38e2a/15d48888-7410-4796-ab52-8318e3b38e2a.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "15d48888-7410-4796-ab52-8318e3b38e2a",
+            "554f95b5-d594-4766-a144-9a820235bab8",
+            "8a3fd1b3-3bc4-4da0-b303-c880752c14e4",
+            "ee3f38ee-c6ad-4a61-96e1-f6ecdb20330f"
+        ]
+    },
+    "request_name": "011",
+    "disease_name": "leishmaniasis",
+    "reference_number": "03",
+    "image_weight": 1.28
+}

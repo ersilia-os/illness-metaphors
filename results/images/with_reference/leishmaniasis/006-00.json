@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "e2b8d2a9-95bc-44a7-849c-8a4b51c3d84e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasa_00.jpg?raw=true In the arid Bihar hills of India, the relentless landscape mirrors a battle against visceral leishmaniasis. The scorching sun beats down on rocky terrain with sparse vegetation akin to scars on rocky outcrops. Bodies battle in the feverish heat, bearing enlarged spleens and livers. The haunting presence of this disease besieges internal organs, where life hangs in the balance. Photorealistic. Dramatic light. Wide angle. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.08",
+        "results": "2e269805-4e14-44b5-9c2f-884d41f74379",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T16:27:12.778Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/2e269805-4e14-44b5-9c2f-884d41f74379/2e269805-4e14-44b5-9c2f-884d41f74379.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/5442778f-cd15-484e-be81-7e15e71eca01/5442778f-cd15-484e-be81-7e15e71eca01.png",
+            "https://cl.imagineapi.dev/assets/4319f8af-ec0f-438e-865d-6f3840e80f0b/4319f8af-ec0f-438e-865d-6f3840e80f0b.png",
+            "https://cl.imagineapi.dev/assets/b21eb5ca-0925-49fd-9c7e-81afff67587c/b21eb5ca-0925-49fd-9c7e-81afff67587c.png",
+            "https://cl.imagineapi.dev/assets/352e61c9-b9b5-4426-937b-98c01ed67727/352e61c9-b9b5-4426-937b-98c01ed67727.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "352e61c9-b9b5-4426-937b-98c01ed67727",
+            "4319f8af-ec0f-438e-865d-6f3840e80f0b",
+            "5442778f-cd15-484e-be81-7e15e71eca01",
+            "b21eb5ca-0925-49fd-9c7e-81afff67587c"
+        ]
+    },
+    "request_name": "006",
+    "disease_name": "leishmaniasis",
+    "reference_number": "00",
+    "image_weight": 2.08
+}

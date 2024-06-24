@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "99f6a5b1-a549-4a3f-b168-c2605c469809",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_metz2018b_10.jpg?raw=true In a neglected slum in Dhaka, Bangladesh, the bleak landscape reveals a harsh truth under the unforgiving sun. Decay lingers in the dense air, amid a maze of alleys laden with despair and poverty. Tainted by neglect, the atmosphere carries murmurs of blame and hopelessness. Trapped within this grim reality, shadows and suffering intertwine to imprint lasting scars on the community, perpetuating a cycle of hardship. Photorealistic. Dramatic light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.5",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T01:36:17.172Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "024",
+    "disease_name": "dengue",
+    "reference_number": "10",
+    "image_weight": 1.5
+}

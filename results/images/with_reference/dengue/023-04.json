@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": "02015fcb-015b-468f-a428-be054c1c71d4",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/dengue_atlas2010b_04.jpg?raw=true In Southeast Asia, lush emerald greens dominate the landscape, with heavy air and vibrant foliage in a humid, stagnant setting. The relentless sun casts dancing shadows in this vibrant jungle in the heart of the region. Life pulsates through every leaf, ripple, and breath in this captivating setting found in Southeast Asia. Bokeh. Harsh light. Closeup. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.26",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-24T01:29:38.054Z",
+        "status": "failed",
+        "progress": null,
+        "url": null,
+        "error": "Midjourney message: You have a pending moderation message. Please acknowledge it before using Midjourney further.\nYour account has been temporarily blocked for 5 days due to suspicious activity. Accessing Midjourney via third-party tools or scripting is strictly forbidden and is grounds for a permanent ban..\n\n*Please review Midjourney moderation guidelines [here](https://docs.midjourney.com/docs/community-guidelines)*",
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": []
+    },
+    "request_name": "023",
+    "disease_name": "dengue",
+    "reference_number": "04",
+    "image_weight": 2.26
+}

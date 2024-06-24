@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "bda68723-fbf1-4669-af69-5e35ec5b4d57",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the heart of the Arabian Desert in UAE, relentless sun bears down on red and gold dunes, where ancient conquests' whispers linger. Jagged cliffs and deep ravines bear scars of battles, weaving turbulent histories. Resilient flora defies nature's odds amidst strange beauty. As the sun sets over the rugged landscape, long shadows envelop the scene. Photorealistic. Dramatic light. Closeup. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.29",
+        "results": "65e02fc0-f9b6-4145-9d66-9b12b4c1c07d",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:46:39.570Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/65e02fc0-f9b6-4145-9d66-9b12b4c1c07d/65e02fc0-f9b6-4145-9d66-9b12b4c1c07d.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/e689e6f5-c078-4af2-be16-9289a7c26e34/e689e6f5-c078-4af2-be16-9289a7c26e34.png",
+            "https://cl.imagineapi.dev/assets/cd2970ce-d755-4620-9f52-a07cf335d214/cd2970ce-d755-4620-9f52-a07cf335d214.png",
+            "https://cl.imagineapi.dev/assets/6e1f5a3f-d530-4a15-a758-a2b842cbc34d/6e1f5a3f-d530-4a15-a758-a2b842cbc34d.png",
+            "https://cl.imagineapi.dev/assets/56d0be04-afff-456b-ae9b-320cab36a691/56d0be04-afff-456b-ae9b-320cab36a691.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "56d0be04-afff-456b-ae9b-320cab36a691",
+            "6e1f5a3f-d530-4a15-a758-a2b842cbc34d",
+            "cd2970ce-d755-4620-9f52-a07cf335d214",
+            "e689e6f5-c078-4af2-be16-9289a7c26e34"
+        ]
+    },
+    "request_name": "028",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.29
+}

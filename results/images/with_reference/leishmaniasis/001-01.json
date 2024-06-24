@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "fae2cf60-903e-4c92-b2c1-031cc0799346",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/leishmaniasis_atlasb_01.jpg?raw=true In the lush landscapes of East Africa, where the savannah merges with dense forests, a captivating dance of light and shadow unfolds. Majestic trees interlock like warriors in a struggle, their leaves warding off the sun's intrusion. Shadows persist as a formidable foe, impeding the light's progress. The symphony of cicadas underscores nature's delicate balance between allure and peril. Bokeh. Dramatic light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.23",
+        "results": "efd70202-8774-41e3-8177-4ae36a6c6ceb",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T14:14:47.951Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/efd70202-8774-41e3-8177-4ae36a6c6ceb/efd70202-8774-41e3-8177-4ae36a6c6ceb.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/378f2364-af80-4d6b-848c-9915ca525a58/378f2364-af80-4d6b-848c-9915ca525a58.png",
+            "https://cl.imagineapi.dev/assets/50b35511-69bd-46f4-bdf1-ee50d88a4946/50b35511-69bd-46f4-bdf1-ee50d88a4946.png",
+            "https://cl.imagineapi.dev/assets/6f216a35-ec49-44e7-8628-cfa767194292/6f216a35-ec49-44e7-8628-cfa767194292.png",
+            "https://cl.imagineapi.dev/assets/2b854e44-8f25-4784-8421-feb3f3e3d451/2b854e44-8f25-4784-8421-feb3f3e3d451.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "2b854e44-8f25-4784-8421-feb3f3e3d451",
+            "378f2364-af80-4d6b-848c-9915ca525a58",
+            "50b35511-69bd-46f4-bdf1-ee50d88a4946",
+            "6f216a35-ec49-44e7-8628-cfa767194292"
+        ]
+    },
+    "request_name": "001",
+    "disease_name": "leishmaniasis",
+    "reference_number": "01",
+    "image_weight": 1.23
+}

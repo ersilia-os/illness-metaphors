@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "3c60d06e-a9af-4fd6-a6f9-1a595277850e",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/onchocerciasis_bonn_02.jpg?raw=true In Africa, the Sahel region showcases a landscape of the Niger River Basin. Lush greenery surrounds the winding river, alluding to past civilizations amid environmental challenges. The verdant flora conceals underlying dangers reminiscent of a prevalent issue. Signs of historical governance linger, reflecting exploitation that contributed to present-day struggles. The community resiliently adapts to displacement and cultural changes post-exploitation. Bokeh. Natural. Macrophotography. Canon EOS. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.19",
+        "results": "62951f57-1cc1-4b93-b2e7-f36d961358a0",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:22:48.093Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/62951f57-1cc1-4b93-b2e7-f36d961358a0/62951f57-1cc1-4b93-b2e7-f36d961358a0.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/6f31fbbe-3d30-4a6a-b8ad-eb05b82cf1b0/6f31fbbe-3d30-4a6a-b8ad-eb05b82cf1b0.png",
+            "https://cl.imagineapi.dev/assets/15ddd22c-76d2-4d59-92ad-77329f9fe53a/15ddd22c-76d2-4d59-92ad-77329f9fe53a.png",
+            "https://cl.imagineapi.dev/assets/c7af7e4e-d0d4-45d9-a1a2-37d2add2becd/c7af7e4e-d0d4-45d9-a1a2-37d2add2becd.png",
+            "https://cl.imagineapi.dev/assets/68daab31-df19-4be6-8c67-44bf3ba1d76c/68daab31-df19-4be6-8c67-44bf3ba1d76c.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "15ddd22c-76d2-4d59-92ad-77329f9fe53a",
+            "68daab31-df19-4be6-8c67-44bf3ba1d76c",
+            "6f31fbbe-3d30-4a6a-b8ad-eb05b82cf1b0",
+            "c7af7e4e-d0d4-45d9-a1a2-37d2add2becd"
+        ]
+    },
+    "request_name": "010",
+    "disease_name": "onchocerciasis",
+    "reference_number": "02",
+    "image_weight": 1.19
+}

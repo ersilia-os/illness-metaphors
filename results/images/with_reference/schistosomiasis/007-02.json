@@ -1,0 +1,22 @@
+{
+    "data": {
+        "id": "4f1249a4-23f1-4e73-a576-faa5efea1c42",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true In the rural savannah of Kenya, East Africa, rivers wind through ancient communities who coexist with nature's mysteries. The landscape blends harmoniously with pre-colonial traditions, embracing the dual nature of the flowing waters as both a source of sustenance and potential illness. Amidst the whispering palm leaves, traditional healers harness ancient wisdom to navigate these unseen forces of fragility and healing. Bokeh. Harsh light. Wide angle. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 1.33",
+        "results": null,
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T15:41:23.309Z",
+        "status": "in-progress",
+        "progress": 22,
+        "url": null,
+        "error": null,
+        "upscaled_urls": null,
+        "ref": null,
+        "upscaled": [
+            "904f9834-5bf4-4ebe-a0f8-c8223d0ff265"
+        ]
+    },
+    "request_name": "007",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 1.33
+}

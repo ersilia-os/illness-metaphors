@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "5c576b65-8fbb-46ef-861e-a8ad1e8dc36f",
+        "prompt": "https://github.com/ersilia-os/illness-metaphors/blob/main/data/jpegs/reference/schistosomiasis_Beltran2008_02.jpg?raw=true Deep in the mysterious marshlands of the Sundarbans, Bangladesh, tangled secrets whisper amid sultry mist. Sinister figures float atop murky waters, while camouflaged creatures prowl with tenacity. Nature's eerie performance is a ballet of shadows and silence, concealing hidden dangers in its humid embrace, mirroring the relentless pursuit of an unknown adversary. Bokeh. Studio light. Landscape photography. Fujifilm XT. --v 6 --ar 3:2 --relax --weird 0 --no people --iw 2.2",
+        "results": "adfdfa35-deb3-45e3-b970-2965ed4e0cb3",
+        "user_created": "d3785ab8-68dc-499f-a964-4592b2784adc",
+        "date_created": "2024-06-23T21:03:42.545Z",
+        "status": "completed",
+        "progress": null,
+        "url": "https://cl.imagineapi.dev/assets/adfdfa35-deb3-45e3-b970-2965ed4e0cb3/adfdfa35-deb3-45e3-b970-2965ed4e0cb3.png",
+        "error": null,
+        "upscaled_urls": [
+            "https://cl.imagineapi.dev/assets/f0c0c83f-23e3-481d-9950-e7cdbac0c305/f0c0c83f-23e3-481d-9950-e7cdbac0c305.png",
+            "https://cl.imagineapi.dev/assets/d863755c-4aff-49cc-820d-f4f3488b9752/d863755c-4aff-49cc-820d-f4f3488b9752.png",
+            "https://cl.imagineapi.dev/assets/f617daa1-0872-4330-bb1e-593de53e4d28/f617daa1-0872-4330-bb1e-593de53e4d28.png",
+            "https://cl.imagineapi.dev/assets/b811dfcd-0c8b-4475-8196-cf63245e4c4b/b811dfcd-0c8b-4475-8196-cf63245e4c4b.png"
+        ],
+        "ref": null,
+        "upscaled": [
+            "b811dfcd-0c8b-4475-8196-cf63245e4c4b",
+            "d863755c-4aff-49cc-820d-f4f3488b9752",
+            "f0c0c83f-23e3-481d-9950-e7cdbac0c305",
+            "f617daa1-0872-4330-bb1e-593de53e4d28"
+        ]
+    },
+    "request_name": "024",
+    "disease_name": "schistosomiasis",
+    "reference_number": "02",
+    "image_weight": 2.2
+}
