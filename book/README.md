@@ -23,6 +23,10 @@ Here you can find information about several neglected tropical diseases. We even
 1. **Literary Perspectives**: Descriptions of the landscapes and regions where the diseases are endemic, captured through a literary lens.
 1. **Artistic Interpretations**: Metaphorical associations of the diseases with colors, textures, atmospheres, and other artistic elements to provide a more nuanced understanding.
 
+Based on the text available in this site, we are able to generate images like the following one, where a wetland landscape takes the shape of _Schistosoma mansoni_ pathogen:
+
+![Muddy waters with the shape of _Schistosoma_]()
+
 ## Disclaimers
 
 The intention of this repository is to explore the preconceptions, biases, and other underlying patterns captured by artificial intelligence models. Therefore, Ersilia is not responsible for the content provided here. The repository aims to capture the metaphors and associated themes linked with neglected tropical diseases. The content in this repository should not be interpreted as definitive or comprehensive representations of these diseases or the communities affected by them.
@@ -31,6 +35,7 @@ The intention of this repository is to explore the preconceptions, biases, and o
 
 This project was developed by the [Ersilia Open Source Initiative](https://ersilia.io) during the June 2024 AI Residency at [Konvent](https://konventzero.com/). It is part of our ongoing efforts to promote open-source collaboration and advance research in the field of neglected diseases.
 
-- See [this slide-deck]() explaining our first presentation at Konvent.
+- To learn more about the context of this project, read [this blogpost](XXXXXXXXXXXXXXXX).
+- See [this slide-deck](https://drive.google.com/file/d/1sVgT0LE3cEI5QRrpAPQbxrwdd6Na5fEH/view?usp=sharing) explaining our first presentation at Konvent.
 - To use the associated the code, please see the [ersilia-os/illness-metaphors](https://github.com/ersilia-os/illness-metaphors) GitHub repository.
 - All results associated with this project are available in [this link](https://drive.google.com/file/d/1IMK76RO181YU4yWEze3exAC8SmTVpfdu/view?usp=sharing).
