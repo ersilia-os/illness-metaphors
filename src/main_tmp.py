@@ -11,6 +11,7 @@ from image_prompt_design.from_info import (
     MidjourneyPrompt,
 )
 from imagine.midjourney_api import ImagineApi, PngFetcher
+from word_clouds.clouds import SampleWords
 from utils.converters import InfoJson2Markdown, ImagePromptsJson2Markdown
 from utils.book import PrepareGitBook
 
@@ -40,13 +41,17 @@ class Pipeline(object):
         #ImagineApi(self.disease_name, True, self.results_dir).run()
         PngFetcher(self.disease_name, self.results_dir).run()
 
+    def _word_clouds(self):
+        SampleWords(self.disease_name, self.results_dir).run()
+
     def _prepare_gitbook(self):
         PrepareGitBook(self.results_dir).run()
 
     def run(self):
         #self._agents()
         #self._image_prompts()
-        self._image_generation()
+        #self._image_generation()
+        self._word_clouds()
         self._prepare_gitbook()
 
 

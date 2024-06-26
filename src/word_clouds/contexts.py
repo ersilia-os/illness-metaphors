@@ -1,4 +1,4 @@
-illness_as_metaphors_themes = {
+illness_as_metaphor_themes = {
     "Metaphor and Stigma": "Sontag argues that diseases are often surrounded by metaphors that create stigma, framing illnesses in ways that imply shame or disgrace.",
     "Illness as a Punishment": "Sontag critiques the notion that diseases are seen as punishments for moral or personal failings, which unfairly blames the patient.",
     "Military Metaphors": "Sontag examines how illnesses are described using military language (e.g., 'battling cancer'), suggesting this implies that patients who don't recover are seen as not having fought hard enough.",
