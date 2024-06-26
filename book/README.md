@@ -25,7 +25,7 @@ Here you can find information about several neglected tropical diseases. We even
 
 Based on the text available in this site, we are able to generate images like the following one, where a wetland landscape takes the shape of _Schistosoma mansoni_ pathogen:
 
-![Muddy waters with the shape of _Schistosoma_]()
+![Muddy waters with the shape of _Schistosoma_](https://github.com/ersilia-os/illness-metaphors/blob/main/assets/muddy_waters_schistosoma.jpg?raw=true)
 
 ## Disclaimers
 
