@@ -1,5 +1,6 @@
 # Summary
 
+* [Illness as Metaphor](README.md)
 * [Dengue](info/dengue.md)
   * [Prompts](prompts/dengue.md)
 * [Leishmaniasis](info/leishmaniasis.md)
