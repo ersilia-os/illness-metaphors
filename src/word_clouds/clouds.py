@@ -39,13 +39,15 @@ class SampleWords(WordCloudPrompt):
         data = WordCloudPromptRequest(self.model_name, self.openai_api_key).generate(system_prompt=system_prompt, user_prompt=user_prompt, assistant_prompt=None, word_count=N_WORDS_PER_ROUND)
         return data
 
-    def _sample_many_words(self):
+    def _sample_many_words(self, func=None):
+        if func is None:
+            func = self._sample_words
         name = "word_cloud"
         n_words = 1000
         all_words = set()
         for _ in tqdm(range(N_ROUNDS)):
             theme = random.choice(list(illness_as_metaphor_themes.keys()))
-            data = self._sample_words(theme)
+            data = func(theme)
             try:
                 words = json.loads(data)
             except:
@@ -60,7 +62,29 @@ class SampleWords(WordCloudPrompt):
         all_words = " ".join(all_words)
         print(all_words)
         return {"name": name, "content": all_words}
+    
+    def _sample_words_about_idealised_view_of_africa(self, theme=None):
+        system_prompt = f"""
+        I want you to output a list of {N_WORDS_PER_ROUND} words related to the user's query.
+        I want the output to be a list of words in a format that is JSON serializable. For example:
+        ['word 1', 'word 2', 'word 3', 'word 4', 'word 5']
+        Do not give anything else than this output.
+        """
+        user_prompt = f"Give me words about the idealised view of Africa. Focus on landscape descriptions, wildlife, and freedom. Use the style of writers like Hemingway, Conrad and Kapuscinski."
+        data = WordCloudPromptRequest(self.model_name, self.openai_api_key).generate(system_prompt=system_prompt, user_prompt=user_prompt, assistant_prompt=None, word_count=N_WORDS_PER_ROUND)
+        return data
+
+    def _sample_words_about_dieseae_burden_in_africa(self, theme=None):
+        system_prompt = f"""
+        I want you to output a list of {N_WORDS_PER_ROUND} words related to the user's query.
+        I want the output to be a list of words in a format that is JSON serializable. For example:
+        ['word 1', 'word 2', 'word 3', 'word 4', 'word 5']
+        Do not give anything else than this output.
+        """
+        user_prompt = f"Give me words that describe pathogens affecting Africa. Focus on pathogen descriptions, stigma, societal aspects, poverty, neglect, perils, risks, infection, etc."
+        data = WordCloudPromptRequest(self.model_name, self.openai_api_key).generate(system_prompt=system_prompt, user_prompt=user_prompt, assistant_prompt=None, word_count=N_WORDS_PER_ROUND)
+        return data
 
     def run(self):
-        results = self._sample_many_words()
+        results = self._sample_many_words(self._sample_words_about_dieseae_burden_in_africa)
         print(results)
