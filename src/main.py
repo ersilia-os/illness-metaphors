@@ -52,9 +52,9 @@ class Pipeline(object):
     def run(self):
         self._agents()
         self._word_clouds()
+        self._image_prompts()
         self._prepare_gitbook()
         if self.do_images:
-            self._image_prompts()
             self._image_generation()
 
 

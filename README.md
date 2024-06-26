@@ -3,7 +3,7 @@ This is an experimental repository for content creation using AI tools to captur
 
 - For more information, visit the [GitBook associated to this project](https://ersilia.gitbook.io/illness-as-metaphor). This document contains information on some of the diseases of interest, as well as a high-level explanation of the project.
 - [Download the slide deck](https://drive.google.com/file/d/1sVgT0LE3cEI5QRrpAPQbxrwdd6Na5fEH/view?usp=sharing) containing images generated with the current pipeline.
-- Read this [first blogpost](XXXXXXXXXX) about the project.
+- Read this [first blogpost](https://medium.com/ersiliaio/landscapes-of-disease-acc4f2ef4eb9) about the project.
 
 ## Requirements
 In its current exploratory stage, we used commercial products to access OpenAI and Midjourney services. In particular, you will need access to:
