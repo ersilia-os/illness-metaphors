@@ -1,0 +1,16 @@
+buruli ulcer
+chagas
+chikungunya
+dengue
+dracunculiasis
+echinococcosis
+human african trypanosomiasis
+leishmaniasis
+lepra
+lymphatic filariasis
+mycetoma
+noma
+onchocerciasis
+schistosomiasis
+trachoma
+yaws

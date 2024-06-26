@@ -1,5 +1,9 @@
-python src/main.py --disease_name "trachoma"
-python src/main.py --disease_name "schistosomiasis"
-python src/main.py --disease_name "dengue"
-python src/main.py --disease_name "leishmaniasis"
-python src/main.py --disease_name "onchocerciasis"
+#!/bin/bash
+
+# Path to the file containing the disease names
+DISEASE_FILE="data/diseases.txt"
+
+# Read each disease name from the file and run the Python script
+while IFS= read -r disease; do
+    python src/main.py --disease_name "$disease"
+done < "$DISEASE_FILE"

@@ -1,6 +1,9 @@
 # Summary
 
 * [Illness Metaphors](README.md)
+* [Buruli ulcer](info/buruli_ulcer.md)
+  * [Prompts](prompts/buruli_ulcer.md)
+  * [Word Clouds](word_clouds/buruli_ulcer.md)
 * [Dengue](info/dengue.md)
   * [Prompts](prompts/dengue.md)
   * [Word Clouds](word_clouds/dengue.md)

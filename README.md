@@ -37,7 +37,7 @@ For a given disease of interest, simply run the following code. For example, for
 python src/main.py --disease_name "schistomiasis"
 ```
 
-At the moment, the pipeline is prepared to work for the following diseases:
+At the moment, the pipeline is prepared to work for the following diseases end to end, including image generation:
 - Buruli ulcer
 - Chagas
 - Chikungunya

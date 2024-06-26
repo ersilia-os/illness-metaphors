@@ -18,6 +18,7 @@ from utils.book import PrepareGitBook
 
 class Pipeline(object):
     def __init__(self, disease_name, results_dir, do_images):
+        print("Running pipeline for: {0}".format(disease_name))
         self.disease_name = disease_name
         self.results_dir = results_dir
         self.do_images = do_images
