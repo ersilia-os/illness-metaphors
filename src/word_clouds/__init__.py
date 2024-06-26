@@ -82,7 +82,9 @@ class WordCloudPromptRequest(object):
         self.model_name = model_name
         self.openai_api_key = openai_api_key
 
-    def _bulk_generate(self, system_prompt, user_prompt, assistant_prompt=None, word_count=100):
+    def _bulk_generate(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=100
+    ):
         client = OpenAI(api_key=self.openai_api_key)
         system_prompt = system_prompt.strip().replace("\n", " ").replace("    ", " ")
         messages = [
@@ -100,10 +102,14 @@ class WordCloudPromptRequest(object):
             max_tokens=word_count * 5,
         )
         return response.choices[0].message.content
-    
-    def generate(self, system_prompt, user_prompt, assistant_prompt=None, word_count=100):
+
+    def generate(
+        self, system_prompt, user_prompt, assistant_prompt=None, word_count=100
+    ):
         client = OpenAI(api_key=self.openai_api_key)
-        data = self._bulk_generate(system_prompt, user_prompt, assistant_prompt, word_count)
+        data = self._bulk_generate(
+            system_prompt, user_prompt, assistant_prompt, word_count
+        )
         system_prompt = """
         I will give you a list of words. You need to remove invalid words from this list.
         You need to convert this list to stricly this format (JSON serializable):
@@ -122,6 +128,3 @@ class WordCloudPromptRequest(object):
         )
         data = response.choices[0].message.content
         return data
-
-
-

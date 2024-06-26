@@ -208,7 +208,7 @@ class ImagineApi(object):
         else:
             self.run_without_reference()
         self.clean_non_completed_json_files()
-        
+
 
 class PngFetcher(object):
     def __init__(self, disease_name, results_path=None):
@@ -254,9 +254,7 @@ class PngFetcher(object):
             print(f"Failed to fetch PNG from URL: {url}")
             return False
 
-    def fetch_png_with_reference(
-        self, url, request_name, image_number
-    ):
+    def fetch_png_with_reference(self, url, request_name, image_number):
         png_filename = f"{self.disease_base_name}-{request_name}-{image_number}.png"
         png_file = os.path.join(self.pngs_path_with_reference, png_filename)
         if os.path.exists(png_file):

@@ -21,7 +21,7 @@ class PrepareGitBook(object):
         text = text.capitalize()
         return text
 
-    def _write_summary(self):
+    def _write_summary_and_copy_files(self):
         info_files = {}
         for fn in os.listdir(os.path.join(self.results_dir, "info", "markdown")):
             shutil.copyfile(
@@ -40,13 +40,25 @@ class PrepareGitBook(object):
                 prompt_files[fn.split(".md")[0]] = os.path.join(
                     self.results_dir, "prompts", "markdown", fn
                 )
+        wordcloud_files = {}
+        for fn in os.listdir(os.path.join(self.results_dir, "word_clouds", "markdown")):
+            shutil.copyfile(
+                os.path.join(self.results_dir, "word_clouds", "markdown", fn),
+                os.path.join(self.book_dir, "word_clouds", fn),
+            )
+            if fn.endswith(".md"):
+                wordcloud_files[fn.split(".md")[0]] = os.path.join(
+                    self.results_dir, "word_clouds", "markdown", fn
+                )
         keys = sorted(info_files.keys())
         with open(self.summary_file, "w") as f:
             f.write("# Summary\n\n")
+            f.write("* [Illness Metaphors](README.md)\n")
             for k in keys:
                 t = self._prettify(k)
                 f.write(f"* [{t}](info/{k}.md)\n")
                 f.write(f"  * [Prompts](prompts/{k}.md)\n")
+                f.write(f"  * [Word Clouds](word_clouds/{k}.md)\n")
 
     def run(self):
-        self._write_summary()
+        self._write_summary_and_copy_files()

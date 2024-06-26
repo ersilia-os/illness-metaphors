@@ -18,5 +18,5 @@ illness_as_metaphor_themes = {
     "Cultural Variations in Disease Metaphors": "Sontag examines how different cultures use different metaphors for diseases, highlighting the variability and subjectivity in how illnesses are perceived.",
     "Illness as a Journey or Battle": "Sontag critiques the common metaphors of illness as a journey or battle, arguing they oversimplify the experience and put undue pressure on patients.",
     "The Impact of Illness Metaphors on Public Health Policy": "Sontag discusses how metaphorical thinking can influence public health policies, sometimes leading to misguided or harmful approaches to disease management.",
-    "Psychological Impact of Disease Metaphors on Patients": "Sontag explores the psychological impact of metaphorical language on patients, showing how it can affect their self-perception and emotional well-being."
+    "Psychological Impact of Disease Metaphors on Patients": "Sontag explores the psychological impact of metaphorical language on patients, showing how it can affect their self-perception and emotional well-being.",
 }

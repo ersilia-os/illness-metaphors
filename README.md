@@ -47,6 +47,14 @@ At the moment, the pipeline is prepared to work for the following diseases:
 - Schistosomiasis
 - Trachoma
 
+To generate images in addition to text, you should use the `--images` flag:
+
+```bash
+python src/main.py --disease_name "schistomiasis" --images
+```
+
+Note that image generation does not handle connection breaks and failed requests to ImagineAPI and Midjourney. Therefore, in practice, you probably will have to run the script more than once (for now). Caching is implemented.
+
 ## Precalculated results
 
 You can download precalculated results for dengue, trachoma, onchocerciasis, leishmaniasis and schistosomiasis from [this link](https://drive.google.com/file/d/1IMK76RO181YU4yWEze3exAC8SmTVpfdu/view?usp=sharing), including thousands of images automatically generated.
